@@ -1,10 +1,12 @@
 ## Why Bitcoin-Multilingual
 
-Bitcoin's decentralization is improved as more people around the world have access to information in their own language. As Bitstein says, "Bitcoin is a strange game where the only winning move is to play."
+Bitcoin's decentralization is improved as more people around the world have access to information in their own language. As Bitstein says:
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bitcoin is a strange game where the only winning move is to play. <a href="https://t.co/dKpVK4R1G4">pic.twitter.com/dKpVK4R1G4</a></p>&mdash; Bitstein (@bitstein) <a href="https://twitter.com/bitstein/status/1084919665208504321?ref_src=twsrc%5Etfw">January 14, 2019</a></blockquote> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![Global](global.jpg)
 
 ## Bisq
 
