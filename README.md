@@ -9,6 +9,7 @@ Do the people in other countries know they are in the middle of the game?
 localize-bitcoin aims to ignite Bitcoin's unstoppable global game theory by localizing Bitcoin information and tools into as many languages as possible.
 
 ![Banning Bitcoin Prisoner's Dilemma](banning-bitcoin-prisoners-dilemma.png)
+
 [Parker Lewis: Bitcoin Cannot Be Banned](https://unchained-capital.com/blog/bitcoin-cannot-be-banned/)
 
 Three things everyone around the world should know in their own tongue:
@@ -16,7 +17,7 @@ Three things everyone around the world should know in their own tongue:
 2. Self-custody bitcoin
 3. Run a full node
 
-I once hosted a website called localizebitcoin.com, but since took it offline due to other life responsibilities. But I've re-uploaded my translation memory and terminology data to this repository. The links below are somewhat outdated, but direct translators to worthwhile Bitcoin development projects.
+I once hosted a website called localizebitcoin.com, but since took it offline due to other life responsibilities. But I've re-uploaded my translation memory and terminology data to this repository. The links below help translators find worthwhile Bitcoin projects to work on, as well as help others find Bitcoin resources in their own language.
 
 ![Bitnodes](bitnodes.png)
 
