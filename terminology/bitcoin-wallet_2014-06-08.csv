@@ -1,0 +1,55 @@
+term,pos,comment,ar,be_BY,bg,ca,cs,cy,da,el,eo,es,eu,fa,fi,fil,fr,he,hi_IN,hr,hu,id,it,ja,km_KH,ko,mk,ms,nb,nl,pl,pt_BR,pt_PT,ro,ru,sk,sl_SI,sq,sv,sw,th,tr,uk,uz@Latn,vi,zh,zh_TW
+Address,Noun,,,,,Adreça,Adresa,,,Διεύθυνση,,,,,,,adresse,,,,,,,アドレス,,,,,,Adres,,,Endereço,,,,,,,,,,,,,,位址
+BItcoin address,Noun,,,,,,Bitcoinová adresa,,,,,,,,,,,,,,,,,,,,,,,Bitcoinadres,,,endereço Bitcoin,,,,,,,,,,,,,,
+Balance,Adverb,,,,,Balanç,Zůstatek,,,,,,,,,,,,,,,,,,,,,,,Balans,,,Saldo,,,,,,,,,,,,,,
+Bitcoin,Noun,,,,,Bitcoin,Bitcoin,,,Bitcoin,,,,,,,bitcoin,,,,,,,ビットコイン,,,,,,Bitcoin,,,Bitcoin,,,,,,,,,,,,,,Bitcoin
+Bitcoin Wallet,Noun,,,,,,,,,,,,,,,,,,,,,,,Bitcoin Wallet,,,,,,,,,Bitcoin Wallet,,,,,,,,,,,,,,
+Bitcoins,Noun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bitcoins,,,,,,,,,,,,,,
+Download,Noun,,,,,,Uložit,,,,,,,,,,,,,,,,,,,,,,,Download,,,"Transferência, Carregamento",,,,,,,,,,,,,,
+Download,Verb,,,,,,Uložit,,,,,,,,,,,,,,,,,,,,,,,Download,,,"Transferir, Carregar",,,,,,,,,,,,,,
+Exchange rate,Noun,,,,,Tipus de canvi,Sazba za směnu,,,Ισοτιμία,,,,,,,taux de change,,,,,,,為替レート,,,,,,Wisselkoers,,,,,,,,,,,,,,,,,匯率
+PIN,Noun,,,,,,,,,,,,,,,,,,,,PIN kód,,,,,,,,,pincode,,,,,,,,,,,,,,,,,
+Wallet,Noun,,,,,Cartera,,,,,,,,,,,porte-monnaie,,,,,,,ウォレット,,,,,,,,,Carteira,,,,,,,,,,,,,,Wallet
+address,Noun,,,,,,Adresa,,,,,,,,,,,,,,,,,,,,,,,adres,,,endereço,,,,,,,,,,,,,,
+address book,Noun,,,,,Llibreta d'adreces,,,,Βιβλίο διευθύνσεων,,,,,,,carnet d'adresses,,,,,,,アドレスブック,,,,,,Adresboek,,,livro de endereços,,,,,,,,,,,,,,位址簿
+addresses,Noun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,endereços,,,,,,,,,,,,,,
+app,Noun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,aplicação,,,,,,,,,,,,,,
+balance,Noun,"mablag'   ,   hisob ,  ",,,,balanç,Zůstatek,,,υπόλοιπο,,,,,,,solde,,,,,,,残高,,,,,,saldo,,,saldo,,,,,,,,,,,,,,餘額
+block chain,Noun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cadeia de blocos,,,,,,,,,,,,,,
+blockchain,Noun,,,,,cadena de blocs,blockchain,,,,,,,,,,chaîne de blocs,,,,,,,ブロックチェーン,,,,,,blokketen,,,,,,,,,,,,,,,,,區塊鏈
+blocks,Noun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,blocos,,,,,,,,,,,,,,
+broadcasted,,,,,,transmès,Vysíláno,,,,,,,,,,diffusé,,,,,,,拡散(された)/送信(された),,,,,,verzonden,,,,,,,,,,,,,,,,,廣播
+confirm,Verb,,,,,confirmar,Potvrdit,,,,,,,,,,confirmer,,,,,,,確認する,,,,,,,,,confirmar,,,,,,,,,,,,,,確認
+confirmation,Noun,,,,,confirmació,Potvrzení,,,επιβεβαίωση,,,,,,,confirmation,,,,,,,確認,,,,,,,,,confirmação,,,,,,,,,,,,,,確認
+default,,,,,,per defecte,Přednastavený,,,,,,,,,,par défaut,,,,,,,既定,,,,,,standaard,,,,,,,,,,,,,,,,,預設(值)
+device,,,,,,,Zařízení,,,,,,,,,,,,,,,,,デバイス,,,,,,apparaat,,,dispositivo,,,,,,,,,,,,,,
+encrypt,Verb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,encriptar,,,,,,,,,,,,,,
+failed,,,,,,va fallar,Selhalo,,,απέτυχε,,,,,,,échoué,,,,,,,失敗した,,,,,,mislukt,,,,,,,,,,,,,,,,,失敗
+failed,Verb,,,,,ha fallat,Selhalo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ff6dab8 ,Adjective,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ff6dab8,polski,,,,,,,,,,,,,,,,
+invalid,,,,,,invàlid,Neplatný,,,,,,,,,,invalide,,,,érvénytelen,,,無効な,,,,,,ongeldig,,,,,,,,,,,,,,,,,無效
+key,Noun,,,,,clau,Klíč,,,,,,,,,,clé,,,,,,,,,,,,,sleutel,,,,,,,,,,,,,,,,,鑰(匙)
+mined,,,,,,minat,Vytěženo,,,,,,,,,,miné,,,,,,,採掘(した),,,,,,,,,,,,,,,,,,,,,,,開採出來
+mining,,,,,,,Težba,,,,,,,,,,,,,,,,,採掘,,,,,,,,,,,,,,,,,,,,,,,
+network fee,Noun,,,,,,Manipulační poplatek,,,,,,,,,,,,,,hálózati díj,,,ネットワーク手数料,,,,,,netwerkkosten,,,taxa de rede,,,,,,,,,,,,,,
+paper wallet,,,,,,,Papírová peněženka,,,,,,,,,,,,,,,,,,,종이 지갑,,,,,,,,,,,,,,,,,,,,,
+paper wallet,Noun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,carteira de papel,,,,,,,,,,,,,,
+password,Noun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,wachtwoord,,,palavra-passe,,,,,,,,,,,,,,
+payee,,,,,,beneficiari,,,,δικαιούχος,,,,,,,bénéficiaire du paiement,,,,"kedvezményezett, címzett",,,受取人,,,,,,begunstigde,,,,,,,,,,,,,,,,,收款人
+payment,,,,,,pagament,,,,πληρωμή,,,,,,,,,,,,,,支払い,,,,,,betaling,,,,,,,,,,,,,,,,,款項
+payment,Noun,,,,,,,,,,,,,,,,paiement,,,,,,,送金,,,,,,,,,,,,,,,,,,,,,,,
+payment request,,,,,,sol·licitud de pagament,,,,,,,,,,,demande de paiement,,,,,,,支払いリクエスト,,,,,,betalingsverzoek,,,,,,,,,,,,,,,,,請款
+peer,Noun,,,,,parell,,,,,,,,,,,pair,,,,,,,ピア,,,,,,,,,par,,,,,,,,,,,,,,節點
+peers,Noun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pares,,,,,,,,,,,,,,
+pocket,Noun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bolso,,,,,,,,,,,,,,
+reload,,,,,,recarregar,,,,,,,,,,,recharger,,,,,,,リロード,,,,,,verversen,,,,,,,,,,,,,,,,,重新載入
+replay,Noun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,repetição,,,,,,,,,,,,,,
+report,Verb,,,,,informar,,,,,,,,,,,signaler,,,,,,,報告,,,,,,,,,,,,,,,,,,,,,,,回報
+reset,Verb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,reiniciar,,,,,,,,,,,,,,
+restore,Verb,,,,,restaurar,,,,επαναφορά,,,,,,,restaurer,,,,,,,復元する,,,,,,,,,,,,,,,,,,,,,,,復原
+reward,,,,,,,,,,,,,,,,,,,,,,,,報酬,,,,,,,,,,,,,,,,,,,,,,,
+spending PIN,,,,,,,,,,,,,,,,,,,,,költekezési PIN kód,,,送金用PIN,,,,,,,,,,,,,,,,,,,,,,,
+transactions,Noun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,transações,,,,,,,,,,,,,,
+verify,Verb,,,,,verificar,,,,,,,,,,,vérifier,,,,,,,検証,,,,,,,,,,,,,,,,,,,,,,,驗證
+wallet,Noun,,,,,cartera,,,,πορτοφόλι,,,,,,,porte-monnaie,,,,,,,ウォレット,,,,,,portemonnee,,,carteira,,,,,,,,,,,,,,錢包
+wallet (n),Noun,,,,,moneder,,,,,,,,,,,porte-monnaie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
