@@ -1,0 +1,104 @@
+Maailma herää Bitcoiniin
+
+Ei kovin kauan sitten Bitcoin ei kiinnostanut juuri ketään. Kryptograafikot, kypherpunkit ja jotkut libertaarit olivat ainoat taianomaisesta internet-rahasta kiinnostuneet ihmiset.
+
+Pikakelaus tähän päivään. Yhdysvaltain presidentti, valtiovarainministeri, Yhdysvaltain keskuspankin pääjohtaja, kongressin jäsenet ja Yhdysvaltain kongressin jäsenet puhuvat julkisesti Bitcoinista — kaikki parin päivän kuluessa.
+
+Elämme nyt maailmassa, jossa “on Bitcoin, ja sitten on kakkakolikko” on ikuistettu kongressin pöytäkirjoihin, Yhdysvaltain keskuspankki tunnustaa Bitcoinin “vaihtoehtona kullalle” ja “arvon säilyttäjänä” ja ainakin eräs uutisankkuri on Bitcoin-herännäinen.
+
+Kun Bitcoin jatkaa hiipimistään julkiseen tietoisuuteen, yhä useammat ihmiset — poliitikot ja uutisankkurit — joutuvat kysymään itseltään joitakin vaikeita kysymyksiä rahasta, valvonnasta ja Bitcoinin ja kakkakolikoiden välisestä erosta. Valtion liikkeeseen laskema tai ei.
+
+
+Maailma herää Bitcoiniin ja keskustelut, jotka rajoittuivat #BitcoinTwitteriin, ovat nyt laajentuneet julkisuuteen. Mahtavaa olla elossa.
+
+Bitcoinin ymmärtäminen kolmessa vaiheessa
+Bitcoin on melko monimutkainen otus, joka yhdistää monia tieteenaloja merkityksellisillä tavoilla. Vie jonkin aikaa ymmärtää, mitä se tekee, miten se toimii ja mitä seurauksia sillä on.
+
+Monet ihmiset hylkäävät Bitcoinin aluksi. He saattavat ajatella, että se on tyhmä, väittäen, ettei se voi koskaan toimia. He saattavat ajatella Bitcoinin olevan tehoton. He ovat vakuuttuneita siitä, että joku satunnainen kakkakolikko voi ratkaista saman ongelman tehokkaammin. He saattavat ajatella, että se on villitys, taianomaista internet-rahaa, joka katoaa hetken kuluttua.
+
+Bitcoinin hylkäämisen jälkeen hän saattaa vihaisesti myöntää, että se on edelleen jotain, saatat ehkä yrittää julistaa sen laittomaksi. Varsinkin jos olet tai olet lähellä rahanluontibisnestä. Kielto osoittautuu tietenkin tehottomaksi. Bitcoin on maailmanlaajuinen ilmiö, ja sen kieltäminen omalla lainkäyttöalueellasi vahingoittaa sinua, ei Bitcoinia.
+
+Kolmas vaihe on sen ymmärtäminen, että Bitcoinin pysäyttäminen on valtava tehtävä, lähes mahdoton. Päättömän pedon tappaminen on jo tarpeeksi vaikeaa. Vielä ikävämpää on, että tämä erityinen peto elää kyberavaruudessa, sitä ei lainkäyttövalta sido, ihmisen ahneus ruokkii sitä ja se vahvistuu jokaisen hyökkäyksen myötä.
+
+Viimeisen muutaman viikon aikana nähtiin kaikki kolme vaihetta. Ne tapahtuivat yhdellä kertaa erilaisissa julkisissa kuulemisissa ja keskusteluissa.
+
+“En ole Bitcoin-fani”
+“Meidän on kiellettävä Bitcoin”
+“Et voi tappaa Bitcoinia”
+Tarkastellaan näitä vaiheita yksi kerrallaan.
+
+Vaihe 1: “En ole Bitcoin-fani”
+Maailman mahtavin Oranssi mies jakoi mielipiteensä maailman mahtavimmasta Oranssista kolikosta twiitissään 12. heinäkuuta 2009 yli 62 miljoonalle seuraajalleen.
+
+
+Mitä tämä tarkoittaa Bitcoinille? Ilmaista julkisuutta, ei paljon muuta. Oranssi mesimäyrä ei edelleenkään välitä politiikasta ja näin ollen Bitcoin-verkko tuottaa edelleen mielellään lohkoja, oli sillä presidentin hyväksyntää tai ei.
+
+Bitcoinille ei ole huonoa julkisuutta, joten ainoa asia, joka voi tapahtua, on se, että tietty prosentti näistä 62 miljoonasta seuraajasta — joista osa ei epäilemättä ollut koskaan kuullutkaan Bitcoinista ennen tätä — putoaa kaninreikään.
+
+Yksi ihminen, joka näyttää sairastavan lievää oranssikuumetta on Joe Squawk, joka tuotti meille tämän mielettömän valoisan reaktion Trumpin twiittiin.
+
+
+“Luulen, että voisin osoittaa [Bitcoinin valoisan tulevaisuuden], jos antaisit minulle 10–15 minuuttia Trumpin kanssa.” “Voisit vakuuttaa hänet kryptovaluutoista?” “Bitcoinista”
+Kuten edellä mainittiin, Yhdysvaltain presidentti ei ollut ainoa, joka on kommentoinut Bitcoinia äskettäin. Yhdysvaltain keskuspankin pääjohtaja yritti parhaansa mukaan kertoa kaikille, että Bitcoinia ei käytä kukaan, paitsi että ihmiset käyttävät sitä kullan tavoin arvon säilyttäjänä.
+
+
+Siltä varalta, että et nähnyt tärkeää osuutta:
+
+Jos kryptovaluuttajärjestelmä yleistyisi ympäri maailmaa, vähentäisikö se vai poistaisiko se tarpeen varantovaluutalle sen perinteisessä merkityksessä? Tämä on mahdollista. Mutta emme todellakaan ole nähneet tätä. Emme ole nähneet laajaa käyttöönottoa. Tarkoitan, että Bitcoin on hyvä esimerkki. Oikeastaan melkein kukaan ei käytä Bitcoinia maksamiseen. He käyttävät sitä ennemmin vaihtoehtona kullalle. Se on arvon säilyttäjä. Se on kullan tavoin spekulatiivinen arvon säilyttäjä.
+
+— Jerome H. Powell
+
+Sallikaa minun muotoilla edellä mainittu uudelleen, niin päästään asian ytimeen.
+
+Kysymys: Jos hyperbitcoinisaatio tapahtuisi, tekisikö se Yhdysvaltain keskuspankista turhan?
+Yhdysvaltain keskuspankin pääjohtajan vastaus: Kyllä.
+Selvä. Nyt, kun Bitcoinin aiheuttama vaara vallanpitäjille ymmärretään oikein, voimme siirtyä seuraavaan Bitcoinin ymmärtämisen vaiheeseen: yritetään kieltää se.
+
+Vaihe 2: “Meidän on kiellettävä Bitcoin”
+Eräs Yhdysvaltain kongressin jäsen kehotti muutamaa viikkoa ennen presidentti Trumpin twiittiä kieltämään kaikki kryptovaluutat.
+
+Mitä merkitystä tällä on Bitcoinille? Ensinnäkin, Bitcoin on Yhdysvaltain lainsäädäntöä suurempi, ja toiseksi lait eivät ole kovin tehokkaita, jos niitä ei voida panna täytäntöön mielekkäästi.
+
+“Meidän on kiellettävä Bitcoin” -aloituspuheen jälkeen tapahtui kuitenkin jotain taianomaista. Näyttää siltä, että tämä nimenomainen kongressiedustaja ymmärtää Bitcoinia melko hyvin, koska hän esitteli, puolusti Bitcoinia paremmin kuin yksikään maksimalisti.
+
+Katso alta, kun edustaja Chad Shillman selittää Bitcoinin arvolupauksen alle minuutissa.
+
+
+Kun arvolupaus ymmärretään oikein, viimeinen vaihe on ymmärtää Bitcoinin hajautettu luonne.
+
+Vaihde 3: “Et voi tappaa Bitcoinia”
+Eräs Bitcoinin ymmärtämisen sivuvaikutuksista on nöyrä ja syvällinen käsitys siitä, että sitä on lähes mahdotonta sammuttaa. Tätä petoa on hemmetin vaikea tappaa, ja kun ymmärrät tämän, sinulla on kaksi vaihtoehtoa: (1) taistella sitä ja kaatua tai (2) liittyä mukaan ja herätä.
+
+Jos olisit kertonut minulle puoli vuotta sitten, että Bitcoin-herännäinen uutisankkuri haastattelee Bitcoin-herännäistä poliitikkoa CNCB:llä, en olisi ottanut sinua vakavasti. Silti näin on asian laita. Televisiossa. Siniset kauluspaidat ja värikkäät solmiot.
+
+
+Edustaja Patrick McHenryn huomautus on syytä toistaa:
+
+Ei ole kykyä tappaa Bitcoinia. Edes kiinalaiset palomuurillaan ja äärimmäisellä yhteiskunnallisella interventiollaan eivät voineet tappaa Bitcoinia. […] Tarkoitan, että et voi tappaa Bitcoinia.
+
+- Edustaja Patrick McHenry
+
+Ikään kuin tämä ei olisi riittävän vakuuttavaa, sama poliitikko jatkoi toistamalla Bitcoinin pysäyttämätöntä luonnetta Yhdysvaltain kongressin rahoituspalvelukomitealle.
+
+
+Jälleen kerran McHenryn aloituspuheenvuoronsa on syytä toistaa:
+
+Todellisuus on, olipa Facebook osa sitä tai ei, muutos on täällä. Digitaalisia valuuttoja on olemassa. Lohkoketjuteknologia on todellista. Ja Facebookin mukaantulo tähän uuteen maailmaan on vain vahvistus tälle, vaikkakin ison mittakaavan [avaus]. Maailma, jonka Satoshi Nakamoto — Bitcoin-whitepaperin kirjoittaja — visioi ja toiset rakentavat, on pysäyttämätön voima. Meidän ei pitäisi yrittää estää tätä innovaatiota. Ja valtiot eivät voi pysäyttää tätä innovaatiota. Ja ne, jotka ovat yrittäneet, ovat jo epäonnistuneet.
+
+— Patrick McHenry
+
+Pysähdy hetkeksi ja ajattele.
+
+“Valtiot eivät voi pysäyttää tätä innovaatiota”
+“Bitcoin on pysäyttämätön voima”
+“Et voi tappaa Bitcoinia”
+Vain kolme vuotta sitten yllä oleva oli luettavissa vain Ralph Merklen salaperäisestä artikkelista. Hän väitti Bitcoinin olevan uusi elämänmuoto, sellainen, jota ei voi muuttaa, jonka kanssa ei voi väitellä, jota ei voi peukaloida, jota ei voi vioittaa, jota ei voi keskeyttää ja jota ei voi pysäyttää.
+
+Vain kolme vuotta myöhemmin tämä Bitcoinin kiehtovan luonteen ei-tekninen kielikuva Bitcoinin ymmärtämiseksi on jo saavuttanut Yhdysvaltain kongressin ja television.
+
+Tulevaisuus on valoisa
+Bitcoin voittaa jatkossakin koskettamiensa ihmisten sydämet ja mielet. Tämä pitää sisällään poliitikkojen, uutisankkurien, pankkiirien ja muiden tällä hetkellä vaikutusvaltaisten ja voimakkaiden joukkojen sydämet ja mielet.
+
+Jos olisit sanonut minulle, että Bitcoinin tulevaisuuteen olisi voinut suhtautua vielä valoisammin kuin puoli vuotta sitten, en olisi uskonut sinua. Silti tässä olemme tänään. Bitcoinaajat kongressissa, bitcoinaajat televisiossa ja Yhdysvaltain presidentti paskapostaa Bitcoinista Twitterissä. Mahtava hetki olla elossa.
+
+Maailma herää Bitcoiniin, ja suhtaudun siihen valoisammin kuin koskaan ennen.

@@ -1,0 +1,137 @@
+Consumo de energía de Bitcoin
+Un cambio de perspectiva
+
+Es posible que haya escuchado que Bitcoin desperdicia una enorme cantidad de energía. También es posible que haya escuchado que Bitcoin usará medio porcentaje de la energía eléctrica del mundo para fin de año, los cálculos utilizados para la minería no hacen nada útil, y si la tasa actual de crecimiento continúa, absorberá todo el energía y todos vamos a morir.
+
+No quiero disputar los números ni comparar el uso de energía de Bitcoin con el sistema bancario actual. Simplemente quiero ofrecer un cambio de perspectiva.
+
+Bitcoin es ofensivo
+Bitcoin es una red global, sin permisos, resistente a la censura. Su naturaleza es inherentemente ofensiva. Ofende a gobiernos, banqueros y autoridades centrales por igual. Demonios! Ofender a los bancos fue el objetivo de este experimento en primer lugar.
+
+A primera vista, Bitcoin es la peor base de datos jamás creada por la humanidad. Además de ser aparentemente ineficiente y lenta, está consumiendo recursos computacionales a un ritmo vertiginoso y consume tanta energía como un país pequeño.
+
+«En comparación con las bases de datos distribuidas modernas, las cadenas de bloques son lentas, pesadas, innecesariamente redundantes y demasiado paranoicas».
+
+Dhruv Bansal
+
+Como Nick Szabo lo expresó de manera tan sucinta: «Bitcoin ofende la sensibilidad de los ingenieros y empresarios conscientes de los recursos y maximizan la medida del rendimiento». También ofende nuestro entendimiento globalmente compartido de que desperdiciar energía es malo y la eficiencia energética siempre es buena.
+
+Según un documento reciente, «se puede estimar que la red de Bitcoin consume al menos 2,55 gigavatios de electricidad actualmente, y potencialmente 7,67 gigavatios en el futuro, por lo que es comparable con países como Irlanda (3,1 gigavatios) y Austria (8,2 gigavatios)».
+
+Es fácil estar preocupado, indignado u ofendido. “¿Sabías que Bitcoin usa tanta energía como Austria? ¡Las vacas bebés mueren a causa de Bitcoin!»
+
+
+¿Qué demonios es un gigavatio?
+Para comprender por qué todos estos gigavatios son necesarios para que la red de Bitcoin funcione de manera adecuada y segura, tendremos que analizar más de cerca los matices de la minería.
+
+Bloques Mineros y Monedas
+El nombre «minería» proviene de la propuesta de que bitcoin tiene más en común con el oro y otros metales preciosos que con el papel moneda. Satoshi dejó esto claro en una de sus publicaciones.
+
+«En este sentido, es más típico de un metal precioso. En lugar de que la oferta cambie para mantener el valor igual, la oferta está predeterminada y el valor cambia «.
+
+Satoshi Nakamoto
+
+Por lo tanto, los bitcoins no se imprimen, se extraen. Aunque hablamos de «minar bitcoins» todo el tiempo, tenga en cuenta que no son los bitcoins los que se extraen. Los bloques se extraen, y los mineros actualmente son recompensados con nuevos bitcoins si encuentran un bloque válido. Los mineros son recompensados porque encontrar nuevos bloques es inherentemente difícil. El sistema está configurado de manera que la dificultad de encontrar un nuevo bloque se ajusta automáticamente para que se encuentre un nuevo bloque cada 10 minutos en promedio. Diferenciar entre «minería de bitcoins» y «minería de bloques» ayuda a señalar un par de cosas:
+
+Primero, que la tasa a la que se extraen bitcoins se desacopla del uso de energía de Bitcoin. Si todos decidieran duplicar la energía gastada en la minería, la cantidad de bitcoins extraídos no se duplicaría como consecuencia. La tasa de suministro es fija, sin importar la cantidad de energía que elija gastar en minería.
+
+En segundo lugar, que los mineros hacen mucho más que crear nuevos bitcoins: mantienen la seguridad y la continuidad de la red, confirman las transacciones y señalan su apoyo o rechazo a los cambios de la red, solo por nombrar algunos. No todos estos requieren una cantidad excesiva de energía, que es una de las razones por las cuales es importante ejecutar un nodo completo.
+
+Tercero, que la minería no es un proceso fijo. Tanto la recompensa minera como la dificultad minera son dinámicas y, por lo tanto, necesariamente cambiarán con el tiempo.
+
+Cuarto, se supone que la minería cuesta mucha energía. Es computacionalmente costoso por diseño, por lo que Satoshi eligió recompensar extra a las personas por gastar esta energía. Es el ingrediente principal del Consenso de Nakamoto. Es el trabajo en “prueba-de-trabajo”. Es absolutamente esencial.
+
+Sin una mirada más cercana al proceso de minería, es fácil confundir el proceso intensivo en energía de encontrar bloques válidos con «encontrar nuevos bitcoins». Desde esta perspectiva, parece que toda esta energía eléctrica se transmuta en nuevos bitcoins.
+
+Esto está mal.
+
+La energía gastada actúa como una barrera que protege el libro mayor. La creación de nuevos bitcoins es solo un efecto secundario.
+
+Paredes criptográficas
+Hasta hace muy poco, asegurar algo significaba construir un muro grueso alrededor de lo que se considera valioso. Todos sabemos cómo hacer esto, y todos estamos de acuerdo en que es algo sensato.
+
+El nuevo mundo de las criptomonedas es poco intuitivo y extraño. No hay paredes físicas para proteger nuestro dinero, ni puertas para acceder a nuestras bóvedas. El libro blanco de Bitcoin está asegurado por su poder de “hash” colectivo: la suma de toda la energía gastada para hacer el trabajo en su cadena de prueba-de-trabajo.
+
+Por lo tanto, podemos pensar en el uso de energía de Bitcoin como una pared gigante, una especie de campo de fuerza eléctrica, que asegura todos los saldos de bitcoin de todos los usuarios, ahora y en el futuro.
+
+Es difícil decir cuánta energía se debe gastar construyendo estas paredes criptográficas. Los sistemas financieros son una infraestructura crítica, razón por la cual la mayoría de los ingenieros en este espacio argumentan con razón que la seguridad y la estabilidad son primordiales. Si Bitcoin será el dinero del futuro, es mejor estar preparado para soportar eventos de alto impacto y baja probabilidad.
+
+¿Qué grosor tendrán que ser estas paredes criptográficas? Sólo el tiempo dirá. Si Bitcoin logra sobrevivir a los ataques coordinados de múltiples atacantes a nivel estado, quiere decir que los muros fueron lo suficientemente gruesos.
+
+El fin de la minería de nuevos bitcoins
+Arrancar una nueva red es difícil. Es como tratar de convencer a todos de comprar una máquina de fax si usted es el único en el mundo con una máquina de fax. Es muy, muy difícil. Como se describió anteriormente, Satoshi resolvió este problema agregando un mecanismo de recompensa en bloque, que actúa como
+(a) el suministro de divisas controlado de Bitcoin y
+(b) un incentivo para que las personas participen en la red para expandir y asegurar el libro público.
+
+El gasto de energía es esencial para proporcionar seguridad a esta nueva red financiera.
+
+La fase actual de «minería de bitcoins», donde los mineros son incentivados con una alta recompensa, es una forma inteligente de iniciar la red. En otras palabras: todos los que hoy explotan bitcoins con avidez están ayudando a impulsar este nuevo sistema financiero, se den cuenta o no.
+
+
+John Nash comentando sobre el aspecto de “teoría de juego” en la invención de Satoshi.
+Como se mencionó anteriormente, la dificultad de minería de Bitcoin se ajusta automáticamente, lo que lleva a un sistema dinámico y de autocorrección. Si la minería, por cualquier razón, se vuelve más costosa, menos personas minarán con una ganancia, lo que resultará en menos minería, reduciendo la dificultad de la minería. Esto, a su vez, hará que la minería sea más fácil y, por lo tanto, más barata, lo que incentivará a más personas a minar.
+
+Con el tiempo, el incentivo financiero de dirigir una operación minera cambiará. De ello se deduce que el consumo de energía de Bitcoin también cambiará. La razón por la cual el cambio es inevitable es la función de recompensa en bloque de Bitcoin que garantiza un suministro controlado y limitado.
+
+La recompensa de bloque se reduce a la mitad cada 210,000 bloques y eventualmente llegará a cero, después de 64 reducciones a la mitad. Después de la última de estas mitades, los mineros se quedarán con las tarifas de transacción como la única recompensa financiera por extraer un nuevo bloque.
+
+En otras palabras: la “extracción de nuevos bitcoins” eventualmente se detendrá. La extracción de bloques válidos continuará después de eso.
+
+
+En Bitcoin, el código realmente es ley.
+Se podría argumentar que actualmente estamos en el equivalente de Bitcoin de la fiebre del oro, donde la recompensa por la minería, así como la recompensa proyectada para el futuro, supera con creces los costos de inversión y energía. Si bien es difícil estimar cuánta seguridad es suficiente seguridad, se podría argumentar que la red de Bitcoin está actualmente «hiper asegurada» como un efecto secundario de esta fiebre del oro.
+
+
+El suministro controlado de Bitcoin y la recompensa en bloque con el tiempo.
+Todavía estamos en las primeras etapas de la fase de recompensa por bloque de Bitcoin, como muestra el gráfico anterior.
+
+Si la adaptación de Bitcoin como moneda será lenta y constante, o exponencial y parabólica, un crecimiento exponencial continuo del consumo de energía es muy cuestionable. Yo diría que el crecimiento excesivo dará paso a un equilibrio, algo sensible entre la seguridad y el consumo de energía, a medida que la recompensa en bloque se acerque a cero. Dependiendo del valor futuro de bitcoin y la disposición de las personas a pagar tarifas de transacción, este saldo podría inclinarse más hacia la seguridad o hacia un uso conservador de la energía.
+
+Bloques modernos de mármol
+Una vez que comprendemos la prueba-de-trabajo, se hace cada vez más claro que el consumo de energía de la red Bitcoin no es un error, es una característica. Hasta donde sabemos, no puedes engañar las leyes de la termodinámica. Dado que no tenemos avances revolucionarios en física, matemática y/o computación cuántica, gastar energía es la única forma de voltear bits, y voltear bits es la única forma de extraer nuevos bloques.
+
+Desafortunadamente, todavía no tenemos una comprensión intuitiva de este nuevo mundo criptográfico. Entender completamente la importancia de la prueba-de-trabajo requiere una inmersión profunda en una multitud de temas. Nos faltan explicaciones y metáforas concisas, fáciles y elegantes. Hugo Nguyen hizo un gran trabajo al explicar cómo la prueba-de-trabajo vincula el mundo abstracto y digital de bitcoin con nuestro mundo físico:
+
+«Al añadir energía a un bloque, le damos “forma”, lo que le permite tener un peso real y consecuencias en el mundo físico».
+
+Hugo Nguyen
+
+La prueba-de-trabajo es esencialmente un mecanismo para verificar fácilmente la veracidad de la afirmación «Trabajé muy duro para crear esto». Desde esa perspectiva, nuestros nuevos y elegantes bloques computacionales son un poco como bloques de mármol y la prueba-de-trabajo es un poco como mirar una hermosa estatua de mármol. Es inmediatamente obvio que se trabajó mucho para crear la estatua. Hacer trampa es extremadamente difícil, porque crear una estatua tan gloriosa sin hacer el trabajo es prácticamente imposible. No puedes tirar un bloque de mármol contra una pared y todo lo que no sea David se caerá. No es imposible, pero es muy, muy, muy poco probable. En cambio, tienes que cincelar el mármol, y debes hacerlo correctamente y con cuidado. Se podría argumentar que esta es una de las razones por las que las grandes obras de arte son tan valiosas: se invirtió mucho pensamiento, cuidado y trabajo para crearlas.
+
+
+Prueba-de-trabajo de la vieja escuela de Miguel Ángel. Foto por Jörg Bittner Unna
+Es igualmente improbable encontrar bloques válidos sin realmente hacer el trabajo. Al igual que una estatua fea y cincelada al azar, un bloque inválido puede ser simplemente desechado. Sin embargo, cuando ve un bloque válido, inmediatamente sabe que se dedicó mucho trabajo.
+
+En ambos casos, los artefactos mismos, la estatua y el bloque válido, son en sí mismos la prueba del trabajo.
+
+Mi punto es que comprender la naturaleza de la prueba-de-trabajo y los incentivos de extraer bloques válidos, así como las propiedades de seguridad y, por lo tanto, el valor de la prueba-de-trabajo, podría ayudar a cambiar la perspectiva de «energía desperdiciada» a «Energía utilizada para crear algo valioso». La mayoría de la gente valora las hermosas estatuas de mármol. Un número creciente de personas valora una cadena de bloques válidos.
+
+Seguridad a través de la pureza
+Otra característica disfrazada de error es la aleatoriedad de la prueba-de-trabajo de bitcoin. Una sugerencia común para mejorar es que podríamos usar toda esta electricidad para hacer algo más, algo realmente útil, como encontrar números primos o calcular los plegamientos de proteínas, además de asegurar la red.
+
+Nuevamente, esta objeción al algoritmo de prueba-de-trabajo de Bitcoin se basa en la suposición de que encontrar bloques válidos es inherentemente inútil. No lo es.
+
+Si bien la introducción de una recompensa secundaria por hacer el trabajo puede parecer una buena idea, en realidad presenta un riesgo de seguridad.
+
+“El problema de hacer otra cosa, algo que otras personas podrían considerar útil, es que divide la recompensa. Significa que los mineros tienen dos razones por las cuales están minando.”
+
+Andreas M. Antonopoulos
+
+Dividir la recompensa puede llevar a una situación en la que «vale más la pena hacer la función secundaria que hacer la función primaria». Bitcoin nunca tendrá este problema. Bitcoin garantiza su seguridad por la pureza de su algoritmo de prueba-de-trabajo.
+
+Si alguien descubre una forma más eficiente en términos de energía para asegurar una red abierta, descentralizada, resistente a la censura, sin permisos y sin confianza para el intercambio de valor, sin comprometer una de estas cualidades, esta hipotética red futura eventualmente destronará a Bitcoin, resolviendo este supuesto problema de energía. Y no, la prueba de participación probablemente no sea la respuesta.
+
+En el futuro, podríamos encontrar algo que sea aún más adecuado para ser un ancla para la verdad que la energía. Hasta que lo hagamos, deberíamos apegarnos a algo en lo que confiamos mucho: las leyes de la termodinámica; la energía requerida para hacer el trabajo en prueba-de-trabajo.
+
+Conclusión
+Espero haber plantado la semilla para un cambio de perspectiva: que gastar energía en la prueba-de-trabajo no es un desperdicio, sino un esfuerzo que vale la pena.
+
+Comprender la minería y la prueba-de-trabajo con más detalle podría ayudar a convencer a algunos de los críticos de Bitcoin y cambiar la perspectiva de «ineficiente y derrochador» a «seguro y resistente a la censura». Señalar estos matices también podría ser útil para comprender que el consumo de energía de Bitcoin se correlaciona más fuertemente con la seguridad de la red, y no con la adopción, el uso o la utilidad de bitcoin. Incluso si la utilidad de la red y el precio de bitcoin continúan aumentando exponencialmente, el consumo de energía no necesariamente tiene que seguir la misma tendencia exponencial. Obtener una mejor comprensión de la red de Bitcoin también podría ayudar a comprender dónde otras soluciones se quedan cortas.
+
+El genio de Satoshi consistía en combinar un montón de trucos inteligentes en un nuevo juego económico que crea un artefacto digital escaso, sin emisión central. Este artefacto está respaldado por la computación, y la computación requiere energía.
+
+El juego económico actual es un juego de muros y bóvedas, sistemas cerrados y poder centralizado. El nuevo juego económico es un juego de hashes y bloques, claves públicas y claves privadas, basado en pruebas matemáticas y realidad física. Un juego sin guardianes, sin autoridades centrales, sin censura ni discriminación.
+
+Las viejas reglas han llevado a un sistema donde el dinero es valioso «porque yo lo digo», lo que lleva a trucos de magia como la banca de reserva fraccional, la inflación para estimular el consumo excesivo e incluso la hiperinflación porque la tentación de imprimir aún más dinero es simplemente irresistible.
+
+Las nuevas reglas pueden no ser fáciles de entender. Sin embargo, podrían conducir a una nueva realidad financiera: una nueva economía basada en dinero sólido. Debemos adaptarnos a estas reglas y familiarizarnos con los matices de este nuevo juego. Y tendremos que aceptar el hecho de que se debe utilizar un recurso finito para asegurar esta nueva economía descentralizada. En el caso de Bitcoin, este recurso es energía.

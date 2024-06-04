@@ -1,0 +1,93 @@
+Todiste elämästä
+Miksi Bitcoin on elävä organismi
+
+
+Elämän määritelmä on ollut haaste niin tieteentekijöille kuin filosofeillekin. Vaikka monia määritelmiä on esitetty, se, mikä tarkalleen ottaen erottaa elävät elottomista, on edelleen vaikea kysymys. Ovatko virukset eläviä? DNA-molekyylit? Tietokonevirukset? Biologisesti tuotetut mineraalit?
+
+Kryptografisen hajautuksen keksijä ja Merkle-puun keksijä Ralph Merkle väitti, että Bitcoin on ensimmäinen esimerkki uudesta elämänmuodosta. Tässä artikkelisarjassa aion ottaa tämän kysymyksen vakavasti, tutkia sitä tarkemmin ja ymmärtää, mitä voidaan saavuttaa tarkastelemalla Bitcoinia elävänä organismina.
+
+Ensimmäisessä osassa osoitetaan, että Bitcoin on todellakin elävä organismi. Toisessa osassa tarkastellaan tarkemmin Bitcoinin erilaisia elinympäristöjä ja miten näiden elinympäristöjen muutokset voivat vaikuttaa organismiin. Kolmannessa osassa leikkelemme Bitcoin-organismia yrittäessämme ymmärtää joitakin sen osia yksityiskohtaisemmin. Lopuksi teemme ajatuskokeen yrityksessämme tappaa Bitcoinin, havainnollistaaksemme tämän omituisen hajautetun organismin huomattavaa kestävyyttä ja selviytymiskykyä.
+
+Mitä on elämä?
+Kysymys siitä, onko jokin elossa vai ei, riippuu selvästi elämän määritelmästä. Elämä on loputtoman monimutkaista, joten ei ole yllättävää, että kysymykseen “Mitä on elämä?” vastaaminen johtaa lukuisiin vastauksiin. Työnnetään new age -spekulaatiot syrjään, joten näyttää siltä, että elämä on prosessi, ei ainetta.
+
+Voimme yrittää kuvata tätä prosessia tarkastelemalla eläviä asioita ja katselemalla, mitä ne oikeastaan tekevät: niillä on taipumus kasvaa, lisääntyä ja reagoida. Ne perivät ominaisuuksia ja piirteitä, koostuvat pienemmistä yksilöistä (soluista) ja käyttävät energiaa säilyttääkseen sisäisen rakenteensa entropian vallitessa.
+
+
+Perustuu Chris Packardin elämän ominaisuuksiin, cc-by-sa 4.0
+Fysiikan näkökulmasta elävät oliot ovat termodynaamisia järjestelmiä: ne hyödyntävät ympäristönsä energiaeroja ylläpitääkseen tiettyä molekyylirakennetta ja luodakseen kopioita itsestään. Termodynaamisesti sanottuna elävät järjestelmät kykenevät vähentämään sisäistä entropiaansa ottamalla ympäristöstään “vapaata” energiaa. Lyhyesti sanottuna elävät oliot luovat järjestystä kaaoksesta.
+
+Bitcoin tekee täsmälleen näin: se ottaa energiaa ympäristöstä ja asettaa asiat järjestykseen, eli se vähentää sisäistä entropiaa. Se tekee niin lisäämällä lohkoja hyvin järjestäytyneeseen rakenteeseen. Jotkut kutsuvat tätä rakennetta lohkoketjuksi, toiset kutsuvat sitä hajautetuksi tilikirjaksi. En halua käyttää kumpaakaan nimeä, koska kyseisen rakenteen nimi ei ole tärkeä eikä auta hahmottamaan syvempää totuutta: siis sitä, että tämä rakenne on vain yksi osa suurta ja monimutkaista järjestelmää, aivan kuten selkäranka on selkärankaisille. Se on epäilemättä tärkeä. Mutta jaettu tai ei, tilikirja yksin on yhtä hyödyllinen ja elossa kuin pussillinen luita.
+
+Ymmärtääksemme, miksi Bitcoin käyttäytyy ikään kuin se olisi elossa, meidän on tarkasteltava taikasanoja pidemmälle ja kysyttävä itseltämme, mitä Bitcoin todella on, mistä se on tehty ja mitkä sen rajat ovat.
+
+Mitä on Bitcoin?
+Biologiseen elämään verrattuna Bitcoin on melko yksinkertainen. Siitä huolimatta ytimekästä vastausta kysymykseen “Mitä on Bitcoin?” ei ole.
+
+Taustasi riippuen se voi olla tietokoneverkko, finanssivallankumous, tapa suojata varallisuuttasi, maksujärjestelmä, maailmanlaajuinen selvitys- ja toimituskerrot, vaihtoehto keskuspankkitoiminnalle, järkevää rahaa, rinnakkaistalous, sananvapauden käyttämistä, kupla, pyramidijärjestelmä, viestintäjärjestelmä, viestintäprotokolla, epätehokas tietokanta, internet-rahaa tai kaikkea edellä mainittua. Lyhyesti sanottuna Bitcoin on eri asia eri ihmisille.
+
+Mitä tahansa Bitcoin voi olla, se on epäilemättä voima, joka on otettava huomioon. Sillä on oma elämänsä, ja siksi sitä voi luultavasti parhaiten kuvata elävänä oliona.
+
+Monet ihmiset näyttävät päätyneen tähän johtopäätökseen itsenäisesti. Andreas M. Antonopoulosin teoksessa Mastering Bitcoinissa Bitcoinia kuvaillaan lehdenleikkaajamuurahaisten armeijaksi. Se on biologinen järjestelmä, joka toimii yhteen ilman keskuskoordinaattoria. Mesimäyrä on eläin, jota käytetään yleisesti viittaamaan Bitcoiniin (koska se ei välitä mistään eikä pelkää mitään). Mesimäyrä on myös Jimmy Songin kirjan Programming Bitcoin kannessa. Dan Held vertasi Bitcoinin keksimistä puun istuttamiseen ja tutki lajia (koodi), vuodenaikaa (ajoitus), maaperää (jakoa ja levinneisyyttä) ja puutarhanhoitoa (yhteisö), jotka olivat välttämättömiä sen menestyksen kannalta. Brandon Quittem väittää, että Bitcoin muistuttaa sienirihmastoon, maanalaiseen verkkoon, joka vahvistaa sienten valtakuntaa, ja Bitcoin voidaan täten parhaiten ymmärtää hajautetuksi organismiksi.
+
+
+Sääntelyn ja keskuspankkitoiminnan käärme puree sinua, kun syöt sitä sen ollessa elossa? Mesimäyrä ei välitä. Ja aivan kuten muurahaisarmeija ei välitä, jos puolet työläismuurahaisista katoaa tulvassa, Bitcoin-verkko ei välitä, jos puolet solmuista on huomenna pois verkosta.
+
+“Mesimäyrä ei välitä, mesimäyrä ei välitä paskaakaan.”
+
+— Randall
+
+Tällaiset meemit, etenkin jos ne selviävät ja ovat edelleen suosittuja pitkän ajanjakson kuluessa, ovat yleensä oikeassa käsitteellisellä tasolla. Se, mitä ihmiset näyttävät sanovat viitatessaan Bitcoiniin mesimäyränä, on, että pohjimmiltaan Bitcoin käyttäytyy ikään kuin hallitsematon, kesyttämätön ja ulkoisvaikutuksista liikaa huolehtimaton eläin.
+
+Lukija voi pohdiskella itse tarkemmin sitä, mitä organismia Bitcoin muistuttaa eniten. Edellä mainittujen esimerkkien pitäisi vatin havainnollistaa, että useat kirjoittajat tekivät älyllisen harppauksen luokitellakseen Bitcoinin eläväksi organismiksi — harppauksen, joka on mielestäni kiehtova, hyödyllinen ja viime kädessä oikea.
+
+Bitcoin on elävä organismi, ja meidän pitäisi yrittää ymmärtää se sellaisena, jos haluamme elää sopusoinnussa sen kanssa.
+
+Bitcoin-organismi
+Ralph Merkle huomautti ensimmäisenä, että Bitcoinia voidaan pitää elävänä kokonaisuutena. Hän huomautti, että Bitcoin on synnyttänyt uskomattoman määrän jännitystä teknisessä yhteisössä, ja hän yritti kääntää kokemansa jännityksen kenen tahansa ymmärtämäksi asiaksi: uudeksi elämänmuodoksi.
+
+Lyhyesti ja ei-teknisesti Bitcoin on ensimmäinen esimerkki uudesta elämänmuodosta. Se elää ja hengittää internetissä. Se elää, koska se voi maksaa ihmisille sen pitämisestä hengissä. Se elää, koska se tarjoaa hyödyllisen palvelun, josta ihmiset maksavat sille. Se elää, koska kuka tahansa missä tahansa voi suorittaa kopion sen koodista. Se elää, koska kaikki käynnissä olevat kopiot ovat jatkuvassa puheyhteydessä toistensa kanssa. Se elää, koska jos jokin kopio on vioittunut, se hylätään nopeasti ja ilman meteliä tai häiriötä. Se elää, koska se on radikaalisti läpinäkyvä: kuka tahansa voi nähdä sen koodin ja nähdä tarkalleen, mitä se tekee.”
+
+— Ralph Merkle
+
+Vaikka Bitcoin on todellakin radikaalisti läpinäkyvä, ei ole täysin selvää, mistä Bitcoin alkaa ja mihin se päättyy. Kaikkien elävien olioiden tavoin Bitcoin ei ole vain yksi yhtenäinen möykky ainetta. Se on dynaaminen, elävä olento, joka koostuu monista eri osioista, jotka kaikki viestivät toistensa kanssa ja vaikuttavat toisiinsa, samoin kuin muihin eläviin olentoihin ja ympäristöön kokonaisuudessaan.
+
+Bitcoin-organismi koostuu monista toisiinsa liittyvistä osista, jotka toivat yhdessä varmistaakseen kokonaisuuden selviytymisen. Kuten biologisten organismien kohdalla, koko organismi kuolee heti, kun yksi tärkeä osa puuttuu.
+
+Bitcoin on kuitenkin outo peto. Se elää eri aloilla, yksi jalka puhtaasti informaation valtakunnassa (ideat ja koodi) ja toinen jalka fyysisessä valtakunnassa (ihmiset ja solmut).
+
+
+Bitcoin-organismi ilmenee ideoiden, koodin, ihmisten ja solmujen keskinäisen vuorovaikutuksen kautta. Kaikki nämä neljä käsitteellistä osiota reagoivat ja vaikuttavat toisiinsa arvoa tuottavassa palautesilmukassa, joka pitää Bitcoinin hengissä.
+
+Olivatpa ihmiset osa Bitcoin-organismia vai elävätkö he vain symbioosissa sen kanssa, riippuu näkökulmastasi. Otetaan nyt kattava kuva Bitcoin-organismista, mukaan lukien ihmisistä osana kokonaisuutta. Loppujen lipuksi, aivan kuten emme voi elää ilman lukuisia bakteereja, sieniä, viruksia ja muita kammottavia olioita, jotka muodostavat ihmisen mikrobiomin, Bitcoin ei voi elää ilman meitä: pieniä liha-avaruuden olioita, jotka pitävät sen hengissä.
+
+Solmut ja niiden pyörittäjät ovat joka tapauksessa konkreettisia olioita, jotka ilmenevät fyysisessä maailmassa. Elimistösi solujen tavoin Bitcoin-organismin kaikki fyysiset komponentit voidaan ja korvataan ajan kuluessa. Solmujen ylläpitäjät tulevat ja menevät, solmu- ja louhintalaitteet korvataan säännöllisin väliajoin ja jopa kokonaiset louhintafarmit siirtyvät pois verkosta ja korvataan kustannustehokkaammilla laitteilla.
+
+Ideat ja koodi ovat eteerisempiä. Niihin ei voida tarttua tai niitä ei voida osoittaa sormella samalla tavalla. Bitcoinilla on kuitenkin olemus, eliön sielu, jos niin haluat sanoa. Huomaa, että tämä olemus voisi teoriassa antaa elämän uudelle isännälle, jos organismin nykyinen ruumiillistuma kuolisi. Bitcoinin haamu on riippumaton fyysisestä kehostaan lainatakseni Masamune Shirow’n mangasarjaa Ghost in the Shell — sielu väärässä kuoressa.
+
+Niin kauan kuin jokin on yhteensopivaa tämän olemuksen kanssa, sitä käsitellään osana kokonaisuutta. Jos jokin ei sovi yhteen, se hylätään — aivan kuten biologiset organismit hylkivät kehoonsa päätyneitä vierasesineitä.
+
+Osa tästä olemuksesta ilmaistaan selvästi Bitcoinin konsensussäännöissä, muut osat toistetaan mantroissa: “eivät sinun avaimesi, eivät sinun bitcoinisi” ja “aja oma solmusi” ovat lempeitä muistutuksia opituista asioista, samoin kuin oikotie syvempään ymmärrykseen siitä, mitä Bitcoin on ja mitä sen pitäisi olla.
+
+Palataan takaisin yllä olevaan elämää kuvailevaan määritelmään ja katsotaan, miten elämän perustekijät sopivat yhteen Bitcoinin kaikkien ominaisuuksien kanssa.
+
+
+Eliöt kasvavat: Bitcoin kasvaa monin tavoin. Verkko kasvaa, kunkin bitcoin-yksikön arvo kasvaa, markkinat kasvavat, sen käyttäjäkunta kasvaa ja ekosysteemi kokonaisuutena kasvaa.
+Eliöt lisääntyvät: Paradoksaalisesti Bitcoin käyttää replikoitumista eli lisääntymistä absoluuttisen niukkuuden luomiseksi. Se kopioi itsensä monin tavoin ja useilla tasoilla: lähdekoodi kopioidaan koodiarkistojen välillä, ohjelmisto kopioi itsensä asennuksen yhteydessä, tilikirja kopioituu jokaisessa solmussa, lohkot leviävät verkon halki kopioitumalla ja jopa UTXO:t voidaan ymmärtää lisääntymisyksiköiksi, jotka jakautuvat ja yhdistyvät transaktioprosessin aikana. Myös mutaatioita tapahtuu kaikilla tasoilla: Bitcoin on kymmenen vuoden aikana luonut tuhansia kelpaamattomia tapahtumia, virheellisiä lohkoja, satoja haaraumia ja tuhansia epätäydellisiä kopioita parin viime
+Eliöt tuottavat itsensä kaltaisia jälkeläisiä: Bitcoin perii edeltäjiltään useita piirteitä: julkisen avaimen salaus, digitaaliset allekirjoitukset, vertaisverkot, digitaalinen aikaleimaus ja väärentämätön kalleus vain muutamia mainitakseni. Lisäksi Bitcoinin avoin luonne tekee sekä vertikaalisen että horisontaalisen geeninsiirron mahdolliseksi: jotkut piirteet kehittyvät aiempien versioiden asteittaisten mutaatioiden myötä, toiset löytävät tiensä koodikantaan sisällyttämällä ideoita muista projekteista.
+Eliöillä on itsesäätelykyky eli homeostaasi: Bitcoinin konsensussäännöt ovat ensisijaisesti vastuussa sen vakaista sisäisistä olosuhteista. Jos lohkot eivät noudata nykyisiä konsensussääntöjä, ne hylätään armottoman nopeasti. Bitcoin-verkko hankkiutuu eroon näistä lohkoista aivan samalla tavoin kuin kuolleet solut irtoavat ihostamme.
+Eliöillä on aineenvaihdunta: Louhintalaitteet ympäri maailmaa pitävät organismin hengissä, pystyttäen matkan varrella käytännössä läpäisemättömiä seiniä. Energia muuttuu digitaaliseksi meripihkaksi, mikä varmistaa, että aiempien transaktioiden ympärillä oleva suojus kasvaa ja Bitcoinin sydän lyö jatkossakin.
+Eliöillä on solurakenne: Useat Bitcoinin osat ovat solukkoisia: Bitcoin-verkko koostuu solmuista, joista kukin on itsenäinen toiminnallinen kokonaisuutensa. Tilikirja itsessään on solukko, koska lohkot (ja transaktiot) ovat pohjimmiltaan soluja suuressa, uusia merkintöjä jatkuvasti kerryttävässä tietokannassa.
+Eliöt reagoivat ympäristön ärsykkeisiin: Bitcoin reagoi erittäin herkästi. Se reagoi hinnan muutoksiin, poliittisiin muutoksiin, taloudellisiin muutoksiin, ympäristön muutoksia (esim. jos internetin osia katkaistaan), teknologisiin muutoksiin (esim. läpimurrot sirujen valmistuksessa) ja tieteellisen ymmärryksemme muutoksiin (esim. läpimurrot tietojenkäsittelytieteessä, matematiikassa tai kryptografiassa). Se reagoi omia aikojaan, ilman yhtäkään ihmistä, yritystä tai kansallisvaltiota sen johdossa.
+Kuten edellä mainittiin, elämä on prosessi, ei ainetta. Lukemattomien osien herkkää tanssia, monimutkaista signalointia ja viestintää eliön itsensä ylläpitämiseksi, ja ilmiö, jota kutsumme kokonaisuudessaan elämäksi.
+
+“Elämä on kuin tulta, ei vettä; se on prosessi, ei puhdasta ainetta. […] Yksinkertaisin, mutta ei ainoa, todiste elämästä on löytää jotain elävää.”
+
+— Christopher McKay
+
+Astrobiologi Chrispher McKayn sanoin yksinkertaisin todiste elämästä on löytää jotain elävää. Olen löytänyt Bitcoinin, ja sikäli kuin voin sanoa, se on elossa — kaikista edellä esitetyistä syistä johtuen.
+
+Johtopäätökset
+Bitcoinilla on kaikki elävissä olioissa ilmenevät ominaisuudet: se kasvaa, lisääntyy, perii ja siirtää ominaisuuksia, käyttää energiaa vakaan sisäisen rakenteen ylläpitämiseksi, omaa solumaisen rakenteen ja reagoi eri ympäristöihin.
+
+Tämän kirjoitussarjan seuraavassa osassa tarkastellaan lähemmin näitä elinympäristöjä ja sitä, miten Bitcoin reagoi niissä tapahtuviin muutoksiin. Bitcoin elää ja hengittää internetissä, kuten Ralph Merkle kauniisti sanoi. Mutta internet ei luultavasti ole ainoa ympäristö, jossa se elää. Toivon vakuuttaneeni sinut siitä, että Bitcoin voidaan nähdä elävänä organismina — oli se sitten kuinka poikkeava tahansa.

@@ -1,0 +1,137 @@
+Bitcoinin energiankulutus
+Näkökulman muutos
+
+Olet ehkä kuullut, että Bitcoin tuhlaa valtavasti energiaa. Olet ehkä myös kuullut, että Bitcoin käyttää vuoden loppuun mennessä puoli prosenttia maailman kaikesta sähköenergiasta, louhinnassa tehdystä laskennasta ei ole mitään hyötyä, ja jos nykyinen tahti kasvuvauhti jatkuu, Bitcoin imee kaiken energian ja me kaikki kuolemme.
+
+En halua kiistää lukuja tai verrata Bitcoinin energiankulutusta nykyiseen pankkijärjestelmään. Haluan vain tarjota näkökulman muutoksen.
+
+Bitcoin on loukkaava
+Bitcoin on maailmanlaajuinen, vapaa ja sensuroimaton verkko. Se on luonteeltaan vastenmielinen. Se loukkaa niin valtiovaltaa, pankkiireja ja keskusviranomaisia. Pankkien loukkaaminen oli — hemmetti soikoon — koko kokeen lähtökohta.
+
+Ensi silmäyksellä Bitcoin on kaikkein huonoin ihmiskunnan koskaan suunnittelemista tietokannoista. Ei vain, että se näyttää olevan tehoton ja hidas, se syö hulluna laskennallisia resursseja ja kuluttaa yhtä paljon energiaa kuin pieni maa.
+
+“Nykyaikaisiin hajautettuihin tietokantoihin verrattuna lohkoketjut ovat hitaita, raskaita, tarpeettoman redundantteja ja liian vainoharhaisia.”
+
+- Dhruv Bansal
+
+Kuten Nick Szabo on lyhyesti todennut: “Bitcoin loukkaa resurssitietoisia ja suorituskykyä maksimoivia herkkähipiäisiä insinöörejä ja liikemiehiä.” Bitcoin loukkaa myös maailmanlaajuisesti jaettua yhteistä ymmärrystämme siitä, että energian tuhlaaminen on vahingollista ja energiatehokkuus on aina hyvä.
+
+Äskettäin julkaistun tutkimuksen mukaan “Bitcoin-verkon arvioidaan kuluttavan tällä hetkellä sähköä vähintään 2,55 gigawattia ja tulevaisuudessa mahdollisesti 7,67 gigawattia, joka on verrattavissa Irlannin (3,1 gigawattia) ja Itävallan (8,2 gigawattia) kaltaisten maiden sähkönkulutukseen.
+
+On helppo huolestua, raivostua tai loukkaantua. “Tiesitkö, että Bitcoin käyttää yhtä paljon energiaa kuin Itävalta? Lehmävauvat kuolevat Bitcoinin takia!”
+
+
+“Mikä hemmetti on gigawatti?”
+Jotta ymmärrämme, miksi kaikki nämä kaikki gigawatit ovat välttämättömiä, jotta Bitcoin-verkko toimii kunnolla ja turvallisesti, meidän on tutkittava tarkemmin louhinnan vivahteita.
+
+Lohkojen louhinta ja kolikot
+Käsite “louhinta” johtuu siitä ajatuksesta, että bitcoinilla on enemmän yhteistä kullan ja muiden jalometallien kuin paperirahan kanssa. Satoshi teki tämän selväksi yhdessä viesteistään.
+
+Tässä mielessä [bitcoin] muistuttaa enemminkin jalometallia. Sen sijaan, että tarjontaa muutetaan pitämään sen arvo samana, tarjonta määritellään ennalta ja arvo muuttuu.
+
+Satoshi Nakamoto
+
+Bitcoineja ei paineta, ne louhitaan. Vaikka puhumme koko ajan “bitcoinien louhinnasta”, pidä kuitenkin mielessä, että ne eivät ole bitcoineja, joita louhitaan. Lohkoja louhitaan ja louhijat saavat tällä hetkellä palkkioksi uusia bitcoineja löytäessään kelvollisen lohkon. Järjestelmä on säädetty niin, että uusien lohkojen louhinnan vaikeus säädetään automaattisesti siten, että uusi lohko löytyy keskimäärin 10 minuutin välein. “Bitcoinien louhinta” ja “lohkojen louhinta” erottaminen toisistaan auttaa muutaman asian osoittamisessa:
+
+Ensinnäkin, bitcoinien louhinnan nopeus on erotettu Bitcoinin energiankulutuksesta. Jos kaikki päättäisivät kaksinkertaistaa louhintaan käytetyn energian määrän, louhittujen bitcoinien määrä ei kaksinkertaistuisi. Bitcoinien määrän kasvunopeus on kiinteä riippumatta siitä, kuinka paljon energiaa louhintaan on päätetty kuluttaa.
+
+Toiseksi, louhijat tekevät paljon muutakin kuin uusien bitcoinien luomista. Louhijat ylläpitävät verkon turvallisuutta ja jatkuvuutta, vahvistavat siirtotapahtumat ja ilmoittavat tukevansa tai hylkäävänsä verkon muutokset vain muutamia mainitakseni. Kaikki nämä eivät vaadi suurta määrää energiaa, joka on yksi syy sille, miksi täyden solmun ajaminen on tärkeää.
+
+Kolmanneksi, louhinta ei ole kiinteä prosessi. Sekä louhintapalkkio että louhinnan vaikeusaste ovat dynaamisia ja muuttuvat siten väistämättä ajan kuluessa.
+
+Neljänneksi, louhinnan on tarkoitus kuluttaa paljon energiaa. Se on lähtökohtaisesti laskennallisesti kallista, minkä vuoksi Satoshi päätti palkita ihmisiä ylimääräisesti tämän energian kuluttamisesta. Se on Nakamoto-konsensuksen tärkein ainesosta. Se on työntodiste. Se on ehdottoman välttämätöntä.
+
+Pätevien lohkojen löytämisen energiaintensiivinen prosessi on helppo sekoittaa “uusien bitcoinien löytämiseen”, jos louhintaprosessia ei tarkastella huolellisesti. Tästä näkökulmasta näyttää siltä, että kaikki tämä sähköenergia on muutettu uusiksi bitcoineiksi.
+
+Tämä on väärinkäsitys.
+
+Kulutettu energia toimii esteenä, joka suojaa julkista tilikirjaa. Uusien bitcoinien luominen on vain sivuseuraus.
+
+Kryptografiset seinät
+Aivan viime aikoihin asti jonkin turvaaminen tarkoitti paksun seinän rakentamista kaiken sellaisen ympärille, mitä pidettiin arvokkaana. Me kaikki tiedämme, miten tämä tehdään, ja olemme kaikki yhtä mieltä siitä, että näin on järkevää tehdä.
+
+Kryptovaluuttojen uusi maailma on epäintuitiivinen ja auto. Rahan suojelemiseksi ei ole fyysisiä seiniä, eikä ovia holveihin. Bitcoinin julkisen tilikirjan turvataan sen kollektiivisella laskentateholla: kaiken energian summa, joka on käytetty työhön sen työntodistusketjussa.
+
+Voimme siis ajatella Bitcoinin energiankulutusta ikään kuin jättiläismäisenä seinämänä — eräänlaisena sähkökenttänä — joka turvaa kaikkien käyttäjien bitcoin-saldot nyt ja tulevaisuudessa.
+
+On vaikea sanoa, kuinka paljon energiaa on kulutettava näiden kryptografisten seinien rakentamiseen. Rahoitusjärjestelmät ovat elintärkeää infrastruktuuria, minkä vuoksi suurin osa tämän alueen asiantuntijoista väittävät perustellusti turvallisuuden ja vakauden olevan ensiarvoisen tärkeitä. Jos Bitcoin on tulevaisuuden rahaa, on parasta valmistautua kestämään voimakkaita, alhaisen todennäköisyyden tapahtumia.
+
+Kuinka paksut näiden kryptografisten seinien tulee olla? Vain aika näyttää. Jos bitcoin pystyy selviytymään useiden valtiotasoisten hyökkääjien koordinoimista hyökkäyksistä, seinät ovat riittävän paksut.
+
+Uusien bitcoinien louhinnan loppu
+Uuden verkon käynnistäminen on vaikeaa. Se on kuin yrittäisi vakuuttaa kaikki ostamaan faksilaitteen silloin kun olet ainoa ihminen maailmassa, jolla on faksi. Se on todella, todella vaikeaa. Kuten edellä todettiin, Satoshi ratkaisi tämän ongelman lisäämällä lohkopalkkiomekanismin, joka toimii
+(a) Bitcoinin hallittuna tarjontavälineenä ja
+(b) kannustimena osallistua verkon laajentamiseen ja sen julkisen tilikirjan turvaamiseen.
+
+Energiankulutus on välttämätöntä tämän uuden rahoitusverkon turvallisuuden takaamiseksi.
+
+Nykyinen “bitcoinien louhinnan” vaihe, jonka aikana louhijoita kannustetaan korkealla palkkiolla, on fiksu tapa edesauttaa verkon kasvua. Toisin sanoen kaikki, jotka ahnaasti louhivat bitcoineja tänään, auttavat uuden rahoitusjärjestelmän käynnistämisessä riippumatta siitä, ymmärtävätkö he tämän vai eivät.
+
+
+John Nash kommentoi Satoshin keksintöä peliteoreettisesta näkökulmasta
+Kuten edellä mainittiin, Bitcoin-louhinnan vaikeudensäätö tehdään automaattisesti, mikä johtaa dynaamiseen, itsekorjautuvaan järjestelmään. Jos louhinta — mistä tahansa syystä — kallistuu, pienempi joukko ihmisiä louhii voitollisesti, jolloin louhina vähenee, mikä alentaa louhinnan vaikeusastetta. Tämä puolestaan tekee louhinnasta jälleen helpompaa ja siten halvempaa, mikä kannustaa useampia ihmisiä louhimaan.
+
+Ajan myötä louhinnan taloudellinen kannustinrakenne muuttuu. Tästä seuraa, että myös Bitcoinin energiankulutus muuttuu. Syy, miksi muutos on väistämätöntä, on Bitcoinin lohkopalkkitoiminta, joka varmistaa hallitun, rajoitetun tarjonnan.
+
+Lohkopalkkio puoliintuu jokaisen 210 000 lohkon kohdalla ja painuu nollaan 64 puoliintumisen jälkeen. Viimeisten puoliintumisten jälkeen louhijoiden ainoana taloudellisena palkkiona uuden lohkon louhimisesta ovat siirto- eli transaktiomaksut.
+
+Toisin sanoen “uusien bitcoinien louhinta” pysähtyy lopulta. Kelvollisten lohkojen louhinta jatkuu senkin jälkeen.
+
+
+Bitcoinissa koodi todella on laki
+Voidaan väittää, että elämme tällä hetkellä kultakuumetta vastaavaa bitcoin-vaihetta, jossa sekä louhinnan palkkio että tulevaisuuden ennustettava palkkio ylittävät huomattavasti investointi- ja energiakustannukset. Vaikka on vaikea arvioida, kuinka paljon turvallisuutta on tarpeeksi turvallisuutta, voidaan sanoa, että Bitcoin-verkko on tällä hetkellä “yliturvattu” tämän kultakuumeen sivuseurauksena.
+
+
+Bitcoinin hallittu tarjonta ja lohkopalkkio ajan myötä
+Elämme vielä Bitcoinin lohkopalkkio-aikakauden alkuvaihetta, kuten yllä oleva kaavio osoittaa.
+
+Olipa bitcoin käyttöönotto valuuttana hidasta ja tasaista tai eksponentiaalista ja parabolista, energiankulutuksen jatkuva räjähdysmäinen kasvu on erittäin epätodennäköistä. Väittäisin, että liiallinen kasvu tasaantuu ja johtaa hieman järkevämpään turvallisuuden ja energiankulutuksen väliseen tasapainoon lohkopalkkion lähestyessä nollaa. Bitcoinin tulevasta arvosta ja ihmisten halukkuudesta maksaa siirtopalkkioita riippuen tämä tasapaino saattaa johtaa kasvavaan turvallisuuteen tai varovaisempaan energiankäyttöön.
+
+Nykyaikaiset marmorilohkot
+Mitä paremmin ymmärrät työntodisteen merkityksen, sen ilmeisempää on se, että Bitcoin-verkon energiankulutus ei ole bugi, se on ominaisuus. Sikäli kuin tiedämme, termodynamiikan pääsääntöjä ei voi rikkoa. Jos fysiikan, matematiikan ja/tai kvanttilaskennan saralla ei tapahdu maailmaa ravisuttavia läpimurtoja, energian kuluttaminen on ainoa tapa bittien kääntämiseksi ja bittien kääntäminen on ainoa tapa louhia uusia lohkoja.
+
+Valitettavasti meillä ei ole (vielä) intuitiivista ymmärrystä tästä uudesta kryptografisesta maailmasta. Työntodistuksen tärkeyden ymmärtäminen vaatii syväsukellusta lukuisiin aiheisiin. Meiltä puuttuvat tiiviit, helpot ja tyylikkäät selitykset ja kielikuvat. Hugo Nguen teki hyvää työtä selittäessään, miten työntodistus yhdistää abstraktin digitaalisen bitcoin-maailman fyysiseen maailmaan:
+
+Liittäessämme lohkoon energiaa, annamme sille “muodon”. Tällöin sillä on todellista painoa ja seurauksia aineellisessa maailmassa.
+
+— Hugo Nguyen
+
+Työntodiste on pohjimmiltaan mekanismi, jonka avulla voidaan helposti tarkistaa väitteen “Olen tehnyt todella paljon töitä tämän asian luomiseksi” todenmukaisuus. Tästä näkökulmasta tarkasteltuna uudet ja hienot laskennalliset lohkomme ovat hieman kuin marmorilohkot, ja työntodiste on ikään kuin katsoisi kaunista marmoriveistosta. On heti selvää, että veistoksen luomiseen meni paljon työtä. Huijaaminen on erittäin vaikeaa, koska hienon veistoksen luominen työtä tekemättä on likipitäen mahdotonta. Et voi heittää marmorilohkoa seinään ja luottaa siihen, että Daavid jää jäljelle. Se ei ole mahdotonta, mutta se on hyvin, hyvin, hyvin epätodennäköistä. Sen sijaan sinun on taltattava marmorilohkoa oikein ja huolellisesti. Voidaan väittää, että tämä on yksi syy siihen, miksi upeat taideteokset ovat niin arvokkaita: niiden luomiseen käytettiin paljon ajatusta, tahtoa ja työtä.
+
+
+Michelangelon vanhan koulukunnan työntodiste. Kuvalähde: Jörg Bittner Unna
+Samoin on epätodennäköistä löytää kelvollisia lohkoja tekemättä työtä. Kuten ruma sattumanvaraisesti taltattu veistos, virheellinen lohko voidaan yksinkertaisesti jättää syrjään. Kun huomaat kelvollisen lohkon, tiedät kuitenkin heti, että sen luomiseen nähtiin paljon vaivaa eli se syntyi työstä.
+
+Molemmissa tapauksissa ihmiskäden työn tulokset, veistos ja pätevä lohko, ovat itsessään todiste työstä.
+
+Tarkoitan sitä, että työntodisteen luonteen ja kelvollisten lohkojen louhinnan kannustimien ymmärtäminen sekä turvallisuusominaisuudet ja työntodistuksen arvo, voivat auttaa siirtymään “tuhlatun energian” tilasta “energiaa käytetiin jonkin arvokkaan luomiseen”. Useimmat ihmiset arvostavat kauniita marmoriveistoksia. Yhä useammat ihmiset arvostavat pätevien lohkojen ketjua.
+
+Turvallisuutta puhtauden avulla
+Toinen bugiksi naamioitu ominaisuus on Bitcoinin työntodisteen sattumanvaraisuus. Yleinen parannusehdotus on, että voisimme käyttää kaikkea tätä Bitcoin-verkon kuluttamaa sähköä jonkin muun tekemiseen, johonkin todella hyödylliseen, kuten alkulukujen löytämiseen tai proteiinilaskosten laskemiseen, verkon turvaamisen lisäksi.
+
+Tämä vastaväite Bitcoinin työntodistealgoritmia vastaan juontaa juurensa oletukseen, että pätevien lohkojen löytäminen on luonnostaan hyödytöntä. Se ei ole hyödytöntä.
+
+Toissijaisen palkkion käyttöönotto työn tekemisestä saattaa vaikuttaa hyvältä ajatuksesta, mutta se itse asiassa tuo mukanaan turvallisuusriskin.
+
+Ongelma jonkin muun tekemisessä — jotain, mitä muut ihmiset saattavat pitää hyödyllisenä — on palkkion jakamisessa. Se tarkoittaa, että louhijoilla on kaksi syytä louhia.
+
+— Andreas M. Antonopoulos
+
+Palkkion jakaminen voi johtaa tilanteeseen, jossa “toissijainen tehtävän suorittaminen on ensisijaista tehtävää hyödyllisempää”. Bitcoinilla ei koskaan ole tätä ongelmaa. Bitcoin takaa turvallisuutensa työntodistealgoritmin puhtaudella.
+
+Ei, varantotodiste (engl. proof-of-stake) ei luultavasti ole oikea vastaus.
+
+Tulevaisuudessa saatamme löytää jotain, joka sopii vielä paremmin totuuden ankkuriksi kuin energia sopii. Ennen kuin näin tapahtuu, meidän pitäisi pitää kiinni siitä, josta olemme erittäin varmoja: termodynamiikan lait; työn tekemiseen tarvittava energia työntodisteena.
+
+Johtopäätökset
+Toivon, että olen onnistunut istuttamaan näkökulman muutoksen siemenen: energian kuluttaminen työn todistamiseen työntodistuksen muodossa ei ole tuhlausta, vaan kannatettava pyrkimys.
+
+Louhinnan ja työntodisteen yksityiskohtaisempi ymmärtäminen voi auttaa vakuuttamaan osan Bitcoinin arvostelijoista ja siirtämään näkökulmaa “tehottomasta ja tuhlaavaisesta” kohti “”turvallista ja sensuroimatonta”. Näiden vivahteiden nostaminen esille voi myös olla hyödyllistä sen ymmärtämiselle, että Bitcoinin energiankulutus korreloi voimakkaimmin Bitcoin-verkon turvallisuuden, eikä bitcoinin käyttöönoton, käytön tai hyödyllisyyden, kanssa. Vaikka verkon hyödyllisyys ja bitcoinin hinta kasvanevat jatkossakin eksponentiaalisesti, energiankulutukset ei välttämättä tarvitse noudattaa samaa eksponentiaalista suuntaa. Bitcoin-verkon parempi ymmärtäminen voi myös auttaa ymmärtämään, missä muut ratkaisut epäonnistuivat.
+
+Satoshin nerous oli yhdistää joukko fiksuja temppuja uuteen taloudelliseen peliin, joka luo digitaalisen niukan olion ilman keskitettyä liikkeeseenlaskua. Tämä olio on laskennan tukemaa ja laskenta vaatii energiaa.
+
+Nykyinen taloudellinen peli on seiniä ja holveja, suljettuja järjestelmiä ja keskitettyä valtaa. Uusi taloudellinen peli on tiivisteiden ja lohkojen, julkisten ja yksityisten avainten peli, joka perustuu matemaattisiin todisteisiin ja fyysiseen todellisuuteen. Peli ilman portinvartijoita, ilman keskusviranomaisia, ilman sensuuria tai syrjintää.
+
+Vanhat säännöt ovat johtaneet järjestelmään, jossa raha on arvokasta “koska minä sanon niin” ja johtaa kaikenlaisiin taikatemppuihin: osittaisvarantopankkijärjestelmään, liiallista kulutusta edesauttavaan inflaatioon ja jopa hyperinflaatioon, koska houkutus luoda entistä enemmän rahaa on yksinkertaisesti vastustamaton.
+
+Uusia sääntöjä ei ehkä ole helppo ymmärtää. Ne voivat kuitenkin johtaa uuteen taloudelliseen todellisuuteen: uuteen talouteen, joka perustuu järkevään ja kestävään rahaan. Kaikkien meidän on mukauduttava näihin sääntöihin ja perehdyttäväuuden pelin vivahteisiin. Meidän on ymmärrettävä se, että tämä uuden, hajautetun talouden turvaamiseksi on käytettävä rajallista resurssia. Bitcoinin tapauksessa tämä resurssi on energia.

@@ -1,0 +1,81 @@
+Die Bitcoin Reise
+
+Vor ein paar Wochen hatte ich das große Vergnügen, den Eröffnungsvortrag auf der Value of Bitcoin-Konferenz zu halten. Ich möchte einige Ideen dieses Vortrags noch einmal aufgreifen und vielleicht tiefer in einige Teile eintauchen. Immerhin war meine Keynote “The Bitcoin Journey” zeitlich begrenzt: 21 Minuten.
+
+Ich werde die Bitcoin-Reise noch einmal in zwei Teilen betrachten:
+
+Die Reise eines Bitcoiners
+Die Reise von Bitcoin
+
+Teil 1: Die Reise eines Bitcoiners
+Die natürliche Reaktion bei der ersten Begegnung mit Bitcoin besteht üblicherweise darin, es nicht ernst zu nehmen. Die meisten Menschen lehnen die Idee ab, dass magisches Internetgeld funktionieren, interessant sein oder Probleme der Gesellschaft beheben könnte. Die sofortige Ablehnung war auch meine erste Reaktion: „Oh, das wird nie wirklich funktionieren. Es wird eines Tages gehackt und all dein lustiges Internetgeld wird weg sein.“ Leider kann ich mich zumindest insofern trösten, als dass ich mit meiner initialen Reaktion nicht allein bin. Während einige Bitcoiner den Ernst der Lage sofort verstanden, mussten die meisten von uns Sterblichen mehrmals mit Bitcoin konfrontiert werden, bevor wir genauer hinschauten.
+
+Kurz gesagt, die Reise eines Bitcoiners verläuft normalerweise so:
+
+Das wird niemals funktionieren.
+Warum ist es noch nicht tot?
+Oh, das ist interessant …
+
+
+Wenn du in den Bitcoin-Kaninchenbau fällst, fühlst du dich ein bisschen wie in einem M.C. Escher Gemälde. Hoch ist runter, runter ist rauf, viele Dinge machen zunächst keinen Sinn, und je länger man es betrachtet, desto verwirrender wird es. Dieses Chaos hat jedoch eine gewisse Ordnung. Das ist nur zu Beginn noch nicht ersichtlich.
+
+
+Ich glaube, der Grund für diese anfängliche Verwirrung ist zweierlei. Erstens ist Bitcoin äußerst interdisziplinär. Es umfasst viele Themen, auch wenn man nur ein rudimentäres Verständnis davon erhalten möchte. Du wirst dich wahrscheinlich etwas mit Kryptographie beschäftigen müssen (zumindest verstehen was der Unterschied zwischen einem Public- und einem Private-Key ist), etwas mit Informatik (wie unterscheidet sich ein dezentrales Netzwerk von anderen Computersystemen), etwas mit Handel (wo kann ich Bitcoin kaufen und warum hat es den Preis, den es derzeit hat) und etwas mit Spieltheorie (wer kontrolliert Bitcoin und warum ist es so schwer zu ändern oder abzuschalten), nur um überhaupt loslegen zu können. Je tiefer du gräbst, desto mehr Disziplinen werden auftauchen: Makroökonomie, Skalierbarkeit, Kryptographie mit elliptischen Kurven, Geldpolitik, Geldgeschichte, Messung und Forschung bezüglich Knappheit, Smart Contracts, Programmier- und Skriptsprachen, Anreizstrukturen, Gesetze, Vorschriften, Datenschutz, Sicherheit, Psychologie, sogar Biologie. Die Themenliste ist praktisch endlos.
+
+Dieser Gedanke wird sehr schön durch das veranschaulicht, was ich “Die Bitcoin Blume” (Unchained Capital, 2017) und “Die Bitcoin Lernspirale”(Block Tower, Ari Paul, 2018) nennen würde.
+
+
+
+Der Nachteil dieser multidisziplinären Natur ist, dass es nicht einfach ist Bitcoin zu verstehen. Der Vorteil ist, dass viele Wege einen dazu führen können, sich Bitcoin genauer ansehen. Mit anderen Worten: Viele Eingänge führen in diesen speziellen Kaninchenbau. Ob man einen Hintergrund in Informatik, Finanzen, Handel, Kryptographie, Physik, Wirtschaft hat, ein Goldbug, oder ein klassischer Liberaler ist, oder mit der Idee der Kryptoanarchie geflirtet hat. All diese Hintergründe können einem einen Vorsprung verschaffen.
+
+Interessant ist jedoch, dass so viele Menschen mit so unterschiedlichen Hintergründen zu dem gleichen Schluss kommen: Bitcoin ist das Geld der Zukunft. Während der Kaninchenbau viele Eingänge hat, führen am Ende wohl alle Wege zu Bitcoin.
+
+
+Teil 2: Die Reise von Bitcoin
+Bitcoin ist eine Zero-to-One-Erfindung. Bevor Satoshi Bitcoin erfand, gab es keine echte digitale Knappheit. Das Problem der doppelten Ausgaben war ungelöst. Heute leben wir in einer Welt, in der Bitcoin existiert. Noch viel bedeutsamer, wir leben in einer Welt, in der Bitcoin einen Wert hat.
+
+Somit können wir drei Stufen identifizieren:
+
+Stufe 0: Bitcoin existiert nicht.
+Stufe n: Bitcoin existiert.
+Stufe N: Bitcoin hat Wert.
+
+Stufe N ist wichtig, da die zugrunde liegende NgU-Technologie von Bitcoin erfordert, dass Bitcoin einen gewissen Wert hat. Sobald es einen Wert erreicht hat — einen beliebigen Wert — beginnt die ewige Rückkopplungsschleife von Bitcoin.
+
+
+Satoshi spielte in seinen Schriften auf diese Rückkopplungsschleife an.
+
+“Es könnte sinnvoll sein, sich etwas (Bitcoin) zu besorgen, falls es wirklich Fahrt aufnimmt. Wenn genug Menschen genauso denken, wird dies zu einer sich selbst erfüllenden Prophezeiung..” — Satoshi Nakamoto
+
+In den letzten Jahren haben alle Arten von Menschen — Künstler, Forscher, Analysten, Trader, Kommentatoren, kurz: Bitcoiner aus allen Lebensbereichen — bemerkt, dass Bitcoin sich in Wellen zu bewegen scheint. Im Jahr 2018 veröffentlichten Hasu und Nic Carter “Visions of Bitcoin” und beschrieben die verschiedenen konkurrierenden Narrative, die zur Beschreibung von Bitcoin bis zu diesem Punkt verwendet wurden: Ein E-Cash Proof-of-Concept, zensurresistentes E-Gold, ein Netzwerk für günstige Zahlungen, eine programmierbare verteilte Datenbank, eine anonyme Darknet-Währung, eine Reservewährung für Krypto und schließlich: ein nicht korrelierender finanzieller Vermögenswert.
+
+Vor kurzem veröffentlichte Plan B sein Stock-to-Flow-Cross-Asset-Modell (S2FX), das unterschiedliche Cluster anhand des Stock-to-Flow- und Marktwerts von Bitcoin identifiziert. Er identifizierte vier verschiedene Cluster:
+
+Proof of Concept (ein Versuch durch einen funktionsfähigen Prototypen)
+Zahlungen
+Elektronisches Gold
+Finanzieller Vermögenswert
+
+Wenn das Modell verhebt, stehen wir kurz vor dem Eintritt in Phase 5. Wie sich Bitcoin in dieser Phase manifestieren wird, ist erst im Nachhinein bekannt.
+
+Eine weitere Analyse bezüglich des wellenartigen Charakters von Bitcoin wurde von Unchained Capital durchgeführt, und erstmals 2018 veröffentlicht. Die von Ihnen untersuchten “HODL-Wellen” zeigen auf wunderbare Weise die Altersverteilung des Bitcoin UTXO-Sets. Im Wesentlichen können wir sehen, dass ein bestimmter Prozentsatz der Menschen sich dafür entscheidet Bitcoins langfristig zu halten, d. H. für mehrere Jahre. Sie identifizierten verschiedene HODL-Wellen, indem sie nur das UTXO-Alter betrachteten: das Genesis-HODL, das HODL von 2011 und das HODL von 2014. Durch Betrachten der neuesten Daten können wir auch ein HODL von 2018 identifizieren.
+
+
+Die unterhaltsamste Analyse ist dieses Video von Alex Millar, das im Jahr 2015 veröffentlicht wurde. Er betrachtet nur den Preis und zeigt, wie Bitcoin in einem massiven Hochlauf tendenziell an Wert gewinnt, um kurze Zeit später heftig einzubrechen. Die Preisuntergrenze nach dem Crash ist jedoch in der Regel viel höher als das vorherige Tief, was langfristig zu einem Aufwärtstrend führt.
+
+Diese verschiedenen Phasen und Wellen zeigen, dass Bitcoin zyklischer Natur ist. Wir haben bereits gesehen, wie Nachfrage, Preis und Sicherheit eine ewige Rückkopplungsschleife bilden. Viele verschiedene Aspekte von Bitcoin sind jedoch zyklisch. Akzeptanz, Entwicklung, Mining, Schwierigkeitsanpassungen, Belohnungs-Epochen — alle sind zyklisch. Zugegeben, die Halbierungen werden in etwa 120 Jahren aufhören, aber die anderen Zyklen werden höchstwahrscheinlich fortgesetzt.
+
+Teil 3: Der Kreis schließt sich
+Die Essenz von Bitcoin, die wirklich unveränderlich ist, ist das Output des Systems: das UTXO-Set. Netzwerkknoten arbeiten zusammen, um es ständig anzuhängen, Blöcke und Transaktionen zu überprüfen, gültiges hinzuzufügen und ungültiges zu verwerfen. Die Spitze der Chain ist das gemeinsame Verständnis aller Knoten: die Version des Kassenbuches (Ledgers), die am korrektesten und aktuellsten ist.
+
+In ähnlicher Weise bauen die Menschen ein gemeinsames Korpus an Wissen und mentalen Modellen auf, um herauszufinden, was Bitcoin ist. Bitcoiner arbeiten zusammen, um das Wissen ständig zu erweitern, indem sie einbeziehen, was gültig und sinnvoll ist, und verwerfen, was ungültig oder nicht sinnvoll ist. Unser gemeinsames Verständnis von Bitcoin kann als Schelling-Punkt angesehen werden: die Schlussfolgerung, zu der die meisten Menschen nach intensiven Studien kamen, oft ohne Indoktrination oder Kommunikation mit anderen.
+
+
+Ein Bitcoin-Knoten vertraut nicht den Aussagen anderer: Er überprüft alle Daten so gut wie möglich. Ebenso vertrauen die meisten Bitcoiner nicht dem, was andere sagen: Sie überprüfen Narrative und mentale Modelle so gut sie können.
+
+So wie Bitcoin ein Spiel ohne Ende ist, ist der Sturz in den Bitcoin-Kaninchenbau eine Reise ohne Ende. Bitcoin ist ein sich ständig veränderndes organisches System. Es wird sich weiterentwickeln, ebenso wie unser individuelles und kollektives Verständnis davon. Mit anderen Worten: Ich glaube, der Grund, warum noch niemand das Ende des Kaninchenbaus gefunden hat, ist, dass es keines gibt. Der Kaninchenbau ist zirkulär. In den kommenden Jahren und Jahrzehnten werden viele Menschen versuchen vollständig zu verstehen was Bitcoin ist und was es werden könnte. Aber so sehr wir es versuchen, ich fürchte ein vollständiges Verständnis wird niemals erreicht werden. Wir müssen alle unseren Frieden mit dieser fremdartigen Technologie finden, oder wir müssen in paradoxen Kreisen um sie herumgehen, um ein umfassendes Verständnis zu erlangen.
+
+
+Wenn Bitcoin weiterhin erfolgreich ist, muss es am Ende verschwinden. Genau wie das Internet und der Strom die getan haben, sie treten sie in den Hintergrund, wie fließendes Wasser in deinem Haus oder die Luft, die du atmest. Jeder wird Bitcoin für selbstverständlich halten, folglich verschwinden Bitcoiner. Genau wie man sich heute nicht mehr als ‘Internet-Person’ identifizieren muss, wird man sich in Zukunft nicht mehr als Bitcoiner identifizieren müssen. Wenn dieser Tag kommt, sind wir in die Endphase eingetreten.
+
+Stufe O: Bitcoin ist allgegenwärtig.

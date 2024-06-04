@@ -1,0 +1,81 @@
+El Ascenso del Individuo Soberano
+Cómo el poder se está realineando a sí mismo en un mundo nativo al internet
+
+No hace mucho tiempo, el internet era un fenómeno alternativo, poco convencional. Muy poca gente vio los beneficios de una red global de comunicaciones. Todavía menos gente tuvo la visión y previsión sobre lo que podría permitir. Hoy, la mayoría de la gente lo da por hecho. Simplemente se espera que esté ahí, como agua en tu casa.
+
+Aún antes de que el internet se volviera omnipresente, los tecnólogos y visionarios se dieron cuenta del potencial de esta tecnología transformadora. Se dieron cuenta que una red que no discrimina combinada con el poder mágico de la criptografía de llave pública inclina la balanza del poder en favor del individuo.
+
+La comunicación resistente a espionaje que no puede ser detenida es veneno para regímenes autoritarios, los cuales, después de todo, están en el negocio de suprimir y controlar el flujo de información. Si la gente sigue pudiendo comunicarse y reunirse, pueden levantarse y hablar la verdad al poder. Hemos visto el potencial liberador de las tecnologías de comunicación durante la Primavera Árabe, y hoy día continuamos viendo a individuos levantarse y pelear contra reglas autoritarias.
+
+Aquello que los ciberpunks comprendieron hace 30 años está comenzando a darse frente a nosotros: las herramientas de nuestra era de información tienen el potencial de empoderar individuos como nunca.
+
+
+Libertad para hacer Transacciones
+Al momento en que escribo estas líneas, cientos de miles de personas están marchando en las calles de Hong Kong, protestando contra una ley de extradición propuesta por el gobierno. Como siempre, las protestas como ésta evidencian el actual balance de poder entre individuos y grupos de poder.
+
+Desafortunadamente el actual sistema de vigilancia, el reconocimiento facial automatizado y las transferencias sin efectivo permiten no solo un punto singular de falla sino también un punto singular de control en tiempos de descontento. Si al gobierno no le gusta tu opinión o el hecho de que formaste parte de una protesta (pacífica), una simple verdad se vuelve aparente: tu libertad de asociación era una ilusión, así como tu libertad de hacer transacciones libremente.
+
+En una sociedad libre, estas libertades deberían estar garantizadas. ¿Cómo? Bueno, como hemos visto en el pasado, la tecnología de información y la criptografía — usadas cuidadosamente — garantizan el derecho a la libertad de expresión. Después de todo, la violencia nunca resolverá un problema matemático. En este sentido, una tecnología de información existe hoy que garantiza el derecho a hacer transacciones libremente: Bitcoin.
+
+Fácilmente olvidamos que “no requiere permiso” y “resistente a censura” son más que palabras. En circunstancias difíciles, estas palabras se vuelven un factor de vida o muerte. Las protestas de Hong Kong hacen evidente una vez más lo que los que abogan por la privacidad han estado promoviendo por años, incluso décadas: si la censura y espionaje forman parte del sistema, los que estén a cargo las usarán y abusarán. Y si tú no tienes la opción de desprenderte de tu identidad, la libertad de expresión, de pensamiento y de acción son imposibles.
+
+Lo que es verdad para WeChat, Facebook y Google, también es verdad para nuestro sistema de pagos actual y las instituciones financieras del mundo. No importa qué tan noble sea la motivación de construir controles centrales dentro de los sistemas financieros y de comunicaciones — el poder corrompe, y el poder absoluto corrompe absolutamente, como dice el dicho.
+
+“Los pagos descentralizados y privados son una innovación necesaria para un futuro digital en donde retenemos nuestras libertades civiles y personales.”
+
+Alex Gladstein
+
+La criptografía fuerte nos permite reclamar nuestro derecho a las conversaciones privadas en la era digital, gracias a la encriptación punto-a-punto. La misma criptografía nos permite reclamar nuestro derecho a hacer transacciones libremente en un mundo digital, gracias a las firmas digitales, cálculos criptográficos y la máquina global de la verdad y libertad que es Bitcoin.
+
+Libertad de Permanecer Privados
+En el mundo digital de hoy — como saben los protestantes de Hong Kong — saber quién fue a cuál protesta es tan fácil como extraer información de una base de datos. Así sea a través de las cuentas bancarias de la gente, de WeChat, Alipay u otros perfiles virtuales, la conveniencia del status quo inevitablemente lleva a un sistema de vigilancia total, y, por lo tanto, de control total.
+
+La solución a este acertijo es permitir la privacidad por defecto, lo que ha sido una característica por miles de años. Ni el internet ni Bitcoin son perfectos en este asunto, por lo mismo son necesarias la constante vigilancia y el desarrollo de tecnología que mejore la privacidad.
+
+En los dos años pasados, ha habido esfuerzos para encriptar todo el tráfico de internet por defecto. En los próximos dos años, esperamos ver esfuerzos continuos para hacer cada transacción en bitcoin aún más privada de lo que son ahora (razón por la cual Bull Bitcoin usa CoinJoin de Wasabi por defecto).
+
+Como se evidencia en las largas filas de las máquinas expendedoras de tickets del tren de Hong Kong, la vigilancia hace a todas las demás libertades inútiles.
+
+
+Fuente: Mary Hui
+La situación actual en Hong Kong pinta una imagen clara de los efectos secundarios desastrosos de una sociedad sin efectivo. Sin una manera para transaccionar de forma privada y anónima, la gente está esclavizada a los que manejan las finanzas. Y no hay manera, aun evadiendo lo digital, de poder evitar esta esclavización.
+
+Posiblemente las cosas puedan ir de mal en peor. La élite financiera que controla el bien más importante de nuestra sociedad — el dinero en sí — está jugando a dios con nuestra realidad macroeconómica compartida. En las últimas dos décadas, se llevó a cabo un esfuerzo concertado para atacar otra libertad financiera: la libertad para ahorrar.
+
+Libertad para ahorrar
+Aún sin gente marchando en las calles, es claro para la mayoría que estamos en tiempos caóticos. Las divisas no están sosteniendo su valor. Una recesión es inminente. Los hombres más poderosos del mundo están luchando abiertamente guerras financieras y lo presumen en twitter. Todo mientras la interminable impresión de dinero continúa y los políticos y banqueros están escupiendo propaganda para normalizar las tasas de interés negativas.
+
+La gente habla sobre la flexibilización cuantitativa y política de tasa de interés negativa (QE y NIRP respectivamente por sus siglas en inglés) como si fueran todo menos una locura. La primera es simplemente impresión de cantidades masivas de dinero, la segunda implica pagarles a prestatarios y robarles a ahorradores.
+
+Qué días aquellos en los que uno podía obtener intereses por su dinero en el banco. En un mundo de tasas negativas, tú tienes que pagarle al banco por guardar tu dinero. En ese mismo sentido, qué días aquellos en los que tenías que pagar tu préstamo más un pequeño extra para reembolsarle al prestador por el riesgo que tomó. En un mundo de tasas negativas, te pagan a ti por pedir un préstamo. ¿Necesitas dinero? ¡No te preocupes! ¡Te vamos a dar el dinero y te vamos a pagar un poco más, por tener el privilegio de darte un préstamo!
+
+Así como debería ser obvio para cualquier niño que se le da a escoger entre 2 malvaviscos hoy o uno mañana: el mundo financiero actual está desafiando el sentido común. Repito: pura locura.
+
+Más y más gente se da cuenta que esta locura debe parar y decide salir de un sistema en el cual una deuda global de USD$15 trillones con rendimientos negativos es lo normal. El sistema financiero quebrado, con tasas de interés negativas y políticas monetarias “modernas” es, en parte, responsable del ascenso de individuos soberanos en todo el mundo.
+
+
+Fuente: Rachel Cheung
+La gente comienza a darse cuenta de lo estúpido de este juego. Presionando a este sistema roto huyendo de los bancos es una forma de protesta pacífica. Almacenar tu valor en un activo que no puede ser inflado, no puede ser confiscado y no es sujeto a caprichos de políticos y banqueros es otra.
+
+“Los satoshis son mi refugio seguro.”
+
+Matt Odell
+
+Bitcoin se está convirtiendo rápidamente en un activo de refugio seguro, especialmente para gente que no tiene fácil acceso a divisas más “estables” que la suya. En un periodo suficientemente largo, bitcoin ofrece estabilidad en un mundo de inestabilidad global. Garantiza el derecho a ahorrar: nadie tendrá la posibilidad de quitarte tus satoshis — tú tienes que entregarlos voluntariamente.
+
+Construyendo hacia un futuro soberano
+La gente está harta de la tiranía de los bancos, la tiranía del estado, la tiranía de Facebook, WeChat, Sina Weibo, y todo lo demás que es “demasiado grande para quebrar”.
+
+Es nuestra responsabilidad colectiva construir un mejor futuro. Un futuro en el que la libertad para hacer transacciones, la libertad a la privacidad y la libertad de ahorrar tu riqueza a través del tiempo estén garantizadas. En palabras de las Naciones Unidas: los mismos derechos y libertades que la gente tiene fuera de línea se deben proteger estando en línea.
+
+Queremos ayudar a construir un mundo que permita a los individuos soberanos a prosperar. Un mundo en el que cada individuo — y cada compañía, en tal caso — pueda utilizar tecnologías que ofrezcan libertad a su antojo sin pedir permiso a nadie. Esta es una de las razones por las que hemos liberado cyphernode, un paquete de software y utilidades para operar servicios relacionados a Bitcoin de calidad empresarial, de manera gratuita.
+
+
+Cyphernode — libre como la libertad.
+Mientras es debatible si Bitcoin puede literalmente resolver todos los problemas del mundo, sin duda es una gran pieza del rompecabezas. Las tecnologías que empoderan al individuo son más importantes que nunca. Las tecnologías que te permiten mantener tu privacidad, expresarte y haccer transacciones libremente, o inclinar la balanza de poder hacia el individuo de otra forma serán invaluables para el mundo hacia el que nos dirigimos.
+
+China nos está dando una muestra de lo que significa vivir en un estado distópico de vigilancia: si cruzas la calle en el lugar y horario equivocado, gracias al reconocimiento facial, automáticamente se descuenta de tu banco una multa mientras un algoritmo ajusta tu evaluación social crediticia a la baja. Si pagas por un ticket de autobús para participar en una protesta pacífica corres el riesgo de ser eliminado del registro central, efectivamente quitando tu habilidad de vivir una vida normal como ciudadano. Podría suceder hoy o mañana, o en cualquier momento en el futuro. El estado vigilante no olvida.
+
+Las herramientas para garantizar la libertad para todos existen hoy, solo que no están distribuidas equitativamente, no son bien entendidas, ni ampliamente entregadas. Sin embargo, con cada día que pasa, más y más gente se está dando cuenta del tipo de poder que está en sus manos.
+
+Te alentamos a permanecer fuerte. Te alentamos a continuar construyendo. Te alentamos a no ceder ante la tiranía. Nosotros, y mucha gente como nosotros, haremos lo mejor a nuestro alcance para construir un mejor futuro. Manténganse a salvo, y no se olviden de comprar bitcoin.

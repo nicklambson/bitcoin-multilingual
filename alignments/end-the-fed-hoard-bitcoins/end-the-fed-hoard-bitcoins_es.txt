@@ -1,0 +1,25 @@
+Elimina la Fed: Acapara Bitcoins
+Pierre Rochard
+19 de febrero de 2013
+
+La estrategia libertaria para socavar las monedas fiat o fiduciarias siempre se ha enfocado en hacer viables las alternativas del oro y la plata. Este esfuerzo ha fracasado porque es imposible competirle a una moneda digital (como el dólar) con un “commodity” físico, debido a los altos costos de transacción que se asocian a éstos últimos. La única forma en que los metales preciosos podrían triunfar es si el fiat fracasa. Aunque pueda ocurrir que las monedas fiat inevitablemente colapsen en el largo plazo, esperar que esta posibilidad ocurra es algo inaceptable considerando la magnitud del daño que los bancos centrales están infligiendo a la acumulación de capital de la humanidad.
+
+El mantra de aprobar una legislación para auditar a la Reserva Federal de los Estados Unidos, enlodándola en escándalo, y “legalizando la competencia de monedas”, ignora la economía de la elección pública, como también ignora el hecho de que las monedas fiat digitales ya ganaron la competencia contra los metales preciosos, y lo volverían a hacer. No necesitamos otra solución política a un problema económico. Lo que necesitamos es una moneda más competitiva en el mercado. Aparece Bitcoin.
+
+Los bajos costos de transacción convierten a Bitcoin en el medio de intercambio más competitivo en la historia de la humanidad, y puede que una moneda con costos de transacción aún más bajos sea algo teóricamente imposible. Para aprender más sobre los bitcoins les recomiendo nuestra excelente selección de textos.
+
+
+Bitcoin está reemplazando lentamente a los medios de intercambio fiat y metálicos. Actualmente está transitando desde [la fase de los “innovadores” a la de la “adopción temprana:
+
+
+Esta transición es acelerada por los nuevos intermediarios, como Coinbase, que están disminuyendo el costo de vender monedas fiat por bitcoins. Al mismo tiempo que la demanda aumenta, la inflación de bitcoin se reduce considerablemente debido a la reducción a la mitad de la recompensa del bloque:
+
+
+El valor en dólares de todos los bitcoins en existencia ahora excede los $300 millones:
+
+
+Esto nos lleva a una pregunta interesante: ¿es el valor de los bitcoins una burbuja especulativa?
+
+El precio de las monedas fiat (y de las deudas denominadas en fiat) es la verdadera burbuja que está por reventar. La pregunta relevante es cuándo el poder adquisitivo de los bitcoins llegará a su punto más alto. La apreciación de lo bitcoins en relación a los bienes de consumo se va a desacelerar cuando la tasa de adopción disminuya y los acaparadores empiecen a usar sus ganancias para comprar bienes de consumo. Simultáneamente, las monedas fiat entrarán en un espiral hiperinflacionario y las tasas de interés real aumentarán bruscamente. Las altas tasas de interés real incentivarán a los acumuladores de bitcoins a comprar bienes de inversión productiva y a ofrecer préstamos a otros que ahora estarán libres de deudas denominadas en fiat. En ese punto, el poder adquisitivo de los bitcoins para bienes de capital (i.e. tasas de interés) va a decaer, pero su poder de compra de bienes de consumo seguirá aumentando debido a la deflación alimentada por la productividad.
+
+Si tienes un interés en eliminar a los bancos centrales te recomendaría que acumules bitcoins transfiriendo tus dólares a coinbase.com (1% de comisión) y que luego muevas los bitcoins que compres a un computador seguro. Esta acumulación o acaparamiento echa a andar un circulo virtuoso de retroalimentación que acelera la adopción de Bitcoin:

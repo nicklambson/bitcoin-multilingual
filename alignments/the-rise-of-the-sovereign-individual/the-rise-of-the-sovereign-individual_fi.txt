@@ -1,0 +1,81 @@
+Suvereenin yksilön nousu
+Kuinka valta uudistaa itsensä internet-natiivissa maailmassa?
+
+Vähän aikaa sitten Internet oli vielä outo ilmiö. Hyvin harvat näkivät maailmanlaajuisen viestintäverkon edut. Vielä harvemmalla oli visio ja ennakointikykyä ymmärtää, mitä internet voisi mahdollistaa. Nykyään useimmat ihmiset pitävät Internetiä itsestäänselvyytenä. Sen odotetaan yksinkertaisesti olevan olemassa, kuten juokseva hanavesi kotonasi.
+
+Jo ennen Internetin yleistymistä teknologistit ja visionäärit ymmärsivät tämän transformatiivisen teknologian mahdollisuudet. He tajusivat, että syrjimätön verkko yhdistettynä julkisen avaimen salauksen maagiseen tehoon kääntää valtatasapainon yksilön hyväksi.
+
+Salakuuntelun estävä viestintä, jota ei voida pysäyttää, on myrkkyä autoritaarisille hallinnoille, jotka loppujen lopuksi haluavat tukahduttaa ja hallita tiedonkulkua. Jos ihmiset kykenevät edelleen viestimään ja kokoontumaan, he voivat nousta ylös ja ilmaisemaan totuuden. Näimme viestintäteknologian vapauttavat mahdollisuudet arabikevään aikana, ja näemme edelleen yksilöiden nousevan ylös ja taistelevan autoritaarisia hallintoja vastaan tänäänkin.
+
+Se, minkä kyberpunkkarit ymmärsivät 30 vuota sitten, pyörii suoraan silmiemme edessä: informaation aikakaudella työkalut voivat voimaannuttaa yksilöitä enemmän kuin koskaan ennen.
+
+
+Vapaus toimia
+Sadat tuhannet ihmiset marssivat Hongkongin kaduilla ja osoittavat mieltään hallituksen esittämää luovutuslakiesitystä vastaan kirjoittaessani näitä sanoja. Tällaiset mielenosoitukset, kuten aina, valaisevat nykyistä valtatasapainoa yksilöiden ja valtaapitävien välillä.
+
+Valitettavasti nykyinen tarkkailujärjestelmä, automaattinen kasvojentunnistus ja käteisetön rahaliikenne ovat paitsi yksi järjestelmän vikaantumispiste, mutta tämän lisäksi ne ovat yksi hallintapiste levottomuuksien aikana. Yksinkertainen totuus käy ilmi, jos hallitus ei pidä mielipiteistäsi tai siitä, että olit osana (rauhanomaista) mielenosoitusta: kokoontumisvapautesi oli harhaa, samoin kuin vapautesi toimia vapaasti.
+
+Vapaassa yhteiskunnassa nämä vapaudet olisi taattava. Miten? Tietotekniikka ja vahva salaus — jos niitä käytetään huolellisesti — takaavat oikeuden puhua vapaasti, kuten olemme aiemmin huomanneet. Loppujen lopuksi mikään määrä väkivaltaa ei koskaan ratkaise matemaattista ongelmaa. Samalla tavalla nykyään on olemassa tietoteknologiaa, joka takaa oikeuden vapaaseen toimintaan: Bitcoin.
+
+On helppo unohtaa, että “luvaton” ja “sensuuriresistentti” ovat enemmän kuin muotisanoja. Vaikeissa olosuhteissa näistä sanoista tulee elämän ja kuoleman kysymyksiä. Hongkongin mielenosoitukset osoittavat jälleen kerran, mistä yksityisyyden puolustajat ovat saarnanneet jo vuosia, jopa vuosikymmeniä: jos järjestelmään rakennetaan sensuuria ja valvontaa, vastuussa olevat käyttävät näitä kykyjä hyväkseen ja käyttävät niitä väärin. Ja jos sinulla ei ole mahdollisuutta irrottautua henkilöllisyydestäsi, sananvapaus, vapaa ajattelu ja vapaa toiminta käyvät mahdottomiksi.
+
+Se, mikä pätee WeChatiin, Facebookiin ja Googleen, pätee myös nykyisiin maksujärjestelmiimme ja tämän maailman rahoituslaitoksiin. Riippumatta siitä, kuinka jaloa on rakentaa keskusvalvontaa viestintä- tai rahoitusjärjestelmiin: valta turmelee ja absoluuttinen valta turmelee absoluuttisesti, kuten sanonta kuuluu.
+
+“Hajautetut ja yksityiset maksut ovat välttämätön innovaatio digitaaliselle tulevaisuudelle, jotta säilytämme kansalaisvapautemme ja henkilökohtaiset vapautemme.”
+
+— Alex Gladstein
+
+Vahvan salauksen avulla voimme saada takaisin oikeuden yksityisiin keskusteluihin digiaikana päästä päähän -salauksen ansiosta. Sama salaus antaa mahdollisuuden lunastaa takaisin vapauden vapaaseen toimintaan digitaalisessa maailmassa digitaalisten allekirjoitusten, kryptografisten tiivisteiden ja totuuden ja vapauden maailmanlaajuisen koneen, Bitcoinin, avulla.
+
+Vapaus säilyttää yksityisyys
+Nykypäivän digitaalisessa maailmassa, kuten Hongkongin mielenosoittajat tietävät, on yhtä helppoa selvittää, kuka kävi missäkin mielenosoituksessa, on yhtä helppoa kuin tietojen hakeminen tietokannasta. Olipa kyse pankkitileistä, WeChatista, Alipaysta tai muista virtuaaliprofiileista, vallitsevan tilanteen joutilaisuus johtaa väistämättä täydelliseen valvontajärjestelmään ja siten täydelliseen valvontaan.
+
+Ratkaisu tähän ongelmaan on oletusarvoinen yksityisyyden salliminen, joka on ollut oletustilanne tuhansien vuosien ajan. Internet tai Bitcoin eivät ole tässä suhteessa täydellisiä, minkä vuoksi jatkuva valppaus ja yksityisyyttä parantavan teknologian kehittäminen ovat välttämättömiä.
+
+Muutaman viime vuoden aikana on ollut pyrkimyksiä salata oletusarvoisesti kaikki Internet-liikenne. Seuraavien parin vuoden aikana toivon jatkuvia ponnisteluja tehdä kaikista bitcoin-tapahtumista vielä nykyistäkin yksityisempiä (mikä on yksi syy siihen, miksi Bull Bitcoin käyttää oletusarvoisesti Wasabin CoinJoinia).
+
+Valvonta tekee kaikista muista vapauksista hyödyttömiä, kuten Hongkongin junalippuautomaattien pitkät jonot osoittavat.
+
+
+Kuva: Mary Hui
+Hongkongin nykytilanne antaa elävän kuvan käteisettömän yhteiskunnan tuhoisista sivuvaikutuksista. Ihmiset ovat rahamaailman pomojen hallinnassa, jos heillä ei ole keinoja käydä kauppaa yksityisesti ja nimettömästi. Minkäänlainen yritys irtautua digitaalisesta maailmasta ei auta sinua välttämään orjuutta.
+
+Luultavasti asiat menevät varmasti huonosta vielä huonompaan suuntaan. Talouseliitti, joka hallitsee yhteiskuntamme tärkeintä hyödykettä — eli itse rahaa — leikkii jumalaa yhteisellä makrotaloudellisella todellisuudellamme. Parin viime vuosikymmenen aikana on suoritettu laajamittainen hyökkäys toista taloudellista vapauttamme, vapauttamme säästää, vastaan.
+
+Vapaus säästää
+Jopa ilman kaduilla marssivia ihmisiä, useimmille on selvää, että elämme kaoottisia aikoja. Valuutat eivät säilytä arvoaan. Taantuma on tulossa. Maailman vaikutusvaltaisimmat ihmiset sotivat avoimesti valuuttasotia ja kerskailevat sillä Twitterissä. Samaan aikaan jatkuu rahan loputon painaminen ja poliitikot/pankkiirit levittävät propagandaa negatiivisten korkojen normalisoimiseksi.
+
+Ihmiset puhuvat määrällisestä elvyttämisestä (Quantitative Easing, QE) ja negatiivisesta korkopolitiikasta (Negative Interest Rate Policy, NIRP) ikään kuin ne olisivat jotain muuta kuin puhdasta hulluutta. Ensimmäisessä on kyse yksinkertaisesti suurten rahamäärien painamisesta, toisessa maksetaan lainanottajille ja varastetaan säästäjiltä.
+
+Menneet ovat päivät, jolloin pankki maksoi talletuksillesi korkoa. NIRP-maailmassa sinun on maksettava pankillesi rahojesi säilyttämisestä. Samalla tavoin menneitä ovat päivät, jolloin sinun oli maksettava lainasi takaisin ja maksamaan hieman ylimääräistä lainanantajalle riskin ottamisesta. NIRP-maailmassa sinulle maksetaan lainanotosta. Tarvitsetko rahaa? Älä ole huolissani. Annamme sinulle rahaa ja maksamme sinulle hieman ylimääräistä etuoikeudestamme antaa sinulle rahaa.
+
+Jokaiselle lapsellekin, jolle tarjotaan mahdollisuutta saada kaksi vaahtokarkkia tänään tai yksi vaahtokarkki huomenna: nykyinen rahoitusmaailma uhmaa tervettä järkeä. Toistan: tämä on puhdasta hulluutta.
+
+Yhä useammat ihmiset ymmärtävät, että hulluudelle on laitettava stoppi ja päättävät poistua järjestelmästä, jossa maailmanlaajuinen 15 biljoonan dollarin negatiivisten tuottojen velka on uusi normaali. Rikkinäinen rahoitusjärjestelmä negatiivisine korkoineen ja ”modernein” rahapolitiikan kokeiluineen on osittain vastuussa suvereenien yksilöiden noususta kaikkialla maailmassa.
+
+
+Kuva: Rachel Cheung
+Ihmiset alkavat ymmärtää tämän pelin typeryyden. Tämän rikkinäisen järjestelmän paineistaminen esimerkiksi pankkipakojen avulla on eräs rauhanomaisen protestin muoto. Arvosi tallentaminen omaisuuserään, jonka määrää ei voida paisuttaa, jota ei voida takavarikoida, eivätkä poliitikkojen ja pankkiirien päähänpistot kosketa sitä, on toinen.
+
+”Satit ovat turvasatamani.”
+
+— Matt Odell
+
+Bitcoinista on nopeasti tulossa turvasatama etenkin ihmisille, joilla ei ole helppoa pääsyä omia valuuttojaan ”vakaampiin” valuuttoihin. Riittävän pitkällä aikavälillä bitcoin tarjoaa vakautta maailmanlaajuisen epävakauden maailmassa. Se takaa oikeuden säästää: kukaan ei voi ottaa satosheitasi pois — sinun on luovuttava niistä vapaaehtoisesti.
+
+Kohti suvereenia tulevaisuutta
+Ihmiset ovat kyllästyneet pankkien tyranniaan, valtion tyranniaan, Facebookin tyranniaan, WeChatiin, Sina Weiboon ja kaikkeen muuhun, mikä on ”liian suurta epäonnistuakseen”.
+
+Yhteinen velvollisuutemme on rakentaa parempi tulevaisuus. Tulevaisuus, jossa vapaus on vapaus toimia, vapaus säilyttää yksityisyytensä ja vapaus säästää varallisuutta ajan myötä. Yhdistyneiden Kansakuntien sanoin: samoja oikeuksia ja vapauksia, joita ihmisellä on verkon ulkopuolella, on suojeltava myös verkossa.
+
+Haluamme auttaa rakentamaan maailman, joka antaa suvereeneille yksilöille mahdollisuuden pyrkiä kohti parempaa. Maailman, jossa jokainen yksilö — ja jokainen yritys — voi käyttää vapautta mahdollistavia teknologioita, kuten he parhaaksi näkevät keneltäkään lupia kysymättä. Tämä on yksi syy siihen, miksi olemme julkaisseet cyphernode-ohjelmistopaketin ja apuohjelmistot yritystason Bitcoin-palveluiden käyttämiseksi ilmaisohjelmistona.
+
+
+Cyphernode — vapaa kuin vapaus
+Vaikka on kiistanalaista, kykeneekö Bitcoin kirjailemisellisesti ratkaisemaan kaikki maailman ongelmat, se on epäilemättä iso pala palapeliä. Yksilön voimaannuttavat teknologiat ovat tärkeämpiä kuin koskaan ennen. Teknologiat, joiden avulla voit säilyttää yksityisyytesi, puhua ja toimia vapaasti tai kallistaa vallan tasapainoa yksilöä kohti toisella tavalla, ovat korvaamattomia maailmassa, johon olemme matkalla.
+
+Kiina antaa esimakua siitä, millaista elämä dystooppisessa valvontavaltiossa on: ylität kadun väärästä paikasta tai väärään aikaan, ja kasvojentunnistuksen ansiosta sakko vähennetään automaattisesti pankkitililtäsi samalla, kun algoritmi vähentää sosiaalisia luottamuspisteitäsi. Maksat bussilipusta osallistuaksesi rauhanomaiseen mielenosoitukseen, ja olet vaarassa joutua poistetuksi keskusrekisteristä, jonka vuoksi et voi enää oikeastaan elää normaalia elämää kansalaisena laisinkaan. Se voi tapahtua tänään, huomenna tai milloin tahansa tulevaisuudessa. Valvontavaltio ei unohda.
+
+Välineet vapauden takaamiseksi kaikille ovat jo olemassa, mutta ne eivät vain ole jakautuneet tasaisesti, niitä ei ymmärretä kovin hyvin eikä niitä ole otettu laajamittaisesti käyttöön. Joka päivä on kuitenkin kasvava joukko ihmisiä, jotka tajuavat, millainen valta heillä on käsissään.
+
+Kannustamme sinua pysymään vahvana. Kannustamme sinua jatkamaan rakentamista. Kannustamme sinua luopumaan tyranniasta. Me ja monet kaltaisemme pyrimme tekemään parhaamme rakentaaksemme paremman tulevaisuuden. Pysy turvassa, äläkä unohda ostaa bitcoineja.

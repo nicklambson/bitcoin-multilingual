@@ -1,0 +1,414 @@
+Bitcoin es tiempo
+
+“Un luminoso reloj recortado en el cielo
+Proclamó que la hora no estaba ni bien ni mal.”
+- Robert Frost, Un conocido de la noche (1928)
+
+“El tiempo es todavía un gran misterio para nosotros.
+No es más que un concepto; ni siquiera sabemos si existe…”
+- Clifford D. Simak, El planeta de Shake­speare (1976)
+
+
+El tiempo es dinero, o así dice el dicho. Se concluye que el dinero es también tiempo: una representación de la energía colectiva almacenada por la humanidad. No obstante, la relación entre tiempo y dinero es más compleja de lo que puede parecer en un principio. Si el dinero no necesita de tiempo para ser creado, no funciona como dinero muy bien, o al menos no por mucho tiempo. Más profundamente, como veremos, mantener un seguimiento de las cosas en el reino de la información siempre implica tener un seguimiento del tiempo.
+
+Tan pronto como el dinero se vuelva digital, vamos a tener que estar de acuerdo en una definición de tiempo, y he aquí el gran problema. Podrías pensar que decir la hora es tan fácil como mirar cualquier reloj que tengas cerca, y vas a estar en lo correcto en lo que refiere a tareas cotidianas. Pero cuando quieras sincronizar el estado de una red distribuida, global y adversa, decir cual es el tiempo se convierte en un problema casi sin solución. ¿Cómo sabes la hora si no puedes confiar en los relojes? ¿Cómo creas el concepto de un único tiempo si tu sistema ocupa toda una galaxia? ¿Cómo mides la hora en un reino sin tiempo? Y por cierto ¿Qué es el tiempo de todas formas?
+
+Para responder a estas preguntas, vamos a tener que dar una mirada más cercana al concepto del tiempo propiamente dicho y cómo Bitcoin logra generar su propio tiempo: el tiempo de bloque - más comúnmente llamado altura de bloque. Vamos a explorar por qué el problema de medir el tiempo está íntimamente relacionado a mantener registros, por que no hay un tiempo absoluto en un sistema descentralizado, y como Bitcoin usa la causalidad y la impredictibilidad para construir su propio sentido del ahora.
+Los artefactos que miden el tiempo han transformado a las civilizaciones más de una vez. Como dijo Lewis Mumford en 1934: “El reloj, no el motor a vapor, es la maquinaria clave para la era industrial moderna.”
+Hoy, nuevamente un artefacto que mide el tiempo está transformando nuestra civilización: un reloj, no las computadoras, es la verdadera maquinaria clave de la era moderna de la información. Este reloj es Bitcoin.
+
+
+Haciendo un seguimiento de las cosas
+“Deja que los niños aprendan a contar cosas, entonces van a comprender solos la noción del número.
+Estas cosas son, dentro del propósito de contar, las mismas, y pueden ser objetos únicos o grupos.”
+
+- David Eugene Smith, La enseñanza de matemáticas elementales (1900)
+
+
+
+
+
+Hablando muy por encima, hay dos formas de hacer seguimiento de cosas: usando tokens físicos (fichas, monedas) o libros contables. Puedes usar tanto cosas del mundo real, por ejemplo, le das a alguien un caracol de mar, una moneda, o alguna otra cosa tangible, o puedes replicar el estado del mundo escribiendo qué sucedió en un pedazo de papel.
+
+Imagina que eres un pastor y quieres asegurarte que todo tu rebaño volvió a casa. Puedes poner un collar en cada oveja, y tan pronto como una oveja vuelve, simplemente le sacas el collar y lo cuelgas. Si tienes un gancho para cada collar, puedes saber que todas las ovejas volvieron tan pronto como todos los ganchos estén ocupados. Por supuesto, también puedes contarlas y mantener una lista. Sin embargo, tienes que asegurarte de crear una nueva lista cada vez que empiezas a contar, y también tienes que asegurarte de no contar a una misma oveja más de una vez (o de no contarla).
+
+El dinero es esencialmente una herramienta para hacer un seguimiento de quién le debe a quién. En general, todo lo que hemos usado como moneda hasta ahora cae en dos categorías: artefactos físicos y listas de información. O, para usar palabras más comunes: tokens o libros contables.
+
+token vs libro contable
+
+Es importante entender la diferencia inherente de estas categorías, así que déjame dejarlas claras explícitamente: El primer método -un token físico- representa directamente el estado de las cosas. El segundo -un libro contable- refleja indirectamente el estado de las cosas. Cada uno viene con sus ventajas y desventajas. Por ejemplo, los tokens son físicos y distribuidos; los libros contables son informacionales y centralizados. Los tokens inherentemente no requieren de confianza; los libros contables si.
+
+En el mundo digital -no importa cuán intensamente los publicistas intenten convencerte de lo contrario- solo podemos usar libros contables. Es un reino de información, no un reino físico. Aunque puedas llamar a un cierto tipo de información “token”, todavía sigue siendo una pieza de información maleable, escrita en un disco rígido o algún otro medio que puede almacenar información, efectivamente convirtiéndolo en un registro de información.
+
+La naturaleza tipo-registro-contable de toda la información digital es la causa raíz del problema del doble-gasto.
+La información nunca representa el estado del mundo directamente. Además, el movimiento de información implica copiar. La información existe en un lugar, y para “moverla”, tienes que copiarla a otro lugar y borrarla de su origen. Este problema no existe en el mundo físico. En el mundo físico, podemos mover cosas desde A hacia B. El reino de la información no tiene esta propiedad. Si quieres “mover” información de la lista A hacia la lista B, tienes que copiarla de A hacia B. No hay otra manera.
+
+Otra manera de pensarlo es en términos de unicidad. Los tokens físicos son compuestos únicos de átomos cuya forma no es fácilmente replicable. La información pura no tiene esta propiedad. Si puedes leer la información, también puedes copiarla perfectamente. En términos prácticos, los tokens físicos son únicos, un token digital no. Me atrevería a decir que “token digital” es un término equivocado. Un token puede representar una información secreta, pero nunca puede representar información única, puntual e incopiable.
+
+Esta diferencia en propiedades muestra que no hay forma de “entregar” información. Es imposible transferir un token digital cómo transferimos uno físico ya que nunca podrías estar seguro de si el dueño original destruyó la información de su lado. Un token digital, como toda información, solo puede ser propagada, como una idea.
+
+“... si tu tienes una manzana y yo tengo una manzana, y cambiamos manzanas -ambos nos quedamos con una manzana. Pero si tu y yo tenemos una idea y cambiamos ideas -ambos terminamos con dos ideas.”
+- Charles F. Brannan (1949)
+
+Los tokens físicos -los que comúnmente llamamos activo al portador, o “efectivo”- no se enfrentan a este dilema. En el mundo real, si me das una moneda, tu moneda desaparece. No hay una forma de duplicación mágica de las monedas, y el único modo de dármela es trasladándola físicamente. Las leyes de la física no te permiten hacer un doble-gasto.
+
+Existe el doble-gasto en el mundo no-digital -George Parker, por ejemplo, un estafador que hizo “doble-gasto” vendiendo a muchas personas el puente de Brooklyn. Y hay más ejemplos- requiere una elaborada red de engaños y compradores crédulos. No es así en el mundo digital.
+
+En el mundo digital, debido a que estamos utilizando información, hacer un doble-gasto es un problema inherente. Todos los que alguna vez copiamos un archivo o utilizamos el copiar-pegar lo sabemos, la información es algo que puedes copiar perfectamente, y no está atada al medio que lo almacena. Si tienes una fotografía digital, por ejemplo, puedes copiarla un millón de veces, guardar algunas copias en un USB y enviarla a miles de personas diferentes. Copias perfectas son posibles debido a que la información permite corrección de errores sin fallas, lo que elimina la degradación. Y encima de todo esto, no hay un costo por la duplicación y no hay forma de saber cuál era la original.
+
+De nuevo: cuando se trata de información, copiar es todo lo que hay. Simplemente no hay una forma de mover información digital desde A hasta B. La información siempre es copiada desde A hasta B, y si el proceso de copiado fue exitoso, la copia original de A es eliminada. Este es el motivo por el cual el problema de doble-gasto es tan tramposo. En ausencia de una autoridad central no hay forma de mover algo de A a B sin confianza. Siempre tienes que confiar que el original va a ser eliminado. Un efecto colateral natural es que, cuando se trata de información digital, es imposible decir cuántas copias existen y dónde estas copias pueden estar.
+
+Debido a esto, usar “tokens” digitales como dinero no puede funcionar y nunca lo hará. Ya que la fiabilidad de los tokens reside en la dificultad en ser reproducidos como resultado de su construcción física única, esta ventaja desaparece en el reino digital. En el reino digital, los tokens no son confiables. Como resultado de la naturaleza de las propiedades intrínsecas de la información, el único formato viable para el dinero digital es no ser un token sino un libro contable - lo que nos lleva al problema del tiempo.
+
+
+Los tokens son para siempre, los libros contables no
+“Las cosas que se ven son temporales, pero las que no se ven son eternas.”
+
+- Pablo de Tarsu, Corintios 4:18b
+
+
+
+
+
+
+
+Cuando hablamos de tokens físicos, la hora de la transacción no importa. O bien tienes las monedas en tu bolsillo, o no las tienes; puedes gastarlas, o no puedes. El simple acto de posesión es el único prerrequisito para gastar. Las leyes de la naturaleza hacen el resto. En ese sentido, los tokens físicos no requieren de confianza ni del tiempo.
+
+Cuando hablamos de los libros contables, la posesión física se desploma. Quien sea que tiene el control del libro contable tiene que asegurarse de que las cosas están en orden. Lo que es dado en el otro lado por las leyes de la física, digamos que no puedes gastar algo que no tienes y que no puedes gastar dinero que ya gastaste antes, tiene que ser provisto por reglas hechas por seres humanos. Esas son las reglas que gobiernan el orden de operación y mantenimiento de un libro contable, no las leyes físicas.
+
+Salir de las leyes de la física es lo esencial del asunto. Las reglas hechas por seres humanos pueden doblarse y romperse, las reglas físicas no mucho. Por ejemplo, no puedes simplemente “crear” una moneda física de oro. Tienes que cavar el suelo y encontrarla. Puedes, sin embargo, hacer una moneda de oro en un papel. Para hacer esto, agregas una nueva entrada en tu libro contable y te das a ti mismo algunas monedas. Como en el caso de los bancos centrales, agregas algunos trillones usando las teclas en una computadora. (Los términos bonitos que usa la gente de finanzas para esto es “Rehipotecación”, “Banca de reserva fraccionaria” o “Facilitación cuantitativa”- pero no te dejes engañar, todo significa lo mismo: crear dinero.)
+
+Para mantener a los libros contables y a los que los administran honestos, se necesita de auditores independientes. La habilidad de chequear cada una de las líneas de un libro contable no es un lujo. Los auditores necesitan poder recorrer todos los libros -hacia atrás en el tiempo- para mantener a los libros contables honestos y funcionando. Sin marcas de tiempo precisas, verificar la consistencia interna de un libro contable es imposible. Un mecanismo para establecer un orden no ambiguo es esencial.
+
+Sin un sentido absoluto del tiempo, no hay forma de definir un orden en las transacciones. Y sin un orden definido de transacciones, las reglas de un libro contable no se pueden seguir. ¿Cómo sería posible de otra forma saber cuanto dinero tienes? ¿De qué otra manera podrías estar seguro que las cosas están en orden?
+
+La distinción entre tokens y libros contables maximiza la necesidad de hacer un seguimiento del tiempo. En el mundo físico, las monedas son objetos sin tiempo que pueden ser cambiados sin supervisión. En el mundo digital, seguir monedas requiere seguir al tiempo.
+
+
+
+Seguimiento de monedas centralizado
+
+“Tiempo: el gran grabador, o borrador.”
+- Yahia Lababidi
+
+
+La manera más común de resolver el problema del doble-gasto -el problema de asegurarnos de que una transferencia digital solo sucedió una vez- es tener una lista central de transacciones. Una vez que tienes una lista central de transacciones, tienes un único libro contable que hace de la única fuente de la verdad.
+Resolver el problema del doble-gasto es tan fácil como recorrer la lista y asegurarse de que todo se suma correctamente. Así es como PayPal, Venmo, Alipay, y todos los bancos de este mundo -incluídos los bancos centrales- resuelven el problema del doble-gasto: a través de una autoridad central.
+
+"El problema, por supuesto, es que el beneficiario no puede verificar que uno de los propietarios no haya gastado dos veces la moneda. Una solución común es introducir una autoridad central confiable, o casa de la moneda, que verifique cada transacción para detectar el doble-gasto.
+El problema con esta solución es que el destino de todo el sistema monetario depende de la empresa que maneja la casa de la moneda, y cada transacción debe pasar por ellos, como un banco.”
+
+- Satoshi Nakamoto (2009)
+
+
+Es importante aclarar que Satoshi no logró hacer la información incopiable. Cada parte de bitcoin -su código fuente, el libro contable, tu clave privada- puede ser copiada. Todo bitcoin puede ser copiado y manipulado. Sin embargo, Satoshi logró construir un sistema que convierte a las copias que rompen las reglas absolutamente inútiles. La red Bitcoin hace un baile complejo para decidir qué copias son útiles y cuáles no, y es este baile el que logra introducir escasez al reino digital. Y como todo baile, un cronómetro que mide el tiempo es necesario para marcar el ritmo.
+
+Incluso un libro contable centralizado solo puede resolver el problema del doble-gasto si tiene una forma consistente de medir el tiempo. Siempre tienes que saber quién le dio cuanto a quién y, más importante: cuando. En el reino de la información, no hay seguimiento de moneda sin seguimiento del tiempo.
+
+
+“Hay que enfatizar que la imposibilidad de asociar eventos con puntos en el tiempo usando sistemas distribuidos fue el problema sin solución que impedía la existencia de un libro contable descentralizado, hasta que Satoshi Nakamoto inventó la solución.”
+- Gregory Trubetskoy (2018)
+
+
+Tiempo Descentralizado
+
+
+“El tiempo hace que todas las cosas pasen.”
+- Aeschylus (525 AC - 456 AC)
+
+
+El tiempo y el orden tienen una relación íntima. Como Leslie Lamport dijo en su publicación de 1978, Tiempo, Relojes, y el Orden de Eventos en un Sistema Distribuido: “El concepto del tiempo es fundamental en nuestra manera de pensar. Se deduce del básico concepto del orden en el que las cosas ocurren.” Si no tienes una autoridad central que coordine, aparentes intuitivas nociones del “antes”, “después” y “simultáneo” pierden sentido. En las palabras de Lamport: “El concepto de ‘sucedió antes’ define un imparcial orden de los eventos en un sistema multiprocesos distribuído.”
+
+Dicho de otra forma: ¿Quién debería estar a cargo del tiempo si poner a alguien a cargo no está permitido? ¿Cómo puedes lograr tener un reloj confiable si no hay un marco central de referencia?
+
+Puedes pensar que resolver este problema es fácil porque cada uno puede usar su propio reloj. Esto solo funciona si los relojes de todos son precisos, y, más importante, si nadie hace trampa. En un sistema distribuído, confiar en relojes individuales sería un desastre. Y, debido a la relatividad, no funciona consistentemente a través del espacio.
+
+A modo de experimento mental, imagínate cómo podrías engañar al sistema si cada uno fuera responsable de su propio tiempo. Podrías pretender que la transacción que estás enviando hoy es de ayer -solo se demoró por alguna razón- por lo tanto, tendrías todavía el dinero que gastaste ayer. Debido a que la comunicación es inherentemente asincrónica en todo sistema distribuido, este escenario es más que un experimento mental.
+Los mensajes realmente se retrasan, las marcas de tiempo son imprecisas, y gracias a los efectos de la relatividad y el límite natural de velocidad del universo, no es nada fácil saber cual es el orden de las cosas sin tener una autoridad central u observador.
+
+“¿Quién es? Knock knock.”
+- Una broma asincrónica
+
+Para ilustrar mejor la imposibilidad del problema, miremos un ejemplo concreto. Imagina que tú y tu compañera de negocios tienen acceso a la cuenta bancaria de la empresa. Hacen negocios alrededor del mundo, así que la cuenta bancaria está en Suiza, tú estás en Nueva York y tu compañera está en Sydney. Para ti, es el 3 de Enero, y estás disfrutando de una hermosa mañana de sábado en el hotel. Para ella, ya es Lunes a la mañana, así que decide comprarse un desayuno con la tarjeta de débito de la cuenta bancaria compartida. El costo es de $27. El saldo disponible es de $615. La hora local es 8:21 am.
+
+Al mismo tiempo, estás por pagar tu estadía con otra tarjeta de débito de la misma cuenta bancaria. El costo es de $599. El saldo disponible es de $612. La hora local es 5:21 pm.
+
+banco
+
+Así que ahí viene el problema -al mismo tiempo- ambos pasan la tarjeta. ¿Qué sucede? (Queridos físicos, perdonen mi uso de “al mismo tiempo” -vamos a ignorar los efectos relativistas y el hecho de que no hay un tiempo absoluto en nuestro universo por ahora. También vamos a ignorar que el concepto de eventos sincrónicos no existe realmente. !Bitcoin es lo suficientemente complicado de por sí!)
+
+El libro contable central de tu banco probablemente reciba una transacción antes que la otra, así que alguno de los dos tendrá suerte, el otro no mucha. Si la transacción realmente llega al mismo tiempo -digamos, en el mismo milisegundo- el banco tendrá que decidir quién gasta el dinero.
+
+Ahora, ¿Qué hubiera pasado si no hubiera un banco? ¿Quién decide quien pasó primero la tarjeta? ¿Y qué tal si no hubiera solo dos, sino cientos o miles de personas en simultáneo? ¿Y qué sucede si no confías en ninguna de esas personas? ¿Qué pasaría si algunas de esas personas quisieran hacer trampa, por ejemplo, retrocediendo su reloj haciendo parecer que ellos gastaron el dinero antes?
+
+
+“Una herramienta dedicada al tiempo es necesaria para establecer un orden y hacer cumplir una única historia en la ausencia de un coordinador central.”
+- Giacomo Zucco, Descubriendo Bitcoin (2019)
+
+
+Este problema es precisamente el causante de que todos los intentos anteriores de dinero digital requieran de un registro centralizado. Siempre tienes que confiar en alguien para identificar correctamente el orden de las cosas. Una autoridad central es requerida para que esté a cargo del tiempo.
+
+Bitcoin resuelve este problema re inventando el tiempo en sí mismo. Le dice no a los segundos y si a los bloques.
+
+
+Midiendo el tiempo, un bloque a la vez
+
+“Es la gloria del Tiempo calmar enemistades,
+revelar falsedades y a la verdad dar brillo,
+dar el sello del Tiempo a las cosas más viejas,
+ser celador de día y de noche guardián,
+maltratar al injusto hasta que entre en razón.”
+
+- William Shake­speare, La violación de Lucrecia (1709)
+
+
+
+
+
+
+
+
+Todos los relojes necesitan de un proceso periódico, algo que llamamos un “tick”. El familiar tick-tock del reloj del abuelo es, en esencia, el mismo zumbido-atómico de tu reloj de Cuarzo. Algo se balancea -u oscila- y nosotros simplemente contamos eso hasta que sume minutos o segundos.
+
+Para relojes de grandes péndulos, esos balanceos son largos y fáciles de ver. Para pequeños y más especializados relojes, un equipamiento especial es requerido. La frecuencia de un reloj -que tan rápido hace tick- depende de su caso de uso.
+
+La mayoría de relojes tienen una frecuencia fija. Después de todo, queremos saber el tiempo de forma precisa. Hay, sin embargo, relojes que tienen frecuencia variable. Un metrónomo, por ejemplo, tiene una frecuencia variable que puedes elegir antes de hacerlo funcionar. Mientras que un metrónomo se mantiene constante una vez que comenzó, el tiempo de Bitcoin varía en cada tick porque su mecanismo interno es probabilístico.
+El objetivo, sin embargo, es el mismo; mantener la música viva, así el baile puede continuar.
+
+Reloj
+Frecuencia del tick
+Reloj del abuelo
+Metrónomo
+Reloj de cuarzo
+Reloj atómico Caesium-133
+Bitcoin
+1 bloque
+* primer bloque (6 días)
+** el tiempo entre bloques puede mostrar un delta negativo
+
+El hecho de que Bitcoin es un reloj está escondido a la vista de todos. Por supuesto, Satoshi señala que la red de Bitcoin actúa como un reloj, o, en sus palabras: un sistema distribuído de marcas de tiempo.
+
+
+“En este documento, proponemos una solución al problema del doble-gasto usando un servidor distribuido par-a-par de marcas de tiempo para generar pruebas computacionales que aseguren el orden cronológico de las transacciones.”
+- Satoshi Nakamoto (2009)
+
+
+Esas marcas de tiempo siendo la raíz del problema a resolver es también visible si examinamos las referencias al final del documento que dio origen al Bitcoin. De ocho referencias en total, tres son sobre marcas de tiempo.
+* Como marcar el tiempo en un documento digital por S. Haber, W.S. Stornetta (1991)
+* Mejorar la eficiencia y fiabilidad de las marcas de tiempo digitales por D. Bayes, S. Haber, W.S Stornetta (1992)
+* El diseño de un servicio seguro de marcas de tiempo con un mínimo de confianza por H. Massias, X.S Avila y J.J. Quisquater (1999)
+
+Como Haber y Stornetta mostraron en 1991, las marcas de tiempo digitales tratan sobre el armado de procedimientos computacionales para hacer que un usuario no pueda -o un adversario, en este caso- modificar la fecha de un documento hacia atrás o hacia adelante en el tiempo. Al contrario de los documentos físicos, los documentos digitales son fáciles de adulterar y los cambios no necesariamente dejan signos visibles. En el mundo digital, los cambios y manipulaciones pueden ser perfectas.
+
+La naturaleza maleable de la información hace que marcar el tiempo en un documento digital sea un proceso elaborado y sofisticado. Soluciones a la ligera no funcionan. Toma un documento de texto, por ejemplo. No puedes agregar la fecha al final del documento porque todo el mundo -incluido tú mismo- podrían cambiar la fecha en un futuro. Podrías hasta inventar una fecha en primer lugar.
+
+El tiempo es una cadena causal
+
+“Mirándolo de forma extrema, el mundo puede ser visto solo como conexiones, nada más.”
+- Tim Berners-Lee, Tejiendo la Red (1999)
+
+
+
+
+Inventar fechas es un problema general, incluso en el reino no-digital. Lo que se conoce en el mundo de los secuestros como “Autenticación por Periódico” es una solución general al problema de marcas de tiempo arbitrarias.
+
+prueba de tiempo en secuestro
+Prueba de tiempo
+
+Esto funciona porque un periódico es difícil de falsificar y es fácil de verificar. Es difícil de falsificar porque las portadas de hoy refieren a eventos de ayer, eventos que no podrían haber sido predichos por el secuestrador si la imagen tuviera semanas de antigüedad. Por delegación de estos eventos, la imagen es prueba de que el rehén estaba aún vivo el día en que el periódico se publicó.
+
+Este método resalta uno de los conceptos clave en cuanto al tiempo: causalidad. La línea de tiempo describe la relación causal de eventos. Sin causalidad no hay tiempo. La causalidad es también la razón por la que las funciones hash criptográficas son tan cruciales cuando se trata de sellar documentos en el ciberespacio: introducen una relación causal. Como es prácticamente imposible crear un hash criptográficamente válido sin tener el documento en el primer lugar, una relación causal entre el documento y el hash es introducida: el dato en cuestión existió primero, y el hash fue generado después. En otras palabras: sin la irreversibilidad computacional de las funciones unidireccionales, no habría causalidad en el ciberespacio. 
+
+algoritmo de hash
+A antes que B
+
+Con este bloque de construcción causal en su lugar, uno puede idear esquemas que creen una cadena de eventos, vinculando causalmente A con B a C y así sucesivamente. En ese sentido, la marca de tiempo segura digital nos traslada desde un lugar atemporal en el éter hacia el ámbito de la historia digital.
+
+“La causalidad arregla los eventos en el tiempo. Si un evento fue determinado por ciertos eventos previos, y determina ciertos eventos subsiguientes, entonces el evento se coloca de forma segura en su lugar de la historia.”
+- Bayer, Haber, Stornetta (1992)
+
+
+No hace falta decir que la causalidad es de suma importancia cuando se trata de cálculos económicos. Y dado que un libro contable no es más que la encarnación de los cálculos económicos de múltiples participantes que cooperan, la causalidad es esencial para cada libro contable. 
+
+"Necesitamos un sistema en el que los participantes estén de acuerdo en una única historia [...]. La solución que proponemos empieza con un servidor de marca de tiempo.”
+- Satoshi Nakamoto (2009)
+
+Es fascinante que todas las piezas de rompecabezas que hacen que Bitcoin funcione ya existían. Tan pronto como en 1991, Haber y Stornetta introdujeron dos esquemas que hacen “difícil o imposible producir marcas de tiempo falsas”. El primero se basa en un tercero de confianza; el segundo esquema, más elaborado, de “confianza distribuida”, no depende de un tercero de confianza. Los autores incluso identificaron los problemas inherentes de confiar en una cadena causal de eventos y qué se requeriría para reescribir la historia. En sus propias palabras “la única trampa posible es preparar una cadena falsa de marcas de tiempo, lo suficientemente larga para agotar al que tenga más sospechas”. Un vector similar de ataque existe actualmente en Bitcoin, en la forma de un ataque del 51% (más sobre esto en un capítulo posterior).
+
+Un año después, Bayer, Haber y Stornetta revisaron su trabajo previo y propusieron usar árboles en lugar de simples listas ligantes para unir eventos. Lo que conocemos como los Árboles de Merckle hoy en día son simples estructuras eficientes de datos para crear un hash a partir de múltiples hashes de forma determinística. Para la marca de tiempo, esto significa que puedes agrupar de forma eficiente múltiples eventos dentro de un mismo “tick”. En el mismo paper, los autores propusieron que el modelo de confianza distribuida introducida en 1991 podía ser mejorado hacia un “torneo de campeones mundiales” recurrente para determinar un único “ganador” quien ampliamente publique el hash resultante en un lugar público, como un periódico. ¿Suena familiar?
+
+Como ya veremos, resulta que los periódicos también son una forma excelente para pensar sobre el segundo ingrediente del tiempo: la impredecibilidad. 
+
+
+Causalidad y impredecibilidad
+“El tiempo no es una realidad, es un concepto o una medida…”
+- Antifon el Sofista, En Verdad (Año 300)
+
+
+
+
+
+La causalidad es esencial, pero no suficiente. También necesitamos de impredecibilidad para que el tiempo fluya. En el mundo físico, observamos el proceso natural para describir el flujo del tiempo. Observamos un incremento general de la entropía y a eso le llamamos la flecha del tiempo. Aunque las leyes de la naturaleza parezcan obvias respecto de la dirección de esta flecha en la mayoría de los casos, algunas cosas no se pueden deshacer, hablando en forma práctica. No puedes des-romper un huevo.
+
+Similarmente, las funciones que incrementan la entropía son requeridas para establecer una flecha del tiempo en el mundo digital. Así como es prácticamente imposible des-romper un huevo, es prácticamente imposible des-romper un hash SHA256 o una firma criptográfica.
+
+Sin este incremento de la entropía, podríamos ir hacia adelante y atrás en el tiempo a gusto y piacere. La secuencia de números de Fibonacci, por ejemplo, es causal pero no entrópica. Cada número en la secuencia es causado por los dos números anteriores. En ese sentido, es una cadena causal. No obstante, no es útil para decir la hora porque es completamente predecible. De la misma forma en que un secuestrador no puede pararse en frente del calendario que muestra la fecha actual, nosotros no podemos usar procesos predictibles como prueba del tiempo. Siempre necesitamos apoyarnos en algo que no puede ser sabido con anterioridad, como la primera plana del diario de hoy.
+
+Bitcoin se apoya en dos fuentes de impredecibilidad: transacciones y pruebas-de-trabajo. De la misma forma en que nadie puede predecir cómo el diario de mañana se va a ver, nadie puede predecir cómo va a ser el siguiente bloque de Bitcoin. No puedes predecir qué transacciones van a ser incluidas porque no puedes predecir qué transacciones van a ser transmitidas en el futuro. Y, más importante, no puedes predecir quién va a encontrar la solución a la actual prueba-de-trabajo y cuál solución va a ser.
+
+A diferencia del periódico del secuestrador, sin embargo, la prueba de trabajo está vinculada físicamente a lo que pasó directamente. No es sólo una grabación de un evento - es el evento en sí mismo. Es la franqueza probabilística de la prueba de trabajo lo que remueve a la confianza de la ecuación. La única forma de encontrar una prueba de trabajo válida es intentar muchas veces adivinar algo, y adivinar lleva bastante tiempo. La suma probabilística de estos intentos de adivinar es lo que construye la cadena de tiempo que es Bitcoin.
+
+Al utilizar la causalidad de las cadenas de hash y la impredecibilidad de la prueba de trabajo, la red de Bitcoin provee un mecanismo para establecer un historial indiscutido de eventos verdaderos. Sin la causalidad, lo que vino antes y lo que vino después es imposible de distinguir. Sin impredecibilidad, la causalidad carece de sentido.
+
+Lo que es intuitivamente entendido por cada secuestrador fue explícitamente señalado por Bayer, Haber y Stornetta en 1992: “Para establecer que un documento fue creado después de un momento dado, es necesario reportar eventos que no podrían haberse predicho antes de que ocurrieran”.
+
+prueba de publicacion
+Prueba de publicación
+
+La combinación de causalidad e impredecibilidad es lo que permite la creación de un “ahora” artificial en el ámbito digital, que de otro modo sería atemporal. Como Bayer, Haber y Stornetta señalan en su paper de 1991: “la secuencia de clientes requiriendo marcas de tiempo y los hash que ellos envían no pueden conocerse de antemano. Por lo tanto, si en el certificado firmado incluimos bits de la secuencia anterior de solicitudes del cliente, entonces sabemos que la marca de tiempo ocurrió después de estas solicitudes. [...] Pero el requisito de incluir bits de documentos previos en el certificado también puede ser usado para solucionar el problema de restringir el tiempo en la otra dirección, porque la empresa de sellado de tiempo no puede emitir certificados posteriores a menos que tenga la solicitud actual en su mano”.
+
+Todas las piezas del rompecabezas ya estaban allí. Lo que Satoshi logró hacer fue ponerlas juntas de forma tal de remover de la ecuación a la “empresa de sellado de tiempo”.
+
+Prueba de tiempo
+
+
+“Causa latet: vis est notissima.
+- La causa está oculta, pero el resultado es conocido.”
+Ovid, Metamor­phoses, IV. 287 (8 AC)
+
+
+
+
+Recapitulemos: para usar dinero en el ámbito digital, tenemos que confiar en los libros contables. Para que estos libros sean confiables, se requiere un orden inequívoco. Para establecer orden, son necesarias las marcas de tiempo. Entonces, si queremos tener dinero sin confianza en el ámbito digital, debemos remover cualquier entidad que genere y maneje las marcas de tiempo y toda entidad que esté a cargo del tiempo en sí mismo.
+
+Se necesitó a un genio como Satoshi Nakamoto para encontrar la solución: “Para implementar un servidor de marca de tiempo distribuido de par-a-par, necesitaremos utilizar un sistema de prueba de trabajo similar al Hashcash de Adam Back”. 
+
+Tenemos que usar un sistema de prueba de trabajo porque necesitamos algo que sea nativo del ámbito digital. Una vez que entiendas que el reino digital es de naturaleza informativa, la conclusión más obvia es que el cálculo es todo lo que tenemos. Si tu mundo está hecho de datos, la manipulación de datos es todo lo que existe allí.
+
+La prueba de trabajo funciona en un entorno de par-a-par porque no necesita de confianza, y no necesita de confianza porque está desconectado de todas las posibles entradas externas -como las lecturas de relojes (o periódicos, para el caso). Recae en una sola cosa: el cálculo requiere trabajo, y en nuestro universo, el trabajo requiere energía y tiempo.
+
+
+Tiempos de transición
+
+
+“Sé que esto funciona para mí.
+Al cruzar el puente - el puente ardiente-
+Con llamas detrás nuestro,
+Estamos al frente de la línea-
+Somos tú y yo, cariño, contra el mundo.”
+- Kate Bush, Puente ardiente (1985)
+
+
+
+
+
+
+
+Sin prueba de trabajo, uno siempre correría dentro del problema del Oráculo, porque el ámbito físico y el informático están eternamente desconectados. Las marcas en tu lista de ovejas no son tus ovejas, el mapa no es el territorio, y lo que sea que haya sido escrito en el periódico de ayer no es necesariamente lo que ocurrió en el mundo real. De la misma manera, el hecho de que uses un reloj del mundo real para escribir una marca de tiempo no significa que esta sea realmente la hora.
+
+Dicho de otra forma, simplemente no hay forma de confiar en que los datos representan la realidad, excepto si la realidad en cuestión es inherente a los datos en sí mismos. Lo brillante de la prueba de trabajo de Bitcoin es que se ajusta por dificultad, al mismo tiempo que crea su propia realidad, junto con su propio tiempo y espacio.
+
+La prueba de trabajo provee una conexión directa entre el ámbito digital y el físico. Dicho en mayor profundidad, es la única conexión que puede establecerse sin basarse en la confianza. Todo lo demás siempre va a depender de cosas externas.
+
+La dificultad de minar un nuevo bloque de Bitcoin está ajustada para asegurarse que el delgado hilo entre el tiempo de Bitcoin y el nuestro permanezca intacto. Como un aparato de relojería, la dificultad de minería se reajusta cada 2016 ticks. El objetivo de este reajuste es mantener un tiempo promedio entre ticks de diez minutos. Estos diez minutos son los que mantienen una conexión estable entre el ámbito físico y el informático. Consecuentemente, un sentido del tiempo humano es necesario para reajustar los ticks del reloj de Bitcoin. Un reajuste puramente basado en los bloques no funcionará ya que estaría completamente desconectado de nuestro mundo humano, y el propósito final de este reajuste es impedir que nosotros, ingeniosos humanos, hallemos bloques demasiado rápido (o demasiado lento).
+
+Como Einstein nos demostró, el tiempo no es algo estático. No existe un tiempo universal en el cual podamos confiar. El tiempo es relativo, y simultáneamente no existe. Este hecho por sí solo hace que todas las marcas de tiempo -especialmente a lo largo de grandes distancias- sean intrínsecamente poco confiables, incluso sin factores adversos (Por cierto, esta es la razón por la que las marcas de tiempo de los satélites GPS tienen que ajustarse constantemente).
+
+Para Bitcoin, el hecho de que nuestras marcas de tiempo humanas sean imprecisas no importa demasiado. Tampoco importa que no tengamos un marco de referencia absoluto en primer lugar. Sólo tienen que ser lo suficientemente precisos como para calcular un promedio algo confiable a lo largo de 2016 bloques. Para garantizar esto, una marca de tiempo de bloque sólo es aceptada si cumple con los siguientes dos criterios:
+
+1- La marca de tiempo tiene que ser mayor a la marca de tiempo promedio de los 11 bloques previos
+2- La marca de tiempo tiene que ser menor que la hora fijada por la red más dos horas. (El “tiempo ajustado por la red” es simplemente la mediana de las marcas de tiempo devueltas por todos los nodos conectados a ti).
+
+En otras palabras, la dificultad de ajuste se trata de mantener un tiempo constante, no un nivel constante de seguridad, dificultad o gasto de energía. Esto es ingenioso porque el buen dinero tiene que ser costoso en tiempo, no en energía. Enlazar el dinero a la energía por sí sola no es suficiente para producir escasez absoluta ya que cada mejora en la generación de energía nos permitiría crear más dinero. El tiempo es la única cosa que nosotros jamás seremos capaces de generar. Este es el “recurso último”, como afirma Julian Simon. Esto es lo que hace que Bitcoin sea la última forma de dinero porque su emisión está directamente ligada al recurso fundamental del universo: el tiempo.
+
+El ajuste por dificultad es esencial porque sin él, el reloj interno de Bitcoin tendería a ir cada vez más rápido cuando más mineros se unen a la red o cuando mejora la eficiencia de los dispositivos usados para minar. Rápidamente nos encontraríamos con el problema de coordinación que Bitcoin se propone resolver. Tan pronto como el tiempo de bloque cae por debajo de un cierto umbral, digamos 50 milisegundos, sería imposible ponerse de acuerdo en un estado compartido, aún en la teoría. A la luz le toma 66 milisegundos viajar desde un lado de la Tierra hacia el otro. Entonces, incluso si nuestras computadoras y routers fueran perfectos, volveríamos a la primera casilla: dados dos eventos, sería fútil decir qué evento ocurrió antes y cuál después. Sin un ajuste periódico de los ticks de Bitcoin, nos encontraríamos en el problema desesperanzador de coordinar más rápido que la velocidad de la luz. El tiempo también es la raíz del problema de la inestabilidad de la criptografía, que fue señalado en el Capítulo 1. La criptografía funciona gracias a una asimetría en el tiempo: toma poco tiempo construir un muro criptográfico mientras que destruirlo lleva mucho tiempo -a menos que tengas una llave.
+
+Entonces, en cierto sentido, la prueba de trabajo - y el ajuste por dificultad que va con esto- desacelera el tiempo de forma artificial, por lo menos desde la perspectiva de la red de Bitcoin. En otras palabras: Bitcoin impone un ritmo interno cuya baja frecuencia permite un búfer amplio para la latencia de las comunicaciones entre pares. Cada 2016 bloques, el reloj interno de Bitcoin se reajusta, por lo que, en promedio, un bloque válido sólo será hallado cada 10 minutos.
+
+Desde una perspectiva externa, Bitcoin canaliza el desorden caótico de los mensajes asincrónicos transmitidos globalmente en un universo paralelo, restringido por sus propias reglas y su propio sentido del espacio y tiempo. Las transacciones en la memoria de los nodos de la red son atemporales desde el punto de vista de la red Bitcoin. Solo cuando una transacción se incluye en un bloque válido, se le asigna un tiempo: el número del bloque en el que está incluida.
+
+bitcoin alpha codigo fuente
+BitCoin v0.01 ALPHA (2009)
+
+
+Es difícil exagerar lo elegante que es esta solución. Una vez que eres capaz de crear tu propia definición de tiempo, descifrar lo que vino antes y lo que vino después es trivial. Sucesivamente, ponerse de acuerdo sobre lo que sucedió, en qué orden y, consecuentemente, quién le debe qué a quién, se vuelve también trivial.
+
+El ajuste por dificultad asegura que los ticks del metrónomo interno de Bitcoin sean algo constante. Es el conductor de la orquesta de Bitcoin. Es lo que mantiene a la música viva.
+
+Pero, ¿por qué podemos confiar en el trabajo en primer lugar? La respuesta es triple. Podemos confiar en él porque el cálculo requiere trabajo, el trabajo requiere tiempo, y el trabajo en cuestión -adivinar números aleatorios- no puede hacerse eficientemente. 
+
+
+Tiempo probabilístico
+“El tiempo se bifurca perpetuamente hacia innumerables futuros.”
+- Jorge Luis Borges, El jardín de los senderos que se bifurcan (1958).
+
+
+
+
+
+Encontrar un número válido para un bloque de Bitcoin es un juego de adivinanzas. Es muy parecido a girar un dado, o lanzar una moneda, o hacer girar la rueda de una ruleta. En esencia, estás tratando de encontrar un número aleatorio más allá de lo astronómicamente grande. No hay progreso hacia la búsqueda de una solución. O ganas el premio o no lo haces.
+
+Cada vez que lanzas una moneda, la posibilidad de que salga cara o cruz es 50% - incluso si ya la lanzaste veinte veces antes, y siempre salió cara. De forma similar, cada vez que esperas que llegue un bloque de Bitcoin, la chance de que sea encontrado ese segundo es ~0.16%. No importa cuando fue hallado el último bloque. El tiempo aproximado de espera para el siguiente bloque es siempre el mismo: ~10 minutos.
+
+Resulta que cada tick individual de este reloj es impredecible. En relación a los relojes humanos, este reloj parece ser espontáneo e impreciso. Esto es irrelevante, como señala Gregory Trubetskoy: “No importa que este reloj sea impreciso. Lo que importa es que es el mismo reloj para todos y que el estado de la cadena puede ser vinculado inequívocamente a los ticks de este reloj”. Puede que el reloj de Bitcoin sea probabilístico, pero no es ilusorio. 
+
+“El tiempo es una ilusión,
+Y la hora del almuerzo lo es el doble.”
+- Douglas Adams (1979).
+
+
+El momento presente, sin embargo, puede ser una absoluta ilusión en Bitcoin. Como no hay autoridad central en la red, pueden surgir extrañas situaciones. Aunque es poco probable, es posible que un bloque válido sea hallado al mismo tiempo (de nuevo: disculpas a todos los físicos), haciendo que el reloj avance en dos lugares diferentes a la vez. Sin embargo, como dos bloques diferentes seguramente difieren en su contenido, van a contener dos historias diferentes igualmente válidas.
+
+A esto se le llama “división de la cadena” y es un proceso natural del consenso de Nakamoto. Como una bandada de aves que se separa brevemente en dos y luego se juntan de nuevo, los nodos de la red de bitcoin eventualmente convergen a una historia compartida luego de algún tiempo, gracias a la naturaleza probabilística de adivinar.
+
+El consenso de Nakamoto simplemente establece que la historia correcta será hallada en la cadena más pesada, es decir, la cadena que contenga la mayor cantidad de prueba de trabajo. Por lo tanto, si tenemos dos historias A y B, algunos mineros van a tratar de construir sobre la historia A y otros sobre la historia B. Pero tan pronto como uno de ellos encuentre el próximo bloque válido, el otro grupo está programado para aceptar que ellos estaban en el lado incorrecto de la historia y cambiar hacia la cadena más pesada - la cadena que representa lo que realmente sucedió, por definición. En Bitcoin, la historia está verdaderamente escrita por los vencedores.
+
+
+“El beneficiario necesita prueba de que al momento de cada transacción, la mayoría de los nodos acordaron que fue la primera recibida [...] Cuando hay múltiples versiones de doble gasto de la misma transacción, una y sólo usa será válida. El receptor de un pago debe esperar una hora o más antes de pensar que es válida. Para ese entonces, la red resolverá cada posible carrera de doble gasto.”
+- Satoshi Nakamoto (2009)
+
+
+En esta simple oración reside el secreto del problema de la coordinación distribuida. Así es como Satoshi resolvió el problema del “pago simultáneo” que nuestros compañeros de negocio ficticios encontraron previamente. Él lo resolvió de una vez por todas, ¡y al diablo los efectos relativistas!
+
+Debido a esta naturaleza probabilística del reloj de Bitcoin, el momento presente - lo que nosotros llamamos la punta de la cadena - es siempre incierto. El pasado -bloques enterrados bajo la punta de la cadena - es cada vez más cierto.
+
+
+“Mientras más quieres saber, más atrás en el tiempo uno debe ir.”
+- Gordon Clark, Una mirada cristiana del Hombre y las Cosas, p. 58. (1951)
+
+
+Consecuentemente, el reloj de Bitcoin puede rebobinar de cuando en cuando, para algunos pares, por un tick o dos.
+Si a tu punta de la cadena -el momento presente- le toca perder contra otra punta de la cadena, tu reloj va a rebobinar y luego saltar hacia adelante, reemplazando los pocos ticks que tu ya creías parte de la historia. Si tu reloj es probabilístico, tu entendimiento del pasado también debe serlo.
+
+
+“Tick tock tick tock tick - ¿Que hora es?
+Tick tock tick tock… termina en c619.
+¿Estás seguro de que está bien? ¿Llegamos tarde?
+No importa en absoluto: antes de las nueve vienen las ocho.
+El reloj no es exacto; a veces va en reversa.
+Tiempo exacto implica centro; esa es la causa de esta maldición!
+Pero este reloj se mantiene funcionando, tock-tick y tick-tock,
+No hay ganancia en hacer trucos; solo tick-tock y al siguiente bloque”
+- Una Divertida Rima sobre Bitcoin y Tiempo (2020)
+
+
+Conclusión
+“El tiempo es aún uno de los grandes misterios de la física, uno que cuestiona la definición misma de lo que es la física.”
+- Jorge Cham y Daniel Whiteson: No Tenemos Idea: Una Guía hacia el Universo Desconocido, pp. 117-118 (2017).
+
+
+Seguir el rastro de las cosas en el reino informático implica rastrear una secuencia de eventos, que a su vez requieren rastrear el tiempo. Hacer un seguimiento del tiempo requiere coincidir en un “ahora” - un momento en el tiempo que une eternamente el pasado con el futuro incierto. En Bitcoin, este “ahora” es la punta de la cadena de prueba de trabajo más pesada.
+
+Dos bloques de construcción son esenciales para la estructura del tiempo: uniones causales y eventos impredecibles. Uniones causales son necesarias para definir un pasado, y eventos impredecibles son requeridos para construir un futuro. Si la secuencia de eventos fuera predecible, sería posible saltar hacia adelante. Si los pasos individuales de la secuencia no están unidos, sería trivial cambiar el pasado. Debido a su sentido interno del tiempo, es increíblemente difícil engañar a Bitcoin. Uno tendría que reescribir el pasado o predecir el futuro. La cadena de tiempo de Bitcoin evita ambos.
+
+Ver a Bitcoin a través de los lentes del tiempo debería esclarecer que la “blockchain” - la estructura de datos que une causalmente a múltiples eventos juntos- no es la mayor innovación. Ni siquiera es una idea nueva, ya que es evidente al estudiar la literatura que se ha publicado con anterioridad.
+
+“Una blockchain es una cadena de bloques.”
+- Peter Todd
+
+
+La nueva idea -lo que descubrió Satoshi- es cómo estar de acuerdo de forma independiente sobre una historia de eventos sin una coordinación central. Él halló la forma de implementar un esquema de marcado de hora descentralizado que a) no requiere una compañía o servidor que marque la hora, b) no requiere de ningún periódico u otro medio físico como prueba, y c) puede mantener el tick-tack del reloj más o menos constante, incluso cuando se opera en un entorno con tiempos de reloj de CPU cada vez más rápidos.
+
+El cronometraje requiere causalidad, impredecibilidad y coordinación. En Bitcoin, la causalidad es brindada por dos funciones unidireccionales: la criptografía hash y las firmas digitales que son el corazón del protocolo. La impredecibilidad la proveen tanto el rompecabezas de la prueba de trabajo como también la interacción con otros pares: no puedes saber de antemano qué es lo que las otras personas están haciendo, y no puedes saber de antemano cuál será la solución del rompecabezas de la prueba de trabajo. La coordinación es posible por el ajuste en la dificultad, la salsa mágica que une el tiempo de Bitcoin con el nuestro. Sin este puente entre el reino físico y el informático, sería imposible ponerse de acuerdo sobre una hora basándose únicamente en los datos.
+
+Bitcoin es tiempo en más de un punto de vista. Sus unidades son tiempo almacenado porque son dinero, y su red es tiempo porque es un reloj descentralizado. El latido despiadado de su reloj es lo que aumenta todas las propiedades mágicas de Bitcoin. Sin él, el baile intrincado de Bitcoin se caería a pedazos. Pero con él, todos en la Tierra tienen acceso a algo verdaderamente maravilloso: Dinero Mágico de Internet.

@@ -1,0 +1,3999 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="unkown" segtype="paragraph" adminlang="en-us" srclang="en-us" o-tmf="Olifant" creationdate="20210621T044835Z" creationid="Localize Bitcoin" changedate="20210621T045046Z" changeid="Localize Bitcoin">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Bitcoin Is Time</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Bitcoin es tiempo</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>One luminary clock against the sky Proclaimed the time was neither wrong nor right.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>“Un luminoso reloj recortado en el cielo Proclamó que la hora no estaba ni bien ni mal.”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Robert Frost, Acquainted with the Night (1928)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Robert Frost, Un conocido de la noche (1928)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Time is still the great mystery to us.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>“El tiempo es todavía un gran misterio para nosotros.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is no more than a concept; we don’t know if it even exists…</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No es más que un concepto; ni siquiera sabemos si existe…”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Clifford D. Simak, Shakespeare’s Planet (1976)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Clifford D. Simak, El planeta de Shakespeare (1976)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Time is money, or so the saying goes.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El tiempo es dinero, o así dice el dicho.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It follows that money is also time:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Se concluye que el dinero es también tiempo:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>a representation of the collective economic energy stored by humanity.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>una representación de la energía colectiva almacenada por la humanidad.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>However, the link between time and money is more intricate than it might seem at first.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No obstante, la relación entre tiempo y dinero es más compleja de lo que puede parecer en un principio.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>If money requires no time to create, it doesn’t work as money very well, or not for long.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Si el dinero no necesita de tiempo para ser creado, no funciona como dinero muy bien, o al menos no por mucho tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>More profoundly, as we shall see, keeping track of things in the informational realm always implies keeping track of time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Más profundamente, como veremos, mantener un seguimiento de las cosas en el reino de la información siempre implica tener un seguimiento del tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>As soon as money goes digital, we have to agree on a definition of time, and herein lies the whole problem.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Tan pronto como el dinero se vuelva digital, vamos a tener que estar de acuerdo en una definición de tiempo, y he aquí el gran problema.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You might think telling the time is as easy as glancing at whatever clock is nearby, and you would be right when it comes to everyday tasks.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Podrías pensar que decir la hora es tan fácil como mirar cualquier reloj que tengas cerca, y vas a estar en lo correcto en lo que refiere a tareas cotidianas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>But when it comes to synchronizing the state of a global, adversarial, distributed network, telling the time becomes an almost intractable problem.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Pero cuando quieras sincronizar el estado de una red distribuida, global y adversa, decir cual es el tiempo se convierte en un problema casi sin solución.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>How do you tell the time if clocks can’t be trusted?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿Cómo sabes la hora si no puedes confiar en los relojes?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>How do you create the concept of a singular time if your system spans the galaxy?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿Cómo creas el concepto de un único tiempo si tu sistema ocupa toda una galaxia?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>How do you measure time in a timeless realm?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿Cómo mides la hora en un reino sin tiempo?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>And what is time anyway?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Y por cierto ¿Qué es el tiempo de todas formas?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>To answer these questions, we will have to take a closer look at the concept of time itself and how Bitcoin makes up its own time:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para responder a estas preguntas, vamos a tener que dar una mirada más cercana al concepto del tiempo propiamente dicho y cómo Bitcoin logra generar su propio tiempo:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>block time — more commonly known as block height.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>el tiempo de bloque - más comúnmente llamado altura de bloque.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>We will explore why the problem of timekeeping is intimately related to keeping records, why there is no absolute time in a decentralized system, and how Bitcoin uses causality and unpredictability to build its own sense of now.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Vamos a explorar por qué el problema de medir el tiempo está íntimamente relacionado a mantener registros, por que no hay un tiempo absoluto en un sistema descentralizado, y como Bitcoin usa la causalidad y la impredictibilidad para construir su propio sentido del ahora.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Timekeeping devices have transformed civilizations more than once.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Los artefactos que miden el tiempo han transformado a las civilizaciones más de una vez.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>As Lewis Mumford pointed out in 1934:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Como dijo Lewis Mumford en 1934:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>“The clock, not the steam-engine, is the key-machine of the modern industrial age.”</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>“El reloj, no el motor a vapor, es la maquinaria clave para la era industrial moderna.”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Today, it is again a timekeeping device that is transforming our civilization:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Hoy, nuevamente un artefacto que mide el tiempo está transformando nuestra civilización:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>a clock, not computers, is the true key-machine of the modern informational age.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>un reloj, no las computadoras, es la verdadera maquinaria clave de la era moderna de la información.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>And this clock is Bitcoin.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Este reloj es Bitcoin.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Keeping Track of Things Let the child learn to count things, thus getting the notion of number.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Haciendo un seguimiento de las cosas “Deja que los niños aprendan a contar cosas, entonces van a comprender solos la noción del número.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>These things are, for the purpose of counting, considered alike, and they may be single objects or groups.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Estas cosas son, dentro del propósito de contar, las mismas, y pueden ser objetos únicos o grupos.”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>David Eugene Smith, The Teaching of Elementary Mathematics (1900)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- David Eugene Smith, La enseñanza de matemáticas elementales (1900)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Very broadly speaking, there are two ways to keep track of things:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Hablando muy por encima, hay dos formas de hacer seguimiento de cosas:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>physical tokens and ledgers.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>usando tokens físicos (fichas, monedas) o libros contables.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You can either use real-world artifacts directly, e.g., give someone a sea shell, a coin, or some other tangible thing, or you can replicate the state of the world by writing down what happened on a piece of paper.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Puedes usar tanto cosas del mundo real, por ejemplo, le das a alguien un caracol de mar, una moneda, o alguna otra cosa tangible, o puedes replicar el estado del mundo escribiendo qué sucedió en un pedazo de papel.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Imagine you are a shepherd and want to make sure that your whole flock returned home.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Imagina que eres un pastor y quieres asegurarte que todo tu rebaño volvió a casa.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You can put a collar on each sheep, and as soon as a sheep returns home, you simply remove the collar and hang it up in your shed.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Puedes poner un collar en cada oveja, y tan pronto como una oveja vuelve, simplemente le sacas el collar y lo cuelgas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>If you have one hanger for every collar, you will know that every sheep returned safely as soon as all hangers are filled.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Si tienes un gancho para cada collar, puedes saber que todas las ovejas volvieron tan pronto como todos los ganchos estén ocupados.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Of course, you can also count them and keep a list.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Por supuesto, también puedes contarlas y mantener una lista.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>However, you will have to make sure to create a new list every time you start counting, and you will also have to make sure not to count a single sheep twice (or not at all).</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin embargo, tienes que asegurarte de crear una nueva lista cada vez que empiezas a contar, y también tienes que asegurarte de no contar a una misma oveja más de una vez (o de no contarla).</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Money is essentially a tool to keep track of who owes what to whom.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El dinero es esencialmente una herramienta para hacer un seguimiento de quién le debe a quién.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Broadly speaking, everything we have used as money up to now falls into two categories:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En general, todo lo que hemos usado como moneda hasta ahora cae en dos categorías:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>physical artifacts and informational lists.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>artefactos físicos y listas de información.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Or, to use more common parlance:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>O, para usar palabras más comunes:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>tokens and ledgers.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>tokens o libros contables.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is important to realize the inherent difference of these categories, so let me point it out explicitly:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Es importante entender la diferencia inherente de estas categorías, así que déjame dejarlas claras explícitamente:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The first method — a physical token — directly represents the state of things.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El primer método -un token físico- representa directamente el estado de las cosas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The second one — a ledger — indirectly reflects the state of things.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El segundo -un libro contable- refleja indirectamente el estado de las cosas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Each comes with advantages and disadvantages.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Cada uno viene con sus ventajas y desventajas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>For example, tokens are physical and distributed; ledgers are informational and centralized.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Por ejemplo, los tokens son físicos y distribuidos; los libros contables son informacionales y centralizados.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Tokens are inherently trustless; ledgers are not.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Los tokens inherentemente no requieren de confianza; los libros contables si.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In the digital realm — no matter how intensely marketing gurus try to convince you of the opposite — we can only use ledgers.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En el mundo digital -no importa cuán intensamente los publicistas intenten convencerte de lo contrario- solo podemos usar libros contables.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is an informational realm, not a physical one.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Es un reino de información, no un reino físico.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Even if you call a certain kind of information a “token,” it is still a malleable piece of information, written down on a hard drive or some other medium that can hold information, effectively rendering it an informational record.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Aunque puedas llamar a un cierto tipo de información “token”, todavía sigue siendo una pieza de información maleable, escrita en un disco rígido o algún otro medio que puede almacenar información, efectivamente convirtiéndolo en un registro de información.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The ledger-like nature of all digital information is the root cause of the double-spend problem.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La naturaleza tipo-registro-contable de toda la información digital es la causa raíz del problema del doble-gasto.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>information never represents the state of the world directly.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La información nunca representa el estado del mundo directamente.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Further, the movement of information implies copying.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Además, el movimiento de información implica copiar.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>information exists in one place, and to “move” it, you have to copy it to another place and erase it at its origin.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La información existe en un lugar, y para “moverla”, tienes que copiarla a otro lugar y borrarla de su origen.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>This problem doesn’t exist in the physical realm.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Este problema no existe en el mundo físico.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In the physical realm, we can actually move things from A to B. The informational realm doesn’t have this property.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En el mundo físico, podemos mover cosas desde A hacia B. El reino de la información no tiene esta propiedad.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>If you want to “move” information from list A to list B, you have to copy it from A to B. There is no other way.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Si quieres “mover” información de la lista A hacia la lista B, tienes que copiarla de A hacia B. No hay otra manera.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Another way to think about it is in terms of uniqueness.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Otra manera de pensarlo es en términos de unicidad.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Physical tokens are unique composites of atoms whose assembly is not easily replicable.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Los tokens físicos son compuestos únicos de átomos cuya forma no es fácilmente replicable.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Pure information does not have this property.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La información pura no tiene esta propiedad.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>If you can read the information, you can also copy it perfectly.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Si puedes leer la información, también puedes copiarla perfectamente.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Practically speaking, it follows that physical tokens are unique, and digital tokens are not.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En términos prácticos, los tokens físicos son únicos, un token digital no.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>I would even argue that “digital token” is a misnomer.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Me atrevería a decir que “token digital” es un término equivocado.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>A token might represent secret information, but it will never represent unique, singular, uncopyable information.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Un token puede representar una información secreta, pero nunca puede representar información única, puntual e incopiable.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>This difference in properties shows that there really is no way to “hand over” information.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Esta diferencia en propiedades muestra que no hay forma de “entregar” información.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is impossible to pass on a digital token like you would pass on a physical one since you can never be sure if the original owner destroyed the information on his end.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Es imposible transferir un token digital cómo transferimos uno físico ya que nunca podrías estar seguro de si el dueño original destruyó la información de su lado.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Digital tokens, like all information, can only be spread, like an idea.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Un token digital, como toda información, solo puede ser propagada, como una idea.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>… if you have an apple and I have an apple, and we swap apples — we each end up with only one apple.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>“... si tu tienes una manzana y yo tengo una manzana, y cambiamos manzanas -ambos nos quedamos con una manzana.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>But if you and I have an idea and we swap ideas — we each end up with two ideas.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Pero si tu y yo tenemos una idea y cambiamos ideas -ambos terminamos con dos ideas.”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Charles F. Brannan (1949)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Charles F. Brannan (1949)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Physical tokens — what we call physical bearer assets, or “cash” — are free from this dilemma.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Los tokens físicos -los que comúnmente llamamos activo al portador, o “efectivo”- no se enfrentan a este dilema.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In the real world, if you hand me a coin, your coin is gone.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En el mundo real, si me das una moneda, tu moneda desaparece.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>There is no magical duplication of the coin, and the only way to give it to me is to physically hand it over.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No hay una forma de duplicación mágica de las monedas, y el único modo de dármela es trasladándola físicamente.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The laws of physics do not allow you to double-spend it.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Las leyes de la física no te permiten hacer un doble-gasto.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>While double-spending does exist in the non-digital realm — George Parker, a con artist who famously “double-spent” the Brooklyn Bridge and other landmarks comes to mind — it requires elaborate deception and gullible buyers.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Existe el doble-gasto en el mundo no-digital -George Parker, por ejemplo, un estafador que hizo “doble-gasto” vendiendo a muchas personas el puente de Brooklyn. Y hay más ejemplos- requiere una elaborada red de engaños y compradores crédulos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Not so in the digital realm.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No es así en el mundo digital.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In the digital realm, because we are always dealing with information, double-spending is an inherent problem.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En el mundo digital, debido a que estamos utilizando información, hacer un doble-gasto es un problema inherente.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>As everyone who ever copied a file or used copy-and-paste knows, information is something that you can copy perfectly, and it is not bound to the medium that hosts it.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Todos los que alguna vez copiamos un archivo o utilizamos el copiar-pegar lo sabemos, la información es algo que puedes copiar perfectamente, y no está atada al medio que lo almacena.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>If you have a digital photograph, for example, you can copy it a million times, store some copies on a USB stick, and send it to thousands of different people.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Si tienes una fotografía digital, por ejemplo, puedes copiarla un millón de veces, guardar algunas copias en un USB y enviarla a miles de personas diferentes.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Perfect copies are possible because information allows for flawless error correction, which eliminates degradation.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Copias perfectas son posibles debido a que la información permite corrección de errores sin fallas, lo que elimina la degradación.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>And to top things off, there is virtually no cost to duplication and no way to tell what the original was.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Y encima de todo esto, no hay un costo por la duplicación y no hay forma de saber cuál era la original.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Again:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>De nuevo:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>when it comes to information, copying is all there is.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>cuando se trata de información, copiar es todo lo que hay.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>There simply is no way to move digital information from A to B. information is always copied from A to B, and if the copying process was successful, the original copy of A is deleted.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Simplemente no hay una forma de mover información digital desde A hasta B. La información siempre es copiada desde A hasta B, y si el proceso de copiado fue exitoso, la copia original de A es eliminada.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>This is why the double-spending problem is so tricky.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Este es el motivo por el cual el problema de doble-gasto es tan tramposo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Absent of a central authority, there is no way to move anything from A to B in a trustless manner.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En ausencia de una autoridad central no hay forma de mover algo de A a B sin confianza.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You always have to trust that the original will be deleted.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Siempre tienes que confiar que el original va a ser eliminado.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>A natural side-effect is that, when it comes to digital information, it is impossible to tell how many copies are in existence and where these copies might be.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Un efecto colateral natural es que, cuando se trata de información digital, es imposible decir cuántas copias existen y dónde estas copias pueden estar.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Because of this, using digital “tokens” as money can not and will never work.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Debido a esto, usar “tokens” digitales como dinero no puede funcionar y nunca lo hará.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Since tokens derive their reliability from being hard to reproduce as a result of their unique physical construction, this advantage disappears in the digital realm.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Ya que la fiabilidad de los tokens reside en la dificultad en ser reproducidos como resultado de su construcción física única, esta ventaja desaparece en el reino digital.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In the digital realm, tokens cannot be trusted.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En el reino digital, los tokens no son confiables.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>As a result of the nature of information’s intrinsic properties, the only viable format for digital money is not a token but a ledger — which brings us to the problem of time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Como resultado de la naturaleza de las propiedades intrínsecas de la información, el único formato viable para el dinero digital es no ser un token sino un libro contable - lo que nos lleva al problema del tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Tokens Are Timeless, Ledgers Are Not</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Los tokens son para siempre, los libros contables no</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>For the things seen are temporary, but the things unseen are everlasting.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>“Las cosas que se ven son temporales, pero las que no se ven son eternas.”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Paul of Tarsus, Corinthians 4:18b</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Pablo de Tarsu, Corintios 4:18b</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>When it comes to physical tokens, the time of a transaction does not matter.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Cuando hablamos de tokens físicos, la hora de la transacción no importa.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You either have the coins in your pocket, or you don’t; you can either spend them, or you can’t.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>O bien tienes las monedas en tu bolsillo, o no las tienes; puedes gastarlas, o no puedes.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The simple act of possession is the only prerequisite for spending.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El simple acto de posesión es el único prerrequisito para gastar.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The laws of nature take care of the rest.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Las leyes de la naturaleza hacen el resto.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In that sense, physical tokens are trustless and timeless.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En ese sentido, los tokens físicos no requieren de confianza ni del tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>When it comes to ledgers, physical possession falls to the wayside.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Cuando hablamos de los libros contables, la posesión física se desploma.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Whoever is in control of the ledger needs to make sure that things are in order.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Quien sea que tiene el control del libro contable tiene que asegurarse de que las cosas están en orden.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>What is otherwise given by physical laws, namely that you can’t spend money that you don’t have and you can’t spend money that you have already spent previously, has to be enforced by man-made rules.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Lo que es dado en el otro lado por las leyes de la física, digamos que no puedes gastar algo que no tienes y que no puedes gastar dinero que ya gastaste antes, tiene que ser provisto por reglas hechas por seres humanos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is these rules that govern the orderly operation and maintenance of a ledger, not physical laws.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Esas son las reglas que gobiernan el orden de operación y mantenimiento de un libro contable, no las leyes físicas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Moving from physical laws to man-made rules is the crux of the matter.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Salir de las leyes de la física es lo esencial del asunto.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Man-made rules can be bent and broken, physical laws not so much.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Las reglas hechas por seres humanos pueden doblarse y romperse, las reglas físicas no mucho.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>For example, you can’t simply “make up” a physical gold coin.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Por ejemplo, no puedes simplemente “crear” una moneda física de oro.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You have to dig it out of the ground.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Tienes que cavar el suelo y encontrarla.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You can, however, absolutely make up a gold coin on paper.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Puedes, sin embargo, hacer una moneda de oro en un papel.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>To do this, you simply add an entry to the ledger and give yourself a couple of coins.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para hacer esto, agregas una nueva entrada en tu libro contable y te das a ti mismo algunas monedas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Or, in the case of central banks, simply add a couple trillion with a few computer keystrokes.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Como en el caso de los bancos centrales, agregas algunos trillones usando las teclas en una computadora.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Fancy financial people call this “Rehypothecation,” “Fractional Reserve Banking,” or “Quantitative Easing” — but don’t be fooled, it’s all the same:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Los términos bonitos que usa la gente de finanzas para esto es “Rehipotecación”, “Banca de reserva fraccionaria” o “Facilitación cuantitativa”- pero no te dejes engañar, todo significa lo mismo:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>making up money.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>crear dinero.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>To keep ledgers and those who manipulate them honest, regular, independent audits are required.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para mantener a los libros contables y a los que los administran honestos, se necesita de auditores independientes.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The ability to account for every single entry in a ledger is not a luxury.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La habilidad de chequear cada una de las líneas de un libro contable no es un lujo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Auditors need to be able to go over the books — backward in time — to keep ledgers honest and functioning.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Los auditores necesitan poder recorrer todos los libros -hacia atrás en el tiempo- para mantener a los libros contables honestos y funcionando.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Without reliable timestamps, verifying the internal consistency of a ledger is impossible.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin marcas de tiempo precisas, verificar la consistencia interna de un libro contable es imposible.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>A mechanism to establish an unambiguous order is essential.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Un mecanismo para establecer un orden no ambiguo es esencial.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Without an absolute sense of time, there is no way to have a defined order of transaction.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin un sentido absoluto del tiempo, no hay forma de definir un orden en las transacciones.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>And without a defined order of transactions, the rules of a ledger can not be followed.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Y sin un orden definido de transacciones, las reglas de un libro contable no se pueden seguir.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>How else can you make sure how much money you actually have?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿Cómo sería posible de otra forma saber cuanto dinero tienes?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>How else can you make sure that things are in order?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿De qué otra manera podrías estar seguro que las cosas están en orden?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The distinction between tokens and ledgers highlights the necessity for keeping track of time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La distinción entre tokens y libros contables maximiza la necesidad de hacer un seguimiento del tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In the physical realm, coins are timeless artifacts that can be exchanged without oversight.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En el mundo físico, las monedas son objetos sin tiempo que pueden ser cambiados sin supervisión.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In the digital realm, coinstamping requires timestamping.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En el mundo digital, seguir monedas requiere seguir al tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Centralized Coinstamping</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Seguimiento de monedas centralizado</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Time: a great engraver, or eraser.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Tiempo: el gran grabador, o borrador.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Yahia Lababidi</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Yahia Lababidi</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The common way to solve the double-spending problem — the problem of making sure that a digital transfer only happens once — is to have a central list of transactions.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La manera más común de resolver el problema del doble-gasto -el problema de asegurarnos de que una transferencia digital solo sucedió una vez- es tener una lista central de transacciones.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Once you have a central list of transactions, you have a single ledger that can act as the sole source of truth.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Una vez que tienes una lista central de transacciones, tienes un único libro contable que hace de la única fuente de la verdad.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Solving the double-spending problem is as easy as going through the list and making sure that everything adds up correctly.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Resolver el problema del doble-gasto es tan fácil como recorrer la lista y asegurarse de que todo se suma correctamente.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>This is how PayPal, Venmo, Alipay, and all the banks of this world — including central banks — solve the double-spending problem: via central authority.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Así es como PayPal, Venmo, Alipay, y todos los bancos de este mundo -incluídos los bancos centrales- resuelven el problema del doble-gasto: a través de una autoridad central.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The problem of course is the payee can’t verify that one of the owners did not double-spend the coin.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>"El problema, por supuesto, es que el beneficiario no puede verificar que uno de los propietarios no haya gastado dos veces la moneda.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>A common solution is to introduce a trusted central authority, or mint, that checks every transaction for double-spending.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Una solución común es introducir una autoridad central confiable, o casa de la moneda, que verifique cada transacción para detectar el doble-gasto.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>[…] The problem with this solution is that the fate of the entire money system depends on the company running the mint, with every transaction having to go through them, just like a bank.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El problema con esta solución es que el destino de todo el sistema monetario depende de la empresa que maneja la casa de la moneda, y cada transacción debe pasar por ellos, como un banco.”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Satoshi Nakamoto (2009)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Satoshi Nakamoto (2009)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is worth pointing out that Satoshi didn’t manage to make information non-copyable.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Es importante aclarar que Satoshi no logró hacer la información incopiable.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Every part of bitcoin — its source code, the ledger, your private key — can be copied.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Cada parte de bitcoin -su código fuente, el libro contable, tu clave privada- puede ser copiada.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>All of it can be duplicated and tampered with.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Todo bitcoin puede ser copiado y manipulado.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>However, Satoshi managed to build a system that makes rule-breaking copies completely and utterly useless.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin embargo, Satoshi logró construir un sistema que convierte a las copias que rompen las reglas absolutamente inútiles.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The Bitcoin network performs an intricate dance to decide which copies are useful and which aren’t, and it is this dance that brings scarcity into the digital realm.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La red Bitcoin hace un baile complejo para decidir qué copias son útiles y cuáles no, y es este baile el que logra introducir escasez al reino digital.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>And like with every dance, a temporal measuring stick is required to dictate the rhythm.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Y como todo baile, un cronómetro que mide el tiempo es necesario para marcar el ritmo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Even a centralized ledger can only solve the double-spending problem if it has a consistent way to keep track of time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Incluso un libro contable centralizado solo puede resolver el problema del doble-gasto si tiene una forma consistente de medir el tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You always need to know who gave how much to whom and, most importantly: when.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Siempre tienes que saber quién le dio cuanto a quién y, más importante: cuando.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In the realm of information, there is no coin-stamping without time-stamping.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En el reino de la información, no hay seguimiento de moneda sin seguimiento del tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It must be stressed that the impossibility of associating events with points in time in distributed systems was the unsolved problem that precluded a decentralized ledger from ever being possible until Satoshi Nakamoto invented a solution.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>“Hay que enfatizar que la imposibilidad de asociar eventos con puntos en el tiempo usando sistemas distribuidos fue el problema sin solución que impedía la existencia de un libro contable descentralizado, hasta que Satoshi Nakamoto inventó la solución.”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Gregory Trubetskoy (2018)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Gregory Trubetskoy (2018)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Decentralized Time</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Tiempo Descentralizado</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Time brings all things to pass.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El tiempo hace que todas las cosas pasen.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Aeschylus (525 BC – 456 BC)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Aeschylus (525 AC - 456 AC)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Time and order have a very intimate relationship.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El tiempo y el orden tienen una relación íntima.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>As Leslie Lamport pointed out in his 1978 paper Time, Clocks, and the Ordering of Events in a Distributed System:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Como Leslie Lamport dijo en su publicación de 1978, Tiempo, Relojes, y el Orden de Eventos en un Sistema Distribuido:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The concept of time is fundamental to our way of thinking.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El concepto del tiempo es fundamental en nuestra manera de pensar.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is derived from the more basic concept of the order in which events occur.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Se deduce del básico concepto del orden en el que las cosas ocurren.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Absent a central point of coordination, seemingly intuitive notions of “before,” “after,” and “simultaneously” break down.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Si no tienes una autoridad central que coordine, aparentes intuitivas nociones del “antes”, “después” y “simultáneo” pierden sentido.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In the words of Lamport:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En las palabras de Lamport:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>the concept of ‘happening before’ defines an invariant partial ordering of the events in a distributed multiprocess system.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El concepto de ‘sucedió antes’ define un imparcial orden de los eventos en un sistema multiprocesos distribuído.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Phrased differently:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Dicho de otra forma:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Who should be in charge of time if putting someone in charge is not allowed?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿Quién debería estar a cargo del tiempo si poner a alguien a cargo no está permitido?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>How can you have a reliable clock if there is no central frame of reference?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿Cómo puedes lograr tener un reloj confiable si no hay un marco central de referencia?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You might think that solving this problem is easy because everyone could just use their own clock.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Puedes pensar que resolver este problema es fácil porque cada uno puede usar su propio reloj.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>This only works if everyone’s clock is accurate, and, more importantly, everyone plays nice.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Esto solo funciona si los relojes de todos son precisos, y, más importante, si nadie hace trampa.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In an adversarial system, relying on individual clocks would be a disaster.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En un sistema distribuído, confiar en relojes individuales sería un desastre.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>And, because of relativity, it does not work consistently across space.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Y, debido a la relatividad, no funciona consistentemente a través del espacio.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>As a thought experiment, imagine how you could cheat the system if everyone was in charge of keeping the time for themselves.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>A modo de experimento mental, imagínate cómo podrías engañar al sistema si cada uno fuera responsable de su propio tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You could pretend that the transaction you’re sending now is actually from yesterday — it just got delayed for some reason — thus, you would still have all the money that you’ve spent today.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Podrías pretender que la transacción que estás enviando hoy es de ayer -solo se demoró por alguna razón- por lo tanto, tendrías todavía el dinero que gastaste ayer.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Because of the asynchronous communication that is inherent in every decentralized system, this scenario is more than a theoretical thought experiment.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Debido a que la comunicación es inherentemente asincrónica en todo sistema distribuido, este escenario es más que un experimento mental.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Messages do indeed get delayed, timestamps are inaccurate, and thanks to relativistic effects and the natural speed limit of our universe, it is anything but easy to tell apart the order of things absent of a central authority or observer.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Los mensajes realmente se retrasan, las marcas de tiempo son imprecisas, y gracias a los efectos de la relatividad y el límite natural de velocidad del universo, no es nada fácil saber cual es el orden de las cosas sin tener una autoridad central u observador.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Who’s there?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿Quién es?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Knock knock.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Knock knock.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>An Asynchronous Joke</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Una broma asincrónica</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>To better illustrate the impossibility of the problem, let’s look at a concrete example.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para ilustrar mejor la imposibilidad del problema, miremos un ejemplo concreto.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Imagine that you and your business partner both have access to your company bank account.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Imagina que tú y tu compañera de negocios tienen acceso a la cuenta bancaria de la empresa.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You do business all over the world, so your bank account is in Switzerland, you are in New York, and your business partner is in Sydney.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Hacen negocios alrededor del mundo, así que la cuenta bancaria está en Suiza, tú estás en Nueva York y tu compañera está en Sydney.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>For you, it is January 3rd, and you are enjoying a beautiful Sunday evening at your hotel.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para ti, es el 3 de Enero, y estás disfrutando de una hermosa mañana de sábado en el hotel.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>For her, it’s Monday morning already, so she decides to buy breakfast using the debit card of your shared bank account.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para ella, ya es Lunes a la mañana, así que decide comprarse un desayuno con la tarjeta de débito de la cuenta bancaria compartida.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The cost is $27.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El costo es de $27.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The available balance is $615.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El saldo disponible es de $615.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The local time is 8:21 am.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La hora local es 8:21 am.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>At the same time, you are about to pay for your stay with another debit card linked to the same bank account.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Al mismo tiempo, estás por pagar tu estadía con otra tarjeta de débito de la misma cuenta bancaria.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The cost is $599.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El costo es de $599.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The available balance is $615.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El saldo disponible es de $612.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The local time is 5:21 pm.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La hora local es 5:21 pm.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>So it comes to be that — at exactly the same moment — you both swipe the card.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Así que ahí viene el problema -al mismo tiempo- ambos pasan la tarjeta.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>What happens?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿Qué sucede?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Dear physicists, please excuse my use of “the same moment” — we will ignore relativistic effects and the fact that there is no absolute time in our universe for now.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Queridos físicos, perdonen mi uso de “al mismo tiempo” -vamos a ignorar los efectos relativistas y el hecho de que no hay un tiempo absoluto en nuestro universo por ahora.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>We will also ignore that the concept of synchronous events doesn’t really exist.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>También vamos a ignorar que el concepto de eventos sincrónicos no existe realmente.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Bitcoin is complicated enough as it is!</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>!Bitcoin es lo suficientemente complicado de por sí!</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The central ledger at your bank will probably receive one transaction before the other one, so one of you will be lucky, the other not so much.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El libro contable central de tu banco probablemente reciba una transacción antes que la otra, así que alguno de los dos tendrá suerte, el otro no mucha.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>If the transactions happen to arrive in the same tick — let’s say in the same millisecond — the bank would have to decide who gets to spend the money.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Si la transacción realmente llega al mismo tiempo -digamos, en el mismo milisegundo- el banco tendrá que decidir quién gasta el dinero.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Now, what would happen if there was no bank?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Ahora, ¿Qué hubiera pasado si no hubiera un banco?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Who decides who was the first one to swipe?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿Quién decide quien pasó primero la tarjeta?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>What if it wasn’t only you two, but hundreds or even thousands of people coordinating?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿Y qué tal si no hubiera solo dos, sino cientos o miles de personas en simultáneo?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>What if you didn’t trust those people?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿Y qué sucede si no confías en ninguna de esas personas?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>What if some of those people are trying to cheat, e.g., by setting their clocks back so that it looks like they spent the money a couple of minutes earlier?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿Qué pasaría si algunas de esas personas quisieran hacer trampa, por ejemplo, retrocediendo su reloj haciendo parecer que ellos gastaron el dinero antes?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>A time-related tool [is] needed to establish a canonical ordering and to enforce a unique history in the absence of any central coordinator.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Una herramienta dedicada al tiempo es necesaria para establecer un orden y hacer cumplir una única historia en la ausencia de un coordinador central.&lt;br></seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Giacomo Zucco, Discovering Bitcoin (2019)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Giacomo Zucco, Descubriendo Bitcoin (2019)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>This problem is precisely why all previous attempts of digital cash required a centralized registry.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Este problema es precisamente el causante de que todos los intentos anteriores de dinero digital requieran de un registro centralizado.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You always had to trust someone to correctly identify the order of things.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Siempre tienes que confiar en alguien para identificar correctamente el orden de las cosas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>A centralized party was required to keep the time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Una autoridad central es requerida para que esté a cargo del tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Bitcoin solves this problem by re-inventing time itself.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Bitcoin resuelve este problema re inventando el tiempo en sí mismo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It says no to seconds and yes to blocks.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Le dice no a los segundos y si a los bloques.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Keeping the Time, One Block at a Time</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Midiendo el tiempo, un bloque a la vez</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Time’s glory is to calm contending kings, To unmask falsehood and bring truth to light, To stamp the seal of time in aged things, To wake the morn and sentinel the night, To wrong the wronger till he render right;</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Es la gloria del Tiempo calmar enemistades, revelar falsedades y a la verdad dar brillo, dar el sello del Tiempo a las cosas más viejas, ser celador de día y de noche guardián, maltratar al injusto hasta que entre en razón.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>William Shakespeare, The Rape of Lucrece (1594)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>William Shakespeare, La violación de Lucrecia (1709)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>All clocks rely on periodic processes, something that we might call a “tick.”</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Todos los relojes necesitan de un proceso periódico, algo que llamamos un “tick”.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The familiar tick-tock of a grandfather’s clock is, in essence, the same as the molecular-atomic buzzing of our modern Quartz and Caesium clocks.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El familiar tick-tock del reloj del abuelo es, en esencia, el mismo zumbido-atómico de tu reloj de Cuarzo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Something swings — or oscillates — and we simply count these swings until it adds up to a minute or a second.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Algo se balancea -u oscila- y nosotros simplemente contamos eso hasta que sume minutos o segundos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>For large pendulum clocks, these swings are long and easy to see.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para relojes de grandes péndulos, esos balanceos son largos y fáciles de ver.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>For smaller and more specialized clocks, special equipment is required.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para pequeños y más especializados relojes, un equipamiento especial es requerido.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The frequency of a clock — how often it ticks — depends on its use-case.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La frecuencia de un reloj -que tan rápido hace tick- depende de su caso de uso.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Most clocks have a fixed frequency.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La mayoría de relojes tienen una frecuencia fija.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>After all, we want to know the time precisely.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Después de todo, queremos saber el tiempo de forma precisa.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>There are, however, clocks that have a variable frequency.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Hay, sin embargo, relojes que tienen frecuencia variable.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>A metronome, for example, has a variable frequency that you can set before you make it tick.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Un metrónomo, por ejemplo, tiene una frecuencia variable que puedes elegir antes de hacerlo funcionar.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>While a metronome keeps its pace constant once it is set, Bitcoin’s time varies for each tick because its internal mechanism is probabilistic.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Mientras que un metrónomo se mantiene constante una vez que comenzó, el tiempo de Bitcoin varía en cada tick porque su mecanismo interno es probabilístico.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The purpose, however, is all the same:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El objetivo, sin embargo, es el mismo;</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>keep the music alive, so the dance can continue.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>mantener la música viva, así el baile puede continuar.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Clock</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Reloj</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Tick Frequency</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Frecuencia del tick</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Grandfather’s clock</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Reloj del abuelo</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Metronome</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Metrónomo</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Quartz watch</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Reloj de cuarzo</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Caesium-133 atomic clock</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Reloj atómico Caesium-133</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Bitcoin</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Bitcoin</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>1 block</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>1 bloque</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>* first block (6 days)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>* primer bloque (6 días)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>** timestamps between blocks can show a negative delta</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>** el tiempo entre bloques puede mostrar un delta negativo</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The fact that Bitcoin is a clock is hiding in plain sight.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El hecho de que Bitcoin es un reloj está escondido a la vista de todos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Indeed, Satoshi points out that the Bitcoin network as a whole acts as a clock, or, in his words:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Por supuesto, Satoshi señala que la red de Bitcoin actúa como un reloj, o, en sus palabras:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>a distributed timestamp server.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>un sistema distribuído de marcas de tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In this paper, we propose a solution to the double-spending problem using a peer-to-peer distributed timestamp server to generate computational proof of the chronological order of transactions.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En este documento, proponemos una solución al problema del doble-gasto usando un servidor distribuido par-a-par de marcas de tiempo para generar pruebas computacionales que aseguren el orden cronológico de las transacciones.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Satoshi Nakamoto (2009)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Satoshi Nakamoto (2009)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>That timestamping was the root problem to be solved is also apparent by examining the reference at the end of the Bitcoin whitepaper.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Esas marcas de tiempo siendo la raíz del problema a resolver es también visible si examinamos las referencias al final del documento que dio origen al Bitcoin.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Out of the eight references in total, three are about timestamping:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>De ocho referencias en total, tres son sobre marcas de tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>How to time-stamp a digital document by S. Haber, W.S.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Como marcar el tiempo en un documento digital por S. Haber, W.S.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Stornetta (1991) Improving the efficiency and reliability of digital time-stamping by D. Bayer, S. Haber, W.S.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Stornetta (1991) Mejorar la eficiencia y fiabilidad de las marcas de tiempo digitales por D. Bayes, S. Haber, W.S</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Stornetta (1992) Design of a secure timestamping service with minimal trust requirements by H. Massias, X.S Avila y J.J.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Stornetta (1992) El diseño de un servicio seguro de marcas de tiempo con un mínimo de confianza por H. Massias, X.S Avila y J.J.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Quisquater (May 1999)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Quisquater (1999)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>As Haber and Stornetta outlined in 1991, digital time-stamping is about computationally practical procedures that make it infeasible for a user — or an adversary, for that matter — to either back-date or forward-date a digital document.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Como Haber y Stornetta mostraron en 1991, las marcas de tiempo digitales tratan sobre el armado de procedimientos computacionales para hacer que un usuario no pueda -o un adversario, en este caso- modificar la fecha de un documento hacia atrás o hacia adelante en el tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Contrary to physical documents, digital documents are easy to tamper with, and the change doesn’t necessarily leave any tell-tale signs on the physical medium itself.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Al contrario de los documentos físicos, los documentos digitales son fáciles de adulterar y los cambios no necesariamente dejan signos visibles.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In the digital realm, forgeries and manipulations can be perfect.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En el mundo digital, los cambios y manipulaciones pueden ser perfectas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The malleable nature of information makes time-stamping digital documents an elaborate and sophisticated process.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La naturaleza maleable de la información hace que marcar el tiempo en un documento digital sea un proceso elaborado y sofisticado.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Naive solutions do not work.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Soluciones a la ligera no funcionan.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Take a text document, for example.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Toma un documento de texto, por ejemplo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You can’t simply add the date at the end of the document since everyone — including yourself — could simply change the date in the future.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No puedes agregar la fecha al final del documento porque todo el mundo -incluido tú mismo- podrían cambiar la fecha en un futuro.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You could also make up any date in the first place.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Podrías hasta inventar una fecha en primer lugar.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Time is a Causal Chain</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El tiempo es una cadena causal</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In an extreme view, the world can be seen as only connections, nothing else.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>“Mirándolo de forma extrema, el mundo puede ser visto solo como conexiones, nada más.”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Tim Berners-Lee, Weaving the Web (1999)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Tim Berners-Lee, Tejiendo la Red (1999)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Making up dates is a general problem, even in the non-digital realm.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Inventar fechas es un problema general, incluso en el reino no-digital.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>What is known in the kidnapping world as “Authentication by Newspaper” is a general solution to the problem of arbitrary timestamps.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Lo que se conoce en el mundo de los secuestros como “Autenticación por Periódico” es una solución general al problema de marcas de tiempo arbitrarias.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Proof of Time</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Prueba de tiempo</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>This works because a newspaper is hard to fake and easy to verify.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Esto funciona porque un periódico es difícil de falsificar y es fácil de verificar.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is hard to fake because today’s front page refers to yesterday’s events, events that could not have been predicted by the kidnapper if the picture would be weeks old.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Es difícil de falsificar porque las portadas de hoy refieren a eventos de ayer, eventos que no podrían haber sido predichos por el secuestrador si la imagen tuviera semanas de antigüedad.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>By proxy of these events, the picture is proof that the hostage was still alive on the day the newspaper came out.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Por delegación de estos eventos, la imagen es prueba de que el rehén estaba aún vivo el día en que el periódico se publicó.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>This method highlights one of the key concepts when it comes to time: causality.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Este método resalta uno de los conceptos clave en cuanto al tiempo: causalidad.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The arrow of time describes the causal relationship of events.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La línea de tiempo describe la relación causal de eventos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>No causality, no time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin causalidad no hay tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Causality is also the reason why cryptographic hash functions are so crucial when it comes to timestamping documents in cyberspace:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La causalidad es también la razón por la que las funciones hash criptográficas son tan cruciales cuando se trata de sellar documentos en el ciberespacio:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>they introduce a causal relationship.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>introducen una relación causal.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Since it is practically impossible to create a valid cryptographic hash without having the document in the first place, a causal relationship between the document and the hash is introduced:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Como es prácticamente imposible crear un hash criptográficamente válido sin tener el documento en el primer lugar, una relación causal entre el documento y el hash es introducida:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>the data in question existed first, the hash was generated later.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>el dato en cuestión existió primero, y el hash fue generado después.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In other words:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En otras palabras:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>without the computational irreversibility of one-way functions, there would be no causality in cyberspace.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>sin la irreversibilidad computacional de las funciones unidireccionales, no habría causalidad en el ciberespacio.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>A before B</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>algoritmo de hash A antes que B</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>With this causal building block in place, one can come up with schemes that create a chain of events, causally linking A to B to C and so on.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Con este bloque de construcción causal en su lugar, uno puede idear esquemas que creen una cadena de eventos, vinculando causalmente A con B a C y así sucesivamente.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In that sense, secure digital timestamping moves us from a timeless place in the ether into the realm of digital history.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En ese sentido, la marca de tiempo segura digital nos traslada desde un lugar atemporal en el éter hacia el ámbito de la historia digital.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Causality fixes events in time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>“La causalidad arregla los eventos en el tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>If an event was determined by certain earlier events, and determines certain subsequent events, then the event is sandwiched securely into its place in history.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Si un evento fue determinado por ciertos eventos previos, y determina ciertos eventos subsiguientes, entonces el evento se coloca de forma segura en su lugar de la historia.”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Bayer, Haber, Stornetta (1992)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Bayer, Haber, Stornetta (1992)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It goes without saying that causality is of the utmost importance when it comes to economic calculations.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No hace falta decir que la causalidad es de suma importancia cuando se trata de cálculos económicos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>And since a ledger is nothing but the embodiment of economic calculations of multiple cooperating participants, causality is essential for every ledger.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Y dado que un libro contable no es más que la encarnación de los cálculos económicos de múltiples participantes que cooperan, la causalidad es esencial para cada libro contable.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>We need a system for participants to agree on a single history […].</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>"Necesitamos un sistema en el que los participantes estén de acuerdo en una única historia [...].</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The solution we propose begins with a timestamp server.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La solución que proponemos empieza con un servidor de marca de tiempo.”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Satoshi Nakamoto (2009)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Satoshi Nakamoto (2009)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is fascinating that all of the puzzle pieces that make Bitcoin work did already exist.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Es fascinante que todas las piezas de rompecabezas que hacen que Bitcoin funcione ya existían.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>As early as 1991, Haber and Stornetta introduced two schemes that make it “difficult or impossible to produce false time-stamps.”</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Tan pronto como en 1991, Haber y Stornetta introdujeron dos esquemas que hacen “difícil o imposible producir marcas de tiempo falsas”.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The first relies on a trusted third party; the second, more elaborate “distributed trust” scheme, does not.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El primero se basa en un tercero de confianza; el segundo esquema, más elaborado, de “confianza distribuida”, no depende de un tercero de confianza.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The authors even identified the inherent problems of trusting a causal chain of events and what would be required to rewrite history.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Los autores incluso identificaron los problemas inherentes de confiar en una cadena causal de eventos y qué se requeriría para reescribir la historia.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In their words, “the only possible spoof is to prepare a fake chain of time-stamps, long enough to exhaust the most suspicious challenger that one anticipates.”</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En sus propias palabras “la única trampa posible es preparar una cadena falsa de marcas de tiempo, lo suficientemente larga para agotar al que tenga más sospechas”.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>A similar attack vector exists in Bitcoin today, in the form of a 51% attack (more on that in a later chapter).</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Un vector similar de ataque existe actualmente en Bitcoin, en la forma de un ataque del 51% (más sobre esto en un capítulo posterior).</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>One year later, Bayer, Haber, and Stornetta built upon their previous work and proposed to use trees instead of simple linked lists to tie events together.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Un año después, Bayer, Haber y Stornetta revisaron su trabajo previo y propusieron usar árboles en lugar de simples listas ligantes para unir eventos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>What we know as Merkle Trees today are simply efficient data structures to create a hash from multiple hashes deterministically.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Lo que conocemos como los Árboles de Merckle hoy en día son simples estructuras eficientes de datos para crear un hash a partir de múltiples hashes de forma determinística.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>For timestamping, this means that you can efficiently bundle multiple events into one “tick.”</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para la marca de tiempo, esto significa que puedes agrupar de forma eficiente múltiples eventos dentro de un mismo “tick”.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In the same paper, the authors propose that the distributed trust model introduced in 1991 could be improved by carrying out a recurring “world championship tournament” to determine a single “winner” who widely publishes the resulting hash somewhere public, like a newspaper.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En el mismo paper, los autores propusieron que el modelo de confianza distribuida introducida en 1991 podía ser mejorado hacia un “torneo de campeones mundiales” recurrente para determinar un único “ganador” quien ampliamente publique el hash resultante en un lugar público, como un periódico.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Sounds familiar?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿Suena familiar?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>As we shall see, it turns out that newspapers are also an excellent way to think about the second ingredient of time:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Como ya veremos, resulta que los periódicos también son una forma excelente para pensar sobre el segundo ingrediente del tiempo:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>unpredictability.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>la impredecibilidad.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Causality and Unpredictability</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Causalidad y impredecibilidad</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Time is not a reality [hupostasis], but a concept [noêma] or a measure [metron]…</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El tiempo no es una realidad, es un concepto o una medida…</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Antiphon the Sophist, On Truth (3rd century AD)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Antifon el Sofista, En Verdad (Año 300)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>While causality is essential, it is not sufficient.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La causalidad es esencial, pero no suficiente.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>We also need unpredictability for time to flow.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>También necesitamos de impredecibilidad para que el tiempo fluya.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In the physical realm, we observe natural processes to describe the flow of time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En el mundo físico, observamos el proceso natural para describir el flujo del tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>We observe a general increase in entropy and call that the arrow of time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Observamos un incremento general de la entropía y a eso le llamamos la flecha del tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Even though the laws of nature seem to be oblivious in regards to the direction of this arrow in most cases, certain things can’t be undone, practically speaking.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Aunque las leyes de la naturaleza parezcan obvias respecto de la dirección de esta flecha en la mayoría de los casos, algunas cosas no se pueden deshacer, hablando en forma práctica.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You can’t unscramble an egg, as they say.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No puedes des-romper un huevo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Similarly, entropy-increasing functions are required to establish an arrow of time in the digital realm.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Similarmente, las funciones que incrementan la entropía son requeridas para establecer una flecha del tiempo en el mundo digital.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Just like it is practically impossible to unscramble an egg, it is practically impossible to unscramble a SHA256 hash or cryptographic signature.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Así como es prácticamente imposible des-romper un huevo, es prácticamente imposible des-romper un hash SHA256 o una firma criptográfica.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Without this increase in entropy, we could go forward and backward in time willy-nilly.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin este incremento de la entropía, podríamos ir hacia adelante y atrás en el tiempo a gusto y piacere.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The sequence of Fibonacci Numbers, for example, is causal but not entropic.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La secuencia de números de Fibonacci, por ejemplo, es causal pero no entrópica.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Every number in the sequence is caused by the two numbers that came before it.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Cada número en la secuencia es causado por los dos números anteriores.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In that sense, it is a causal chain.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En ese sentido, es una cadena causal.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>However, it is not useful to tell the time because it is entirely predictable.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No obstante, no es útil para decir la hora porque es completamente predecible.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In the same way that a kidnapper can’t simply stand in front of a calendar that shows the current date, we can’t use predictable processes as proof of time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>De la misma forma en que un secuestrador no puede pararse en frente del calendario que muestra la fecha actual, nosotros no podemos usar procesos predictibles como prueba del tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>We always have to rely on something that can’t be predicted in advance, like the front page of today’s newspaper.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Siempre necesitamos apoyarnos en algo que no puede ser sabido con anterioridad, como la primera plana del diario de hoy.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Bitcoin relies upon two sources of unpredictability: transactions and proof-of-work.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Bitcoin se apoya en dos fuentes de impredecibilidad: transacciones y pruebas-de-trabajo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Just like nobody can predict what tomorrow’s newspaper will look like, nobody can predict what the next Bitcoin block will look like.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>De la misma forma en que nadie puede predecir cómo el diario de mañana se va a ver, nadie puede predecir cómo va a ser el siguiente bloque de Bitcoin.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You can’t predict what transactions are going to be included because you can’t predict what transactions are going to be broadcast in the future.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No puedes predecir qué transacciones van a ser incluidas porque no puedes predecir qué transacciones van a ser transmitidas en el futuro.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>And, more importantly, you can’t predict who will find the solution to the current proof-of-work puzzle and what this solution will be.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Y, más importante, no puedes predecir quién va a encontrar la solución a la actual prueba-de-trabajo y cuál solución va a ser.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In contrast to the kidnapper’s newspaper, however, proof-of-work is physically linked to what happened directly.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>A diferencia del periódico del secuestrador, sin embargo, la prueba de trabajo está vinculada físicamente a lo que pasó directamente.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is not just a record of an event — it is the event itself.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No es sólo una grabación de un evento - es el evento en sí mismo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is the probabilistic directness of proof-of-work that removes trust from the equation.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Es la franqueza probabilística de la prueba de trabajo lo que remueve a la confianza de la ecuación.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The only way to find a valid proof-of-work is by making a lot of guesses, and making a single guess takes a little bit of time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La única forma de encontrar una prueba de trabajo válida es intentar muchas veces adivinar algo, y adivinar lleva bastante tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The probabilistic sum of these guesses is what builds up the timechain that is Bitcoin.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La suma probabilística de estos intentos de adivinar es lo que construye la cadena de tiempo que es Bitcoin.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>By utilizing the causality of hash-chains and the unpredictability of proof-of-work, the Bitcoin network provides a mechanism for establishing an indisputable history of events witnessed.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Al utilizar la causalidad de las cadenas de hash y la impredecibilidad de la prueba de trabajo, la red de Bitcoin provee un mecanismo para establecer un historial indiscutido de eventos verdaderos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Without causality, what came before and what came after is impossible to tease apart.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin la causalidad, lo que vino antes y lo que vino después es imposible de distinguir.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Without unpredictability, causality is meaningless.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin impredecibilidad, la causalidad carece de sentido.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>What is intuitively understood by every kidnapper was explicitly pointed out by Bayer, Haber, and Stornetta in 1992:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Lo que es intuitivamente entendido por cada secuestrador fue explícitamente señalado por Bayer, Haber y Stornetta en 1992:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>“To establish that a document was created after a given moment in time, it is necessary to report events that could not have been predicted before they happened.”</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>“Para establecer que un documento fue creado después de un momento dado, es necesario reportar eventos que no podrían haberse predicho antes de que ocurrieran”.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Proof of Publication</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Prueba de publicación</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is the combination of causality and unpredictability that allows the creation of an artificial “now” in the otherwise timeless digital realm.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La combinación de causalidad e impredecibilidad es lo que permite la creación de un “ahora” artificial en el ámbito digital, que de otro modo sería atemporal.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>As Bayer, Haber, and Stornetta point out in their 1991 paper:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Como Bayer, Haber y Stornetta señalan en su paper de 1991:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>“the sequence of clients requesting time-stamps and the hashes they submit cannot be known in advance.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>“la secuencia de clientes requiriendo marcas de tiempo y los hash que ellos envían no pueden conocerse de antemano.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>So if we include bits from the previous sequence of client requests in the signed certificate, then we know that the time-stamp occurred after these requests.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Por lo tanto, si en el certificado firmado incluimos bits de la secuencia anterior de solicitudes del cliente, entonces sabemos que la marca de tiempo ocurrió después de estas solicitudes.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>But the requirement of including bits from previous documents in the certificate also can be used to solve the problem of constraining the time in the other direction, because the time-stamping company cannot issue later certificates unless it has the current request in hand.”</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Pero el requisito de incluir bits de documentos previos en el certificado también puede ser usado para solucionar el problema de restringir el tiempo en la otra dirección, porque la empresa de sellado de tiempo no puede emitir certificados posteriores a menos que tenga la solicitud actual en su mano”.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>All the puzzle pieces were already there.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Todas las piezas del rompecabezas ya estaban allí.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>What Satoshi managed to do is put them together in a way that removes the “time-stamping company” from the equation.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Lo que Satoshi logró hacer fue ponerlas juntas de forma tal de remover de la ecuación a la “empresa de sellado de tiempo”.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Proof of Time</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Prueba de tiempo</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The cause is hidden, but the result is known.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- La causa está oculta, pero el resultado es conocido.”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Ovid, Metamorphoses, IV. 287 (8 AD)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Ovid, Metamorphoses, IV. 287 (8 AC)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Let us recapitulate:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Recapitulemos:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>to use money in the digital realm, we have to rely on ledgers.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>para usar dinero en el ámbito digital, tenemos que confiar en los libros contables.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>To make ledgers reliable, unambiguous order is required.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para que estos libros sean confiables, se requiere un orden inequívoco.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>To establish order, timestamps are necessary.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para establecer orden, son necesarias las marcas de tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Thus, if we want to have trustless money in the digital realm, we must remove any entity that creates and manages timestamps and any single entity that is in charge of time itself.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Entonces, si queremos tener dinero sin confianza en el ámbito digital, debemos remover cualquier entidad que genere y maneje las marcas de tiempo y toda entidad que esté a cargo del tiempo en sí mismo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It took a genius like Satoshi Nakamoto to realize the solution:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Se necesitó a un genio como Satoshi Nakamoto para encontrar la solución:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>“To implement a distributed timestamp server on a peer-to-peer basis, we will need to use a proof-of-work system similar to Adam Back’s Hashcash.”</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>“Para implementar un servidor de marca de tiempo distribuido de par-a-par, necesitaremos utilizar un sistema de prueba de trabajo similar al Hashcash de Adam Back”.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>We need to use a proof-of-work system because we need something that is native to the digital realm.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Tenemos que usar un sistema de prueba de trabajo porque necesitamos algo que sea nativo del ámbito digital.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Once you understand that the digital realm is informational in nature, the obvious conclusion is that computation is all we have.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Una vez que entiendas que el reino digital es de naturaleza informativa, la conclusión más obvia es que el cálculo es todo lo que tenemos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>If your world is made of data, manipulation of data is all there is.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Si tu mundo está hecho de datos, la manipulación de datos es todo lo que existe allí.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Proof-of-work works in a peer-to-peer setting because it is trustless, and it is trustless because it is disconnected from all external inputs — such as the readings of clocks (or newspapers, for that matter).</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La prueba de trabajo funciona en un entorno de par-a-par porque no necesita de confianza, y no necesita de confianza porque está desconectado de todas las posibles entradas externas -como las lecturas de relojes (o periódicos, para el caso).</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It relies on one thing and one thing only: computation requires work, and in our universe, work requires energy and time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Recae en una sola cosa: el cálculo requiere trabajo, y en nuestro universo, el trabajo requiere energía y tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Bridging Times</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Tiempos de transición</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>I know it works for me.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sé que esto funciona para mí.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>As we cross the bridge — the burning bridge —  With flames behind us,  We front the line.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Al cruzar el puente - el puente ardiente- Con llamas detrás nuestro, Estamos al frente de la línea.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It’s you and me, baby, against the world.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Somos tú y yo, cariño, contra el mundo.”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Kate Bush, Burning Bridge (1985)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Kate Bush, Puente ardiente (1985)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Without proof-of-work, one would always run into the Oracle problem because the physical realm and the informational realm are eternally disconnected.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin prueba de trabajo, uno siempre correría dentro del problema del Oráculo, porque el ámbito físico y el informático están eternamente desconectados.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The markings on your list of sheep aren’t your sheep, the map is not the territory, and whatever was written in yesterday’s newspaper isn’t necessarily what happened in the real world.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Las marcas en tu lista de ovejas no son tus ovejas, el mapa no es el territorio, y lo que sea que haya sido escrito en el periódico de ayer no es necesariamente lo que ocurrió en el mundo real.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In the same manner, just because you use a real-world clock to write down a timestamp doesn’t mean that this is actually what the time was.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>De la misma manera, el hecho de que uses un reloj del mundo real para escribir una marca de tiempo no significa que esta sea realmente la hora.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Put bluntly, there simply is no way to trust that data represents reality, except if the reality in question is inherent in the data itself.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Dicho de otra forma, simplemente no hay forma de confiar en que los datos representan la realidad, excepto si la realidad en cuestión es inherente a los datos en sí mismos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The brilliant thing about Bitcoin’s difficulty-adjusted proof-of-work is that it creates its own reality, along with its own space and time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Lo brillante de la prueba de trabajo de Bitcoin es que se ajusta por dificultad, al mismo tiempo que crea su propia realidad, junto con su propio tiempo y espacio.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Proof-of-work provides a direct connection between the digital realm and the physical realm.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La prueba de trabajo provee una conexión directa entre el ámbito digital y el físico.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>More profoundly, it is the only connection that can be established in a trustless manner.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Dicho en mayor profundidad, es la única conexión que puede establecerse sin basarse en la confianza.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Everything else will always rely on external inputs.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Todo lo demás siempre va a depender de cosas externas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The difficulty to mine a new Bitcoin block is adjusted to make sure that the thin thread between Bitcoin’s time and our time remains intact.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La dificultad de minar un nuevo bloque de Bitcoin está ajustada para asegurarse que el delgado hilo entre el tiempo de Bitcoin y el nuestro permanezca intacto.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Like clockwork, the mining difficulty readjusts every 2016 ticks.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Como un aparato de relojería, la dificultad de minería se reajusta cada 2016 ticks.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The goal of this readjustment is to keep the average time between ticks at ten minutes.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El objetivo de este reajuste es mantener un tiempo promedio entre ticks de diez minutos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is these ten minutes that maintain a stable connection between the physical and the informational realm.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Estos diez minutos son los que mantienen una conexión estable entre el ámbito físico y el informático.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Consequently, a sense of human time is required to readjust the ticks of the Bitcoin clock.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Consecuentemente, un sentido del tiempo humano es necesario para reajustar los ticks del reloj de Bitcoin.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>A purely block-based readjustment wouldn’t work since it would be completely disconnected from our human world, and the whole purpose of the readjustment is to stop us ingenious humans from finding blocks too fast (or too slow).</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Un reajuste puramente basado en los bloques no funcionará ya que estaría completamente desconectado de nuestro mundo humano, y el propósito final de este reajuste es impedir que nosotros, ingeniosos humanos, hallemos bloques demasiado rápido (o demasiado lento).</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>As Einstein has shown us, time is not a static thing.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Como Einstein nos demostró, el tiempo no es algo estático.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>There is no such thing as a universal time we could rely upon.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No existe un tiempo universal en el cual podamos confiar.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Time is relative, and simultaneity is nonexistent.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El tiempo es relativo, y simultáneamente no existe.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>This fact alone makes all timestamps — especially across large distances — inherently unreliable, even without adversarial actors.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Este hecho por sí solo hace que todas las marcas de tiempo -especialmente a lo largo de grandes distancias- sean intrínsecamente poco confiables, incluso sin factores adversos</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>(This is why timestamps of GPS satellites have to be adjusted constantly, by the way.)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>(Por cierto, esta es la razón por la que las marcas de tiempo de los satélites GPS tienen que ajustarse constantemente).</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>For Bitcoin, the fact that our human timestamps are imprecise doesn’t matter too much.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para Bitcoin, el hecho de que nuestras marcas de tiempo humanas sean imprecisas no importa demasiado.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It also doesn’t matter that we have no absolute reference frame in the first place.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Tampoco importa que no tengamos un marco de referencia absoluto en primer lugar.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>They only have to be precise enough to calculate a somewhat reliable average across 2016 blocks.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sólo tienen que ser lo suficientemente precisos como para calcular un promedio algo confiable a lo largo de 2016 bloques.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>To guarantee that, a block’s “meatspace” timestamp is only accepted if it fulfills two criteria:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para garantizar esto, una marca de tiempo de bloque sólo es aceptada si cumple con los siguientes dos criterios:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The timestamp has to be greater than the median timestamp of the previous 11 blocks.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La marca de tiempo tiene que ser mayor a la marca de tiempo promedio de los 11 bloques previos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The timestamp has to be less than the network-adjusted time plus two hours.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La marca de tiempo tiene que ser menor que la hora fijada por la red más dos horas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>(The “network-adjusted time” is simply the median of the timestamps returned by all nodes connected to you.)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>(El “tiempo ajustado por la red” es simplemente la mediana de las marcas de tiempo devueltas por todos los nodos conectados a ti).</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In other words, the difficulty-adjustment is about keeping a constant time, not a constant level of security, difficulty, or energy expenditure.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En otras palabras, la dificultad de ajuste se trata de mantener un tiempo constante, no un nivel constante de seguridad, dificultad o gasto de energía.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>This is ingenious because good money has to be costly in time, not energy.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Esto es ingenioso porque el buen dinero tiene que ser costoso en tiempo, no en energía.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Linking money to energy alone is not sufficient to produce absolute scarcity since every improvement in energy generation would allow us to create more money.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Enlazar el dinero a la energía por sí sola no es suficiente para producir escasez absoluta ya que cada mejora en la generación de energía nos permitiría crear más dinero.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Time is the only thing we will never be able to make more of.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El tiempo es la única cosa que nosotros jamás seremos capaces de generar.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is The Ultimate Resource, as Julian Simon points out.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Este es el “recurso último”, como afirma Julian Simon.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>This makes Bitcoin the ultimate form of money because its issuance is directly linked to the ultimate resource of our universe: time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Esto es lo que hace que Bitcoin sea la última forma de dinero porque su emisión está directamente ligada al recurso fundamental del universo: el tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The difficulty adjustment is essential because, without it, the internal clock of Bitcoin would tend to go faster and faster as more miners join the network or the efficiency of mining devices improves.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El ajuste por dificultad es esencial porque sin él, el reloj interno de Bitcoin tendería a ir cada vez más rápido cuando más mineros se unen a la red o cuando mejora la eficiencia de los dispositivos usados para minar.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>We would quickly run into the coordination problem that Bitcoin sets out to solve.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Rápidamente nos encontraríamos con el problema de coordinación que Bitcoin se propone resolver.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>As soon as the block time falls below a certain threshold, say, 50 milliseconds, it would be impossible to agree on a shared state, even in theory.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Tan pronto como el tiempo de bloque cae por debajo de un cierto umbral, digamos 50 milisegundos, sería imposible ponerse de acuerdo en un estado compartido, aún en la teoría.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It takes light around 66 milliseconds to travel from one side of the earth to the other.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>A la luz le toma 66 milisegundos viajar desde un lado de la Tierra hacia el otro.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Thus, even if our computers and routers were perfect, we would be back at square one:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Entonces, incluso si nuestras computadoras y routers fueran perfectos, volveríamos a la primera casilla:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>given two events, it would be futile to tell which event happened before and which event happened after.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>dados dos eventos, sería fútil decir qué evento ocurrió antes y cuál después.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Without a periodic adjustment of Bitcoin’s ticks, we would run into the hopeless problem of solving the coordination problem faster than the speed of light.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin un ajuste periódico de los ticks de Bitcoin, nos encontraríamos en el problema desesperanzador de coordinar más rápido que la velocidad de la luz.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Time is also at the root of the problem of cryptographic instability, which was outlined in Chapter 1.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El tiempo también es la raíz del problema de la inestabilidad de la criptografía, que fue señalado en el Capítulo 1.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Cryptography works because of an asymmetry in time:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La criptografía funciona gracias a una asimetría en el tiempo:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>it takes a short time to build a cryptographic wall and a long time to break it down — unless you have a key.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>toma poco tiempo construir un muro criptográfico mientras que destruirlo lleva mucho tiempo -a menos que tengas una llave.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Thus, in some sense, proof-of-work — and the difficulty adjustment that goes along with it — artificially slows down time, at least from the perspective of the Bitcoin network.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Entonces, en cierto sentido, la prueba de trabajo - y el ajuste por dificultad que va con esto- desacelera el tiempo de forma artificial, por lo menos desde la perspectiva de la red de Bitcoin.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In other words:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En otras palabras:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Bitcoin enforces an internal rhythm whose low frequency allows ample buffer for the latency of communications between peers.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Bitcoin impone un ritmo interno cuya baja frecuencia permite un búfer amplio para la latencia de las comunicaciones entre pares.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Every 2016 blocks, Bitcoin’s internal clock readjusts, so that — on average — only one valid block will be found every 10 minutes.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Cada 2016 bloques, el reloj interno de Bitcoin se reajusta, por lo que, en promedio, un bloque válido sólo será hallado cada 10 minutos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>From an outside perspective, Bitcoin funnels the chaotic mess of globally broadcast asynchronous messages into a parallel universe, restricted by its own rules and its own sense of space and time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Desde una perspectiva externa, Bitcoin canaliza el desorden caótico de los mensajes asincrónicos transmitidos globalmente en un universo paralelo, restringido por sus propias reglas y su propio sentido del espacio y tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Transactions in the mempool are timeless from the point-of-view of the Bitcoin network.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Las transacciones en la memoria de los nodos de la red son atemporales desde el punto de vista de la red Bitcoin.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Only when a transaction is included in a valid block does it get assigned a time:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Solo cuando una transacción se incluye en un bloque válido, se le asigna un tiempo:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>the number of the block it is included in.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>el número del bloque en el que está incluida.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>BitCoin v0.01 ALPHA (2009)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>bitcoin alpha codigo fuente BitCoin v0.01 ALPHA (2009)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is hard to overstate how elegant a solution this is.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Es difícil exagerar lo elegante que es esta solución.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Once you are able to create your own definition of time, deciphering what came before and what came after is trivial.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Una vez que eres capaz de crear tu propia definición de tiempo, descifrar lo que vino antes y lo que vino después es trivial.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In turn, agreeing on what happened, in what order, and, consequently, who owes what to whom, becomes trivial as well.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sucesivamente, ponerse de acuerdo sobre lo que sucedió, en qué orden y, consecuentemente, quién le debe qué a quién, se vuelve también trivial.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The difficulty adjustment makes sure that the ticks of Bitcoin’s internal metronome are somewhat constant.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El ajuste por dificultad asegura que los ticks del metrónomo interno de Bitcoin sean algo constante.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is the conductor of the Bitcoin orchestra.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Es el conductor de la orquesta de Bitcoin.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is what keeps the music alive.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Es lo que mantiene a la música viva.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>But why can we rely on work in the first place?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Pero, ¿por qué podemos confiar en el trabajo en primer lugar?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The answer is threefold.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La respuesta es triple.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>We can rely on it because computation requires work, work requires time, and the work in question — guessing random numbers — can not be done efficiently.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Podemos confiar en él porque el cálculo requiere trabajo, el trabajo requiere tiempo, y el trabajo en cuestión -adivinar números aleatorios- no puede hacerse eficientemente.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Probabilistic Time Time forks perpetually toward innumerable futures.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Tiempo probabilístico “El tiempo se bifurca perpetuamente hacia innumerables futuros.”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Jorge Luis Borges, The Garden of Forking Paths (1941)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Jorge Luis Borges, El jardín de los senderos que se bifurcan (1958).</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Finding a valid nonce for a Bitcoin block is a guessing game.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Encontrar un número válido para un bloque de Bitcoin es un juego de adivinanzas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is very much like rolling a die, or flipping a coin, or spinning a roulette wheel.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Es muy parecido a girar un dado, o lanzar una moneda, o hacer girar la rueda de una ruleta.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You are, in essence, trying to find a beyond-astronomically large random number.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En esencia, estás tratando de encontrar un número aleatorio más allá de lo astronómicamente grande.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>There is no progress toward finding a solution.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No hay progreso hacia la búsqueda de una solución.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>You either hit the jackpot, or you don’t.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>O ganas el premio o no lo haces.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Every time you flip a coin, the chance of it coming up heads or tails is 50% — even if you flipped it twenty times before, and it came up heads every time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Cada vez que lanzas una moneda, la posibilidad de que salga cara o cruz es 50% - incluso si ya la lanzaste veinte veces antes, y siempre salió cara.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Similarly, every time you wait for a bitcoin block to come in, the chance that it will be found this second is ~0.16%.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>De forma similar, cada vez que esperas que llegue un bloque de Bitcoin, la chance de que sea encontrado ese segundo es ~0.16%.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It doesn’t matter when the last block was found.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No importa cuando fue hallado el último bloque.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The approximate waiting time for the next block is always the same:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El tiempo aproximado de espera para el siguiente bloque es siempre el mismo:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>~10 minutes.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>~10 minutos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It follows that every individual tick of this clock is unpredictable.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Resulta que cada tick individual de este reloj es impredecible.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Relative to our human clocks, this clock appears to be spontaneous and imprecise.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En relación a los relojes humanos, este reloj parece ser espontáneo e impreciso.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>This is irrelevant, as Gregory Trubetskoy points out:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Esto es irrelevante, como señala Gregory Trubetskoy:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>“It doesn’t matter that this clock is imprecise.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>“No importa que este reloj sea impreciso.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>What matters is that it is the same clock for everyone and that the state of the chain can be tied unambiguously to the ticks of this clock.”</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Lo que importa es que es el mismo reloj para todos y que el estado de la cadena puede ser vinculado inequívocamente a los ticks de este reloj”.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Bitcoin’s clock might be probabilistic, but it isn’t illusory.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Puede que el reloj de Bitcoin sea probabilístico, pero no es ilusorio.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Time is an illusion, lunchtime doubly so.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>“El tiempo es una ilusión, Y la hora del almuerzo lo es el doble.”</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Douglas Adams (1979)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Douglas Adams (1979).</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The present moment, however, can absolutely be an illusion in Bitcoin.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El momento presente, sin embargo, puede ser una absoluta ilusión en Bitcoin.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Since there is no central authority in the network, strange situations can arise.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Como no hay autoridad central en la red, pueden surgir extrañas situaciones.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>While unlikely, it is possible that a valid block is found at the same time (again: apologies to all physicists), which will make the clock tick forward in two different places at once.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Aunque es poco probable, es posible que un bloque válido sea hallado al mismo tiempo (de nuevo: disculpas a todos los físicos), haciendo que el reloj avance en dos lugares diferentes a la vez.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>However, since the two different blocks will very likely differ in their content, they will contain two different histories, both equally valid.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin embargo, como dos bloques diferentes seguramente difieren en su contenido, van a contener dos historias diferentes igualmente válidas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>This is known as a chain split and is a natural process of Nakamoto consensus.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>A esto se le llama “división de la cadena” y es un proceso natural del consenso de Nakamoto.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Like a flock of birds that briefly splits in two only to merge again, nodes on the Bitcoin network will eventually converge to a shared history after some time, thanks to the probabilistic nature of guessing.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Como una bandada de aves que se separa brevemente en dos y luego se juntan de nuevo, los nodos de la red de bitcoin eventualmente convergen a una historia compartida luego de algún tiempo, gracias a la naturaleza probabilística de adivinar.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Nakamoto consensus simply states that the correct history is to be found in the heaviest chain, i.e., the chain with the most amount of proof-of-work embedded in it.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El consenso de Nakamoto simplemente establece que la historia correcta será hallada en la cadena más pesada, es decir, la cadena que contenga la mayor cantidad de prueba de trabajo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Thus, if we have two histories A and B, some miners will try to build upon history A, others will try to build upon history B.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Por lo tanto, si tenemos dos historias A y B, algunos mineros van a tratar de construir sobre la historia A y otros sobre la historia B.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>As soon as one of them finds the next valid block, the other group is programmed to accept that they were on the wrong side of history and switch over to the heaviest chain — the chain that represents what actually happened, by definition.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Pero tan pronto como uno de ellos encuentre el próximo bloque válido, el otro grupo está programado para aceptar que ellos estaban en el lado incorrecto de la historia y cambiar hacia la cadena más pesada - la cadena que representa lo que realmente sucedió, por definición.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In Bitcoin, history is truly written by the victors.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En Bitcoin, la historia está verdaderamente escrita por los vencedores.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The payee needs proof that at the time of each transaction, the majority of nodes agreed it was the first received.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>“El beneficiario necesita prueba de que al momento de cada transacción, la mayoría de los nodos acordaron que fue la primera recibida</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>When there are multiple double-spent versions of the same transaction, one and only one will become valid.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Cuando hay múltiples versiones de doble gasto de la misma transacción, una y sólo usa será válida.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The receiver of a payment must wait an hour or so before believing that it’s valid.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El receptor de un pago debe esperar una hora o más antes de pensar que es válida.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The network will resolve any possible double-spend races by then.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para ese entonces, la red resolverá cada posible carrera de doble gasto.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Satoshi Nakamoto (2009)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Satoshi Nakamoto (2009)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In this simple statement lies the secret of the distributed coordination problem.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En esta simple oración reside el secreto del problema de la coordinación distribuida.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>This is how Satoshi solved the problem of the “simultaneous payment” our fictitious business partners encountered previously.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Así es como Satoshi resolvió el problema del “pago simultáneo” que nuestros compañeros de negocio ficticios encontraron previamente.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>He solved it once and for all, relativistic effects be damned!</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Él lo resolvió de una vez por todas, ¡y al diablo los efectos relativistas!</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Because of this probabilistic nature of Bitcoin’s clock, the present moment — what we call the chain tip — is always uncertain.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Debido a esta naturaleza probabilística del reloj de Bitcoin, el momento presente - lo que nosotros llamamos la punta de la cadena - es siempre incierto.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The past — blocks buried below the chain tip — is ever more certain.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El pasado -bloques enterrados bajo la punta de la cadena - es cada vez más cierto.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The more thorough the understanding needed, the further back in time one must go.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Mientras más quieres saber, más atrás en el tiempo uno debe ir.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Gordon Clark, A Christian View of Men and Things, p. 58. (1951)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Gordon Clark, Una mirada cristiana del Hombre y las Cosas, p. 58. (1951)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Consequently, the Bitcoin clock might rewind from time to time, for some peers, for a tick or two.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Consecuentemente, el reloj de Bitcoin puede rebobinar de cuando en cuando, para algunos pares, por un tick o dos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>If your chain tip — the present moment — happens to lose to a competing chain tip, your clock will first rewind and then jump forward, overriding the last few ticks that you thought were history already.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Si a tu punta de la cadena -el momento presente- le toca perder contra otra punta de la cadena, tu reloj va a rebobinar y luego saltar hacia adelante, reemplazando los pocos ticks que tu ya creías parte de la historia.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>If your clock is probabilistic, your understanding of the past has to be too.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Si tu reloj es probabilístico, tu entendimiento del pasado también debe serlo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Tick tock tick tock tick — what is the time?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Tick tock tick tock tick - ¿Que hora es?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Tick tock tick tock… it ends in c619.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Tick tock tick tock… termina en c619.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Are you sure this is fine?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿Estás seguro de que está bien?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Are we probably late?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿Llegamos tarde?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Absolutes do not matter:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No importa en absoluto:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>before nine there comes eight.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>antes de las nueve vienen las ocho.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The clock isn’t exact; it sometimes goes in reverse.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El reloj no es exacto; a veces va en reversa.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Exact time implies center; that’s the root of this curse!</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Tiempo exacto implica centro; esa es la causa de esta maldición!</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Yet this clock keeps on ticking, tock-tick and tick-tock, there’s no profit in tricking; just tick-tock and next block.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Pero este reloj se mantiene funcionando, tock-tick y tick-tock, No hay ganancia en hacer trucos; solo tick-tock y al siguiente bloque</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>A Funny Little Rhyme on Bitcoin and Time (2020)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Una Divertida Rima sobre Bitcoin y Tiempo (2020)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Conclusion</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Conclusión</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Time is still one of the great mysteries in physics, one that calls into question the very definition of what physics is.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El tiempo es aún uno de los grandes misterios de la física, uno que cuestiona la definición misma de lo que es la física.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Jorge Cham and Daniel Whiteson:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Jorge Cham y Daniel Whiteson:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>We Have No Idea:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No Tenemos Idea:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>A Guide to the Unknown Universe, pp. 117 – 118 (2017)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Una Guía hacia el Universo Desconocido, pp. 117-118 (2017).</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Keeping track of things in the informational realm implies keeping track of a sequence of events, which in turn requires keeping track of time.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Seguir el rastro de las cosas en el reino informático implica rastrear una secuencia de eventos, que a su vez requieren rastrear el tiempo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Keeping track of time requires agreeing on a “now” — a moment in time that eternally links the settled past with the uncertain future.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Hacer un seguimiento del tiempo requiere coincidir en un “ahora” - un momento en el tiempo que une eternamente el pasado con el futuro incierto.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In Bitcoin, this “now” is the tip of the heaviest proof-of-work chain.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En Bitcoin, este “ahora” es la punta de la cadena de prueba de trabajo más pesada.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Two building blocks are essential for the structure of time: causal links and unpredictable events.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Dos bloques de construcción son esenciales para la estructura del tiempo: uniones causales y eventos impredecibles.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Causal links are required to define a past, and unpredictable events are required to build a future.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Uniones causales son necesarias para definir un pasado, y eventos impredecibles son requeridos para construir un futuro.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>If the sequence of events would be predictable, it would be possible to skip ahead.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Si la secuencia de eventos fuera predecible, sería posible saltar hacia adelante.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>If the individual steps of the sequence aren’t linked, it would be trivial to change the past.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Si los pasos individuales de la secuencia no están unidos, sería trivial cambiar el pasado.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Because of its internal sense of time, it is insanely difficult to cheat Bitcoin.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Debido a su sentido interno del tiempo, es increíblemente difícil engañar a Bitcoin.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>One would have to rewrite the past or predict the future.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Uno tendría que reescribir el pasado o predecir el futuro.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Bitcoin’s timechain prevents both.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La cadena de tiempo de Bitcoin evita ambos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Viewing Bitcoin through the lens of time should make clear that the “block chain” — the data structure that causally links multiple events together — is not the main innovation.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Ver a Bitcoin a través de los lentes del tiempo debería esclarecer que la “blockchain” - la estructura de datos que une causalmente a múltiples eventos juntos- no es la mayor innovación.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>It is not even a new idea, as is evident by studying the timestamp literature of the past.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Ni siquiera es una idea nueva, ya que es evidente al estudiar la literatura que se ha publicado con anterioridad.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>A blockchain is a chain of blocks.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Una blockchain es una cadena de bloques.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Peter Todd</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>- Peter Todd</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>What is a new idea — what Satoshi figured out — is how to independently agree upon a history of events without central coordination.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La nueva idea -lo que descubrió Satoshi- es cómo estar de acuerdo de forma independiente sobre una historia de eventos sin una coordinación central.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>He found a way to implement a decentralised timestamping scheme that (a) doesn’t require a time-stamping company or server, (b) doesn’t require a newspaper or any other physical medium as proof, and (c) can keep the ticks more-or-less constant, even when operating in an environment of ever-faster CPU clock times.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Él halló la forma de implementar un esquema de marcado de hora descentralizado que a) no requiere una compañía o servidor que marque la hora, b) no requiere de ningún periódico u otro medio físico como prueba, y c) puede mantener el tick-tack del reloj más o menos constante, incluso cuando se opera en un entorno con tiempos de reloj de CPU cada vez más rápidos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Timekeeping requires causality, unpredictability, and coordination.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El cronometraje requiere causalidad, impredecibilidad y coordinación.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>In Bitcoin, causality is provided by one-way functions: the cryptographic hash functions and digital signatures that are at the core of the protocol.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En Bitcoin, la causalidad es brindada por dos funciones unidireccionales: la criptografía hash y las firmas digitales que son el corazón del protocolo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Unpredictability is provided by both the proof-of-work puzzle as well as the interaction with other peers: you can’t know in advance what others are doing, and you can’t know in advance what the solution to the proof-of-work puzzle will be.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La impredecibilidad la proveen tanto el rompecabezas de la prueba de trabajo como también la interacción con otros pares: no puedes saber de antemano qué es lo que las otras personas están haciendo, y no puedes saber de antemano cuál será la solución del rompecabezas de la prueba de trabajo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Coordination is made possible by the difficulty adjustment, the magic sauce that links Bitcoin’s time to ours.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La coordinación es posible por el ajuste en la dificultad, la salsa mágica que une el tiempo de Bitcoin con el nuestro.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Without this bridge between the physical and the informational realm, it would be impossible to agree on a time by relying on nothing but data.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin este puente entre el reino físico y el informático, sería imposible ponerse de acuerdo sobre una hora basándose únicamente en los datos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Bitcoin is time in more ways than one.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Bitcoin es tiempo en más de un punto de vista.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Its units are stored time because they are money, and its network is time because it is a decentralized clock.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sus unidades son tiempo almacenado porque son dinero, y su red es tiempo porque es un reloj descentralizado.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>The relentless beating of this clock is what gives rise to all the magical properties of Bitcoin.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El latido despiadado de su reloj es lo que aumenta todas las propiedades mágicas de Bitcoin.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Without it, Bitcoin’s intricate dance would fall apart.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin él, el baile intrincado de Bitcoin se caería a pedazos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>But with it, everyone on earth has access to something truly marvelous:</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Pero con él, todos en la Tierra tienen acceso a algo verdaderamente maravilloso:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-us">
+<seg>Magic Internet Money.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Dinero Mágico de Internet.</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

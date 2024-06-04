@@ -1,0 +1,254 @@
+FIGHTING MONETARY COLONIALISM WITH OPEN-SOURCE CODE
+France still uses monetary colonialism to exploit 15 African nations. Could Bitcoin be a way out?
+ALEX GLADSTEIN
+JUN 23, 2021
+
+In the fall of 1993, Fodé Diop’s family was saving up for his future. A brilliant 18-year-old living in Senegal, Fodé had a bright path in front of him as a basketball player and an engineer. His father, a school teacher, had helped him find inspiration in computers and in connecting with the world around him. And his athletic talents had won him offers to study in Europe and in the United States.
+
+But when he woke up on the morning of January 12, 1994, everything had changed. Overnight, his family lost half its savings. Not due to theft, bank robbery or company bankruptcy — but a currency devaluation, imposed by a foreign power based 5,000 kilometers away.
+
+The previous evening, French officials met with their African counterparts in Dakar to discuss the fate of the “franc de la Communauté financière africaine” (or Franc of the Financial Community of Africa), known widely as the CFA franc or “seefa” for short. For Fodé’s entire life, his CFA franc had been pegged to the French franc at a rate of 1 to 50, but when the late-night meeting concluded, a midnight announcement set the new value at 1 to 100.
+
+The cruel irony was that the economic fate of millions of Senegalese was completely out of their own hands. No amount of protest could overthrow their economic masters. For decades, new presidents came and went, but the underlying financial arrangement never changed. Unlike a typical fiat currency, the system was far more insidious. It was monetary colonialism.
+
+THE MECHANICS OF THE CFA SYSTEM
+In their eye-opening book, “Africa’s Last Colonial Currency: The CFA Franc Story,” economic scholars Fanny Pigeaud and Ndongo Samba Sylla tell the tragic and, at times shocking, history of the CFA franc.
+
+France, like other European powers, colonized many nations around the world in its imperial heyday, often brutally. After its occupation by Nazi Germany in World War II, the “Empire colonial français” began to disintegrate. The French fought to keep their colonies, inflicting a massive human toll in the process. Despite waging a costly series of global wars, Indochina was lost, then Syria and Lebanon, and, eventually, French territory in North Africa, including cherished oil and gas-rich settler colony Algeria. But France was determined not to lose its territories in West and Central Africa. These had provided military manpower during the two World Wars and offered a cornucopia of natural resources — including uranium, cocoa, timber and bauxite — which had enriched and sustained the metropole.
+
+As 1960 approached, decolonization seemed inevitable. Europe was united in disengaging from Africa after decades of depredations and state-sponsored looting. But the French authorities realized they could have their cake, and eat it too, by ceding political control while retaining monetary control.
+
+This legacy still stands today in 15 countries that speak French and use a currency controlled by Paris: Senegal, Mali, Ivory Coast, Guinea-Bissau, Togo, Benin, Burkina Faso, Niger, Cameroon, Chad, the Central African Republic, Gabon, Equatorial Guinea, the Republic of Congo and the Comoros. In 2021 the French still exert monetary control over more than 2.5 million square kilometers of African territory, an area 80% the size of India.
+
+France began formal decolonization in 1956 with “La Loi-cadre Defferre,” a piece of legislation giving colonies more autonomy and creating democratic institutions and universal suffrage. In 1958 the French constitution was modified to establish La Communauté (The Community): a group of autonomous, democratically-administered overseas territories. President Charles de Gaulle toured colonies across West and Central Africa to offer autonomy without independence through La Communauté or immediate total independence. He made it clear there would be perks and stability with the former, and great risks and even chaos with the latter.
+
+In 1960, France actually had a larger population — around 40 million people — than the 30 million inhabitants of what are now the 15 CFA nations. But today, 67 million people live in France and 183 million in the CFA zone. According to UN projections, by the year 2100, France will have 74 million, and the CFA nations more than 800 million. Given that France still holds their financial destiny in its hands, the situation is increasingly resembling economic apartheid.
+
+When the CFA franc was originally introduced in 1945, it was worth 1.7 French francs. In 1948, it was strengthened to 2 French francs. But by the time the CFA franc was pegged to the euro at the end of the 1990s, it was worth .01 French francs. That is a total devaluation of 99.5%. Every time France devalued the CFA franc, it increased its purchasing power against its former colonies, and made it more expensive for them to import vital goods. In 1992, the French people were able to vote on whether or not to adopt the euro through a national referendum. The CFA nationals were denied any such right, and were excluded from the negotiations that would peg their money to a new currency.
+
+The exact mechanism of the CFA system has evolved since its creation, but the core functionality and methods of exploitation are unchanged. They are described by what Pigeaud and Sylla call “dependency theory,” where the resources of peripheral developing nations are “continually drained to the benefit of core wealthy nations… the rich nations do not invest in income-poor nations to make them richer… [this] exploitation evolved over time from brutal slavery regimes to the more sophisticated and less obvious means of maintaining political and economic servitude.”
+
+Three central banks service the 15 CFA nations today: the Banque Centrale des États de l'Afrique de l'Ouest (BCEAO) for West African nations, the Banque des États de l'Afrique Centrale (BEAC) for Central African nations and the Banque Centrale des Comores (BCC) for the Comoros. The central banks hold the foreign exchange reserves (i.e., national savings) for the individual nations in their region, which must keep an astonishing 50% with the French Treasury at all times. This number, high as it is, is a result of historical negotiations. Originally, the former colonies had to keep 100% of their reserves in France, and only in the 1970s did they earn the right to control some and cede “just” 65% to Paris. The CFA nations have no discretion whatsoever with regard to their reserves stored abroad. In fact, they do not know how this money is spent. Meanwhile, Paris knows exactly how each CFA nation’s money is spent, as it runs “operation accounts” for each country at the three central banks.
+
+As an example of how this works, when an Ivorian coffee company sells $1 million worth of goods to a Chinese buyer, the yuan from the purchaser gets exchanged into euros in a French currency market. Then the French treasury assumes the euros and credits the amount in CFA francs to the Ivorian account at the BCEAO, which then credits the coffee maker’s account domestically. Everything runs through Paris. According to Pigeaud and Sylla, France still manufactures all of the notes and coins used in the CFA region — charging 45 million euros per year for the service — and still holds 90% of the CFA gold reserves, around 36.5 tons.
+
+The CFA system confers five major benefits to the French government: bonus reserves to use at its discretion; big markets for expensive exports and cheap imports; the ability to purchase strategic minerals in its domestic currency without running down its reserves; favorable loans when CFA nations are in credit, and favorable interest rates when they are in debt (for stretches of history the French inflation rate has even exceeded the loan interest rate, meaning, in effect, France was forcing CFA nations to pay a fee to store their reserves abroad); and, finally, a “double loan,” in which a CFA nation will borrow money from France, and, in looking to deploy the capital, have little choice given the perverse macroeconomic circumstances but to contract with French companies. This means the loan principal immediately returns to France but the African nation is still saddled with both principal and interest.
+
+This leads to a kind of “petrodollar recycling” phenomenon (similar to how Saudi Arabia would take dollars earned through oil sales and invest them into U.S. treasuries), as CFA exporters historically would sell raw materials to France, with part of the proceeds being collected by the regional central bank and “reinvested” back into the metropole’s debt through French or, today, European government debt. And then there is the selective convertibility of the CFA franc. Businesses can easily sell their CFA francs for Euros today (previously French francs), but citizens carrying CFA francs outside of their central bank zone cannot exchange them formally anywhere. They are about as useless as postcards. If an Ivorian is leaving her country, she must exchange the notes for euros first, where the French Treasury and the European Central Bank (ECB) extract seigniorage through the exchange rate.
+
+The monetary repression at play is that France forces the CFA nations to keep a huge amount of reserves in Parisian coffers, preventing the Africans from creating domestic credit. The regional central banks end up loaning out very little at very high rates, instead of loaning out more at low rates. And the CFA nations end up, against their wishes, buying French or, today, European, debt with their strategic reserves.
+
+The most surprising part, perhaps, is the special privilege of first right of refusal on imports and exports. If you are a Malian cotton producer, you must first offer your goods to France, before you go to the international markets. Or if you are in Benin and want to build a new infrastructure project, you must consider French bids, before others. This has historically meant that France has been able to access cheaper-than-market goods from its former colonies, and sell its own goods and services for higher-than-market prices.
+
+Pigeaud and Sylla call this the continuation of the “colonial pact,” which was centered around four fundamental tenets: “the colonies were forbidden from industrializing, and had to content themselves with supplying raw materials to the metropole which transformed them into finished products which were then resold to the colonies; the metropole enjoyed the monopoly of colonial exports and imports; it also held a monopoly in the shipping of colonial products abroad; finally, the metropole granted commercial preferences to the products of the colonies.”
+
+The result is a situation in which “the central banks have ample foreign exchange reserves remunerated at low or even negative rates in real terms, in which commercial banks hold excess liquidity, where access to household and corporate credit is rationed and in which the states are increasingly obliged, in order to finance their development projects, to contract foreign currency loans at unsustainable interest rates, which further encourages capital flight.”
+
+Today, the CFA system has been “Africanized,” meaning the notes now show African culture and flora and fauna on them, and the central banks are located in Dakar, Yaoundé and Moroni — but these are only superficial changes. The banknotes are still made in Paris, the operation accounts are still run by French authorities, and French officials still sit on the boards of the regional central banks and hold de facto veto power. It is a remarkable situation where a citizen of Gabon has a French bureaucrat making decisions on her behalf. Just as if the ECB or the Federal Reserve had Japanese or Russians making decisions for Europeans and Americans.
+
+The World Bank and the International Monetary Fund have historically worked in concert with France to enforce the CFA system, and rarely, if ever, criticize its exploitative nature. In fact, as part of the post-WWII Bretton Woods system — where Americans would lead the World Bank, and Europeans would lead the IMF — the position of IMF managing director has often been held by a French official, most recently, Christine Lagarde. Over the years the IMF has helped the French pressure CFA nations to pursue its desired policies. A prominent example was in the early 1990s, when the Ivory Coast did not want to devalue its currency, but the French were pushing for such a change. According to Pigeaud and Sylla, “at the end of 1991, the IMF refused to continue lending money to the Ivory Coast, offering the country two options. Either the country reimbursed the debts contracted with the Fund or it accepted devaluation.” The Ivory Coast and other CFA nations caved and accepted devaluation three years later.
+
+Contradicting the values of “liberté, égalité, fraternité,” French officials have propped up tyrants in the CFA zone for the past six decades. For example, three men — Omar Bongo in Gabon, Paul Biya in Cameroon and Gnassingbé Eyadéma in Togo — have amassed 120 years in power between them. All would have been tossed out by their people far sooner had the French not provided cash, weapons and diplomatic cover. According to Pigeaud and Sylla, between 1960 and 1991, “Paris carried out nearly 40 military interventions in 16 countries to defend its interests.” That number is certainly higher today.
+
+Over time, the CFA system has served to allow the French state to exploit the resources and labor of the CFA nations, without allowing them to deepen their accumulation of capital and develop their own export-led economies. The results have been catastrophic for human development.
+
+Today the Ivory Coast’s inflation-adjusted GDP per capita (in dollars) is around $1,700, compared with $2,500 in the late 1970s. In Senegal, it wasn’t until 2017 that inflation-adjusted GDP per capita surpassed the heights reached in the 1960s. As Pigeaud and Sylla note, “10 states of the franc zone recorded their highest levels of average income before the 2000s. In the last 40 years, the average purchasing power has deteriorated almost everywhere. In Gabon, the highest average income was recorded in 1976, just under $20,000. Forty years later, it has shrunk by half. Guinea-Bissau joined the [CFA system] in 1997, the year in which it recorded the peak in its average income. 19 years later, this fell by 20%.”
+
+A staggering 10 of the 15 CFA nations are considered among the “least developed countries” in the world by the United Nations, alongside the likes of Haiti, Yemen and Afghanistan. In various international rankings, Niger, the Central African Republic, Chad and Guinea-Bissau are often counted as the poorest countries in the world. The French are maintaining, in effect, an extreme version of what Allen Farrington has called the “capital strip mine.”
+
+Senegalese politician Amadou Lamine-Guèye once summed up the CFA system as citizens having “only duties and no rights,” and that “the task of the colonized territories was to produce a lot, to produce beyond their own needs and to produce to the detriment of their more immediate interests, in order to allow the metropole a better standard of living and a safer supply.” The metropole, of course, resists this description. As French economic minister Michel Sapin said in April 2017, “France is there as a friend.”
+
+Now, the reader may ask: Do African countries resist this exploitation? The answer is yes, but they pay a heavy price. Early nationalist leaders from the African independence era recognized the critical value of economic freedom.
+
+“Independence is only the prelude to a new and more involved struggle for the right to conduct our own economic and social affairs [..] unhampered by crushing and humiliating neo-colonialist control and interference,” declared Kwame Nkrumah in 1963, who led the movement that made Ghana the first independent nation in sub-saharan Africa. But throughout the history of the CFA region, national leaders who stood up to the French authorities have tended to fare poorly.
+
+In 1958, Guinea tried to claim monetary independence. In a famous speech, firebrand nationalist Sekou Touré said to a visiting Charles de Gaulle: “We would rather have poverty in freedom than opulence in slavery,” and shortly therafter left the CFA system. According to The Washington Post, “in reaction, and as a warning to other French-speaking territories, the French pulled out of Guinea over a two-month period, taking everything they could with them. They unscrewed lightbulbs, removed plans for sewage pipelines in Conakry, the capital, and even burned medicines rather than leave them for the Guineans.”
+
+Next, as an act of destabilizing retribution, the French launched Operation Persil, during which, according to Pigeaud and Sylla, the French intelligence counterfeited huge quantities of the new Guinean banknotes and then poured them “en masse” into the country. “The result,” they write, “was the collapse of the Guinean economy.” The country’s democratic hopes were dashed along with its finances, as Touré was able to cement his power in the chaos and begin 26 years of brutal rule.
+
+In June 1962, Mali’s independence leader Modibo Keita announced that Mali was leaving the CFA zone to mint its own currency. Keita explained in detail the reasons for the move, such as economic overdependence (80% of Mali’s imports came from France), the concentration of decision making powers in Paris and the stunting of economic diversification and growth.
+
+“It is true that the wind of decolonization has passed over the old edifice but without shaking it too much,” he said about the status quo. In response, the French government rendered the Malian franc inconvertible. A deep economic crisis followed, and Keita was overthrown in a military coup in 1968. Mali eventually chose to re-enter the CFA zone, but the French imposed two devaluations on the Malian franc as conditions for reinstatement, and did not allow re-entry until 1984.
+
+In 1969, when President Hamani Diori of Niger asked for a more “flexible” arrangement, where his country would have more monetary independence, the French refused. They threatened him by withholding payment for the uranium that they were harvesting from the desert mines that would give France energy independence through nuclear power. Six years later, Diori’s government was overthrown by General Seyni Kountché, three days before a planned meeting to renegotiate the price of the Nigerien uranium. Diori wanted to raise the price, but his former colonial master disagreed. The French army was stationed nearby during the coup but, as Pigeaud and Sylla dryly note, they did not lift a finger.
+
+In 1985, the revolutionary military leader Thomas Sankara of Burkina Faso was asked in an interview, “Is the CFA franc not a weapon for the domination of Africa? Does Burkina Faso plan to continue carrying this burden? Why does an African peasant in his village need a convertible currency?” Sankara replied: “If the currency is convertible or not has never been the concern of the African peasant. He has been plunged against his will into an economic system against which he is defenceless.”
+
+Sankara was assassinated two years later by his best friend and second in command, Blaise Compaoré. No trial was ever held. Instead, Compaoré seized power and ruled until 2014, a loyal and brutal servant of the CFA system.
+
+FARIDA NABOUREMA’S STRUGGLE FOR TOGOLESE FINANCIAL FREEDOM
+In December 1962, Togo’s first post-colonial leader Sylvanus Olympio formally moved to create a Central Bank of Togo, and a Togolese Franc. But on the morning of January 13, 1963, days before he was about to cement this transition, he was shot dead by Togolese soldiers who had received training in France. Gnassingbé Eyadéma was one of the soldiers who committed the crime. He later seized power and became Togo’s dictator with full French support, ruling for more than five decades and promoting the CFA franc until his death in 2005. His son rules to this day. Olympio’s murder has never been solved.
+
+Farida Nabourema’s family has always been involved in the struggle for human rights in Togo. Her father was an active leader of the opposition, and has served time as a political prisoner. His father opposed the French during colonial times. Today, she is a leading figure in the country’s democracy movement.
+
+Farida was 15 years old when she learned that the history of Togo’s dictatorship was intertwined with the CFA franc. By that time, in the early 2000s, she had started to get close to her father, and asked him questions about her country’s history. “Why did our first president get assassinated just a few years after we gained independence?” she inquired.
+
+The answer: he resisted the CFA franc.
+
+In 1962, Olympio began the movement toward financial independence from France. The parliament voted in favor of beginning such a transition, and of creating a Togolese franc and holding their reserves in their own central bank. Farida was shocked to learn that Olympio was assassinated just two days before Togo was supposed to leave the CFA arrangement. As she put it: “His decision to seek monetary freedom was seen as an affront to hegemony in Francophone Africa. They were afraid others would follow.”
+
+Today, she says, for many Togolese activists the CFA is the major reason to seek broader freedom. “It is what animates many in the opposition movement.”
+
+The reasons why are clear. Farida said France keeps more than half of Togo’s reserves in its banks, where the Togolese people have zero oversight over how those reserves are spent. Often, these reserves, earned by Togolese, are used to buy French debt to finance the activities of the French people. In effect, this money is often loaned to the former colonial master at negative real yield. The Togolese are paying Paris to hold their money for them, and in the process financing the living standards of the French people.
+
+In 1994, the devaluation that stole the savings from Fode Diop’s family in Senegal hit Togo hard, too, causing a huge increase in national debt, a reduction in public funding to local infrastructure and an increase in poverty.
+
+“Remember,” Farida said, “our government is forced to prioritize holding our reserves in the French bank over spending at home, so when a shock hits, we have to degrade ourselves, to ensure that a proper amount of cash is in Parisian hands.”
+
+This creates a national climate of dependence, where Togolese are forced to ship raw goods out, and bring finished goods in, never digging their way out.
+
+Farida said that about 10 years ago, the anti-CFA movement started to gain more traction. Because of mobile phones and social media, people were able to unite and organize in a decentralized manner. It used to just be Ivorians and Togolese struggling separately, she said, but now there is a regional effort between activists.
+
+For decades there has been the idea of an “Eco” currency, for all of the Economic Community of West African States (ECOWAS) nations, including regional economic powerhouses Nigeria and Ghana. Farida said that the French tried to hijack this plan, seeing it as a way to expand their own financial empire. In 2013, then-president François Hollande formed a commission which created a document for the French future in Africa. In it, they stated it was an imperative to get Anglophone countries like Ghana involved.
+
+Emmanuel Macron’s administration is now trying to rename the CFA franc the Eco, in a continuing process of “Africanizing” the French colonial financial system. Nigeria and Ghana backed out of the Eco project, once they realized the French were going to continue to have control. Nothing has formally happened yet, but the countries currently managed by the BCEAO central bank are on track to switch to this Eco currency by 2027. The French will still have decision-making ability, and there are not any formal plans to adjust the central banking of the Central African CFA nations or of Comoros.
+
+“It is the high point of hypocrisy for French leaders like Macron to go to Davos and say they are done with colonialism,” Farida said, “while in fact, they are trying to expand it.”
+
+She said that originally, the CFA franc was created on the basis of the currency plan used by the Nazi occupiers of France. During WWII, Germany created a national currency for the French colonies so it could easily control imports and exports by just using one financial lever. When the war ended and the French regained their freedom they decided to use the same exact model for their colonies. So, Farida said, the foundation of the CFA franc is really a Nazi one.
+
+The system has a dark genius to it, in that the French have been able to, over time, print money to buy vital goods from their former colonies, but those African countries have to work to earn reserves.
+
+“It’s not fair, it’s not independence,” Farida said. “It’s pure exploitation.”
+
+France claims that the system is good because it provides stability, low inflation and convertibility for the Togolese people. But the convertibility tends to end up facilitating capital flight — when it is easy for businesses to flee the CFA and park their profits in euros today — while trapping the Togolese in a seigniorage regime. Whenever the CFA is converted — and it must be, as it cannot be used outside of a citizen’s economic zone — the French and the ECB take their slice.
+
+Yes, Farida said, inflation is low in Togo compared to independent nations, but a lot of their earnings are going to fight inflation instead of supporting infrastructure and industry growth at home. She pointed to the growth of Ghana, which has an independent monetary policy and higher inflation over time than the CFA nations, compared to Togo. By any metric — healthcare, middle class growth, unemployment — Ghana is superior. In fact, when one zooms out, she said that not a single CFA nation is among the 10 richest countries in Africa. But of the bottom 10 poorest, half are in the CFA zone.
+
+Farida says that French colonialism goes beyond money. It also affects education and culture. For example, she said, the World Bank gives $130 million per year to support Francophone countries to pay for their books for public schools. Farida says 90% of these books are printed in France. The money goes directly from the World Bank to Paris, not to Togo or to any other African nation. The books are brainwashing tools, Farida said. They focus on the glory of French culture, and undermine the achievements of other nations, whether they be American, Asian or African.
+
+In high school, Farida asked her dad: “Do people use any other language but French in Europe?” He laughed. They only learned about French history, French inventors and French philosophers. She grew up thinking that the only smart people were French. She had never read an American or British book before she traveled abroad for the first time.
+
+In general, Farida said, French Africa consumes 80% of the books that the French print. President Macron wants to expand on this dominance, and has promised to spend hundreds of millions of euros to boost French in Africa, declaring that it could be the “first language” of the continent and calling it a “language of freedom.” Given current trends, by 2050 85% of all French speakers could live in Africa. Language is one pillar of support for the CFA franc’s survival.
+
+Politics is another. An important part of the CFA system is French support for dictatorship. With the exception of Senegal, not a single CFA bloc country has ever had meaningful democratization. Every single successful tyrant in Francophone Africa, Farida said, has had the full backing of the French state. Whenever there is a coup against democracy, the French support the coup-makers as long as they are friendly to the CFA regime. But the moment anyone has anti-French tendencies, you see sanctions, threats, or even assassinations.
+
+Farida points to the example of Chad and Mali today. Both countries are under threat from terrorism and rebellion. In Chad, late military dictator Idriss Deby was propped up by France for three decades until his death in April. According to the Chadian constitution, the head of the parliament is normally next in line to be the president, but instead, the military installed Deby’s son, a general in the army. The French government applauded this illegal transition and President Macron even visited Chad two months ago to celebrate this sham. In a tribute speech, he called Deby a “friend” and “courageous soldier” and said “France will not let anybody put into question or threaten today or tomorrow Chad’s stability and integrity.” The son, of course, will promote the CFA franc.
+
+Mali, on the other hand, Farida said, had a coup a month after Chad’s. The junta and the population are not as friendly to Paris and appear to be seeking in Russia a new partner to stymie terrorism. So the French government has called the coup “unacceptable,” is threatening to withdraw troops from Mali to “leave them alone with the terrorists,” as Farida said, and is preparing sanctions. Mali is being punished by France for doing the same thing that Chad did. There is despotism and corruption on both sides. The only difference is that Mali wanted to move away from French monetary control, while Chad is still cooperating.
+
+“When you are a dictator, as long as you are working for France, they will continue finding excuses to help you stay in power,” said Farida. They did the same in 2005 in her country of Togo, which led to a son taking over from his dictator father and to her own political awakening.
+
+FODE DIOP’S MISSION TO BRING BITCOIN TO SENEGAL
+It was not until Fodé Diop had the opportunity to travel to the U.S. that he could start to look at his country Senegal from the outside.
+
+At first, the 1994 devaluation of the CFA franc had put his academic future in jeopardy. He had an opportunity to go study and play basketball at a university in Kansas, but his family’s savings had been destroyed. Luckier than most around him, his family had one more option: his father had book rights for teaching materials that he had created, and he was able to use those to borrow what was needed to get Fodé to school.
+
+One day, a few years after graduating from college, while living in the U.S. and working on a new video-on-demand site with his brother, Fodé stumbled across a YouTube video of Dr. Cheikh Anta Diop, a Senegalese scientist and historian, talking about how money and language were tools of controlling people’s minds and livelihoods.
+
+Fodé had heard about Dr. Diop before — the biggest university in Senegal was named after him — but he had not listened to his critique of the CFA system. It hit Fodé hard. He says it was like the moment in “The Matrix,” one of his favorite movies, when Neo takes the red pill from Morpheus, and breaks out of his pod into the jarringly brutal real world. He finally saw the water that he swam in while growing up.
+
+“This was the first time in my life I started thinking for myself,” Fodé said. “The first time when I realized my own country’s currency was a mechanism of control.”
+
+He said that it is more than just control over currency. Because the French print and control the money through each country’s operation accounts, they have data.
+
+“They know what’s going where, they have information on all the countries. They have an edge over these countries. They know who is corrupt. They know who is buying property in France. They know what is available. They have first right of refusal on preferential import and export pricing. They have total domination,” said Fodé.
+
+He would later reflect on the 1994 devaluation. At the time, he was only 18, so he did not understand what had happened, other than the fact that the family’s finances had gotten a lot more difficult.
+
+“They put a bag over your head so that you don’t notice your reality,” he said.
+
+But in retrospect, there was a big public debate about it. People realized that when they would go to convert to the French franc, they would only get half as much for their money, even though they were doing the same amount of work. The French reasoning, Fodé said, was to make exports cheaper so that the African countries could produce more competitively. But Fodé sees it differently: this allowed France to crack the whip and buy cheaper goods.
+
+Fodé would have two more “red pill” moments. The next came in 2007, when he was working in Las Vegas in the technology scene. He was watching a video of Steve Jobs, who had just announced the iPhone to the world. Fodé was stunned: a mobile phone that had a native touch-screen browser. The same thing that was on your computer was now on your phone. He knew instantly it would change the world. His next thought: How do we get native payments into the iPhone apps, so people with no bank accounts and credit cards could use mobile money?
+
+The final red pill for Fodé was learning about Bitcoin in 2010. He was living in Los Angeles when he first read Satoshi Nakamoto’s white paper for a “peer-to-peer electronic cash system.” From the moment he read it, Fodé thought: For the first time, we have a weapon to fight back against oppression and colonialism. Money of the people, not controlled by governments. “This,” he said, “is exactly what we need.”
+
+Years earlier, Fodé had read “Out Of Control” by Kevin Kelly. One of the chapters was about e-currencies. He knew that eventually, all money would be digital, part of a great global electronic revolution. But he had never thought too deeply about the transformative power digital money could have, until Bitcoin.
+
+“What is money? Where does it come from? Asking these questions, this is what Bitcoin did for me,” he said. “Before that, you don’t question it.”
+
+Maybe, he thought, one day, France would not have the right or ability to print and control the money of the Senegalese people anymore.
+
+Fodé and his roommate in Las Vegas would stay up late many times over the coming years, thinking about what Bitcoin could make possible for payments, savings and all economic activity. He learned about what happened when you swiped your credit card, what kind of information this revealed. And what third parties were doing with that information.
+
+He thought that the marriage of the smartphone and Bitcoin would make an incredible empowerment tool. Fodé would frequently go back to Senegal, and each time he would go, he would bring a bunch of phones with him to give away. He viewed them as connections to the outside world for his friends back home.
+
+Over the coming years, he worked at different startups, all in the industry of digitizing different parts of our lives. In 2017, he left Vegas and went to San Francisco. He joined a coding bootcamp and decided to become a computer engineer. Initially, he got very involved with the cryptocurrency scene as a whole, but eventually, he says he “fell out of love” with Ethereum, right around the time he started to go to San Francisco’s Socratic seminars with River founder Alex Leishman. He met a lot of the Bitcoin core developers and early Lightning users.
+
+In 2019, he won a transportation hackathon, making a Lightning invoice that would unlock a Tesla. This gave him a big confidence boost that he could help change the world. He decided to go home to Senegal to spread Bitcoin education. On his way, he was gifted a travel scholarship to the Lightning conference in Berlin by Lightning Labs CEO Elizabeth Stark. There, he met Richard Myers of GoTenna and developer Will Clark, who were thinking about how to fight internet censorship with mesh networks. Fodé thought: In Senegal, the French telecom Orange controls all the phone networks. Maybe they could figure out a way to circumvent French control over communications and ability to “turn off the internet” through Bitcoin and Lightning.
+
+Senegal’s telecom gateways are controlled by France, and can be shut down in case there are protests against the country’s leader, whom they support as long as he sticks to the CFA system. But, it is possible to find endpoints, Fodé said, through other providers. They could be other national phone networks, or even satellite connections. Fodé created a box that would pick up on these other signals. Mobile phones could tunnel into that box, allowing users to go online even when the French turned off the internet. To incentivize people running such boxes, he would pay them in bitcoin. For routing data and maintaining these boxes in Senegal, one is paid through Lightning. This is what Fodé is working on today.
+
+“It’s very risky,” Fodé said. “You can face jail or fines. But with monetary incentives, people are willing.”
+
+The next time Orange turns off the internet to protect its ally in government, the people may have a new way to communicate that the regime cannot stop.
+
+Lightning, Fodé said, is everything.
+
+“We need instant and cheap payments. We can’t do on-chain Bitcoin payments. The fees are just too expensive. We have to use Lightning. There is no other option,” he said. “And it works.”
+
+This rings especially true in the area of remittances, which, according to the World Bank, are a major source of GDP for many CFA nations. For example: 14.5% of Comoros’ GDP is based on remittances. For Senegal, it is 10.7%; Guinea-Bissau, 9.8%; Togo, 8.4%; and Mali, 6%. Given that the average cost of sending a $200 remittance to sub-Saharan Africa is 8%, and that the average cost of sending $500 is 9%, and given that Bitcoin-based remittance services like Strike can reduce fees to well under 1%, anywhere from 0.5% to a full 1% of CFA nations’ GDP could be saved by adopting a Bitcoin model. Zooming out, each year roughly $700 billion is sent home by remitters globally. Between $30 billion and $40 billion could be saved, which is roughly the same amount the U.S. spends each year on foreign aid.
+
+Fodé understands why people in the West might be skeptical about Bitcoin. “If you have Venmo and Cash App, you might not see why it is important. You have all the conveniences of a modern monetary system. But when you go to Senegal, more than 70% of our people have never stepped foot in a bank. Mom never had a credit card or debit card,” he said.
+
+He wonders: How are they ever going to participate in the global financial system?
+
+He said the marriage of smartphones and Bitcoin will liberate people and change society. Fodé mentioned “The Mobile Wave,” the book that MicroStrategy CEO Michael Saylor wrote about the handheld revolution, as being “so salient.” When Fodé first touched the iPhone, he knew that it was what he was waiting for. The universe was conspiring, he thought. In just a few short years, he saw the iPhone, the Great Financial Crisis, Satotshi’s release of Bitcoin and his own transition to becoming an American citizen.
+
+He said that since he has spent half of his life in Africa, and half in the U.S., that he can see a path forward.
+
+“When I go home, I see how people are being held down. But in the same way we leapfrogged landlines and went straight to cell phones, we’re going to skip banks and go straight to Bitcoin.”
+
+Another effect he is seeing in Senegal is that when people are exposed to Bitcoin, they start saving.
+
+“Today, at home, I’m thinking about how to help people save money,” he said. “Nobody saves anything here. They just spend every CFA franc they can get.”
+
+Fodé is “forever grateful” for the BTC that Leishman gave him, as he ended up giving it away in small parts to people in Senegal — those who came to events or who asked good questions. People saw its value grow over time.
+
+He has watched what has happened in El Salvador with great excitement. When he stood in a conference hall in Miami earlier this month and listened to Strike founder Jack Mallers announce that a country had added bitcoin as legal tender, Fodé said that he teared up. He thought this would never happen.
+
+“What began as a store of value, is now evolving to a medium of exchange,” he said.
+
+El Salvador has some similarities to the CFA zone countries. It is a poorer nation, fixed to a foreign currency, reliant on imports, with a weaker export base. Its monetary policy is controlled by an external power. 70% of the country is unbanked, and 22% of the nation’s GDP relies on remittances.
+
+“If it could be a good option for them,” Fodé thought, “maybe it could work for us.”
+
+But he knows there are major obstacles.
+
+One is the French language. There is not a lot of French information on GitHub, or in the documentation materials for Lightning or Bitcoin core. Currently, Fodé is working on translating some of this to French so that the local developer community can get more involved.
+
+Could a Bitcoin Beach community eventually happen in Senegal? Yes, Fodé said. That is why he moved back, and that is why he is running meetups, collecting donations through a Lightning tip jar and building a citizen-powered, Bitcoin-based version of Radio Free Europe.
+
+“They could jail me,” he said. “But through the meetups, I’m making it so that I’m not a single point of failure.”
+
+He thinks it will be hard to get Bitcoin adoption in Senegal, because of the French influence.
+
+“They won’t go out without a fight,” he said.
+
+As Ndongo Samba Sylla put it, “Today, France faces relative economic decline in a region it long considered its own private preserve. Even faced with the rise of other powers like China, France has no intention of abdicating its mastery — it will fight to the last.”
+
+But maybe, instead of a violent revolution, it could be a gradual peaceful revolution over time that kicks out colonialism.
+
+“Not a sudden off switch, but a parallel system, where people can opt in over time by themselves,” Fodé said. “No coercion.”
+
+As for people who think we should just ask the government to protect our rights?
+
+“They don’t know that democracies like France have this bad side,” Fodé said. “They won’t gift us liberty. Instead, we should follow in the footsteps of the cypherpunks, and seize our freedoms with open-source code.”
+
+When asked about Bitcoin’s chances at replacing central banking, Fodé said that the idea “may sound crazy to Americans, but for Senegalese or Togolese, central banks are a parasite on our society. We have to fight back.”
+
+Fodé considers Bitcoin “life changing.”
+
+“Never before did we have a system where money could be minted in a decentralized fashion. But this is what we have today. It’s a solution for those who need it most. For the first time, we have a powerful tool to push back against oppression,” he said. “It might not be perfect, but we gotta use the tools we have today to fight for the people. Not wait around for someone to come help us.”
+
+THE SEPARATION OF MONEY AND STATE
+In 1980, Cameroonian economist Joseph Tchundjang Pouemi wrote “Monnaie, servitude et liberté: La répression monétaire de l’Afrique.” The thesis: monetary dependence is the foundation of all other forms of dependence. The final words of the book ring especially strong today: “Africa’s fate will be forged through money or it won’t be forged at all.”
+
+Money and currency are buried beneath the surface in the global human rights movement. They hardly ever come up at human rights conferences, and are rarely discussed among activists. But ask a democracy advocate from an authoritarian regime about money, and they will tell amazing and tragic stories. Demonetization in Eritrea and North Korea, hyperinflation in Zimbabwe and Venezuela, state surveillance in China and Hong Kong, frozen payments in Belarus and Nigeria, and economic firewalls in Iran and Palestine. And now: monetary colonialism in Togo and Senegal. Without financial freedom, movements and NGOs cannot sustain themselves. If their bank accounts are shuttered, notes demonetized or funds debased, their power is limited and tyranny marches on.
+
+Monetary repression continues to be hidden, and not spoken of in polite circles. The reality today for the 182 million people living in CFA nations is that while they may be politically independent in name, their economies and money are still under colonial rule, and foreign powers still abuse and prolong that relationship to squeeze and exploit as much value from their societies and geographies as possible.
+
+In recent years, CFA zone citizens are increasingly rising up. The slogan “France Dégage!” has become a rallying cry. But the system’s loudest critics, Pigeaud and Sylla among them, do not seem to offer a viable alternative. They dismiss the status quo and IMF bondage, only to suggest either a regional currency, controlled by local leaders, or a system where each CFA nation creates and runs its own currency. But just because Senegal or Togo get monetary independence from France, does not guarantee that they will perform well, or that the country’s leaders will not abuse the currency.
+
+There is still the threat of domestic dictatorial misrule, or new capture by Russian or Chinese foreign powers. It is clear that people are in need of a money that actually breaks the wheel, one that they can control and that cannot be manipulated by governments of any kind. Just as there was a historic separation of church and state that paved the way for a more prosperous and free kind of human society, a separation of money and state is underway.
+
+Could citizens of CFA nations, over time, with increasing access to the internet, popularize Bitcoin to the point that governments would be forced to de facto adopt it, as happened in Latin American countries like Ecuador with “dolarización popular”? History remains to be written, but one thing is for sure: the World Bank and IMF will resist any trends in this direction. Already, they have come out swinging against El Salvador.
+
+A few weeks ago, the actor Hill Harper was quoted in The New York Times regarding his activism for Bitcoin in the African American community. He said, quite simply, “They can’t colonize Bitcoin.”
+
+Farida Nabourema agrees. “Bitcoin,” she said, is “the first time ever that there is money that is actually decentralized and accessible to anyone in the world regardless of their skin color, ideology, nationality, amount of wealth or colonial past.”
+
+She said it is the people’s currency, and even goes a step further.
+
+“Maybe,” she said, “we should call Bitcoin the currency of decolonization.”

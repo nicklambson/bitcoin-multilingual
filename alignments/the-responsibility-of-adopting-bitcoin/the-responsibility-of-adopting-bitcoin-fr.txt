@@ -1,0 +1,41 @@
+La responsabilité de l'adoption de Bitcoin
+
+Il existe un dicton parmi les bitcoineurs et bitcoineuses. Plus le temps passe et plus sa véracité se confirme : Vous ne changez pas Bitcoin. Bitcoin vous change.
+
+Pourquoi ? Au début, je ne savais pas trop comment répondre à cette question ; je savais simplement que c'était vrai, bien que je ne sache pas pourquoi. Oui, Bitcoin est incroyablement résistant au changement. Et oui, l'argent fort diminue notre préférence temporelle. Cela joue clairement un rôle. Il y a également la tendance historique du bitcoin à prendre de la valeur, donc la richesse et la liberté économique qui en découlent pourraient être une autre raison.
+
+L'argent, cependant, n'est pas toujours une bénédiction. Il a tendance à amplifier les bons et les mauvais traits de caractère. Il a également le pouvoir de corrompre, et il peut rendre les gens fous. Si vous n‘agissez pas avec prudence, ce qui au début était une richesse inespérée peut rapidement dériver en ego surdimensionné ivre de pouvoir et culminer en « trouble de la personnalité dû au Bitcoin ».
+
+Il y a déjà plein de publications sur la faible préférence temporelle et la richesse, c'est pourquoi je veux me concentrer sur la troisième chose que Bitcoin vous apporte : la responsabilité.
+
+L'individu est souverain
+
+Toute l'idée de Bitcoin est de supprimer les intermédiaires de l'équation. Les tiers de confiance sont des failles de sécurité, et à moins que nous voulions répéter les erreurs passées, il est de notre responsabilité collective d'éliminer ces failles de sécurité partout, et à chaque fois que nous en avons l'occasion. Bitcoin permet d'éliminer les tiers de confiance parce qu'il se manifeste dans le monde au niveau de la population générale : il n’a pas été créé par une élite ni imposé au public. Avec Bitcoin, votre souveraineté sur vous-même peut être absolue.
+
+Bitcoin met l'accent sur la souveraineté de l'individu, tant en principe et qu'en pratique. Il permet aux parties prenantes économiques de stocker et d'échanger de la valeur librement, ne nécessitant rien d'autre qu'une signature cryptographique valide. L’appartenance à un groupe, le genre, la couleur de peau, l'âge, l'affiliation politique ou religieuse — tout cela est sans importance face au protocole. Si votre transaction a une signature valide, Bitcoin vous prendra au sérieux. Peu importe que vous soyez une personne, un chien ou un hélicoptère militaire.
+
+De la même manière que l'intersectionnalité est résolue en se concentrant sur l'individu, le problème des tierces parties de confiance est résolu en se concentrant sur les nœuds individuels. Retirez les identités politiques et sociales, et reste alors l'individu. Retirez les tierces parties de confiance et les sources extérieures de vérité, et reste alors le nœud auto-souverain. Et de la même manière que la dignité humaine est inviolable, la vérité auto-validante que représente votre nœud Bitcoin est inviolable. Si une autorité externe pouvait interférer avec la vérité de votre nœud, le propos entier du Bitcoin deviendrait caduc.
+
+Die Würde des Menschen ist unantastbar.
+
+Artikel 1 des Grundgesetzes für die Bundesrepublik Deutschland
+
+On en revient toujours aux nœuds individuels. En conséquence, on en revient toujours aux individus qui opèrent ces nœuds.
+
+La responsabilité est programmée
+
+Il y a une raison pour laquelle la communauté Bitcoin parle de "voyage" dans le terrier du lapin. La seule façon de démarrer dans Bitcoin est de commencer doucement et de s'améliorer progressivement. Ce n'est ni facile ni confortable, mais c'est cependant nécessaire. Vous ne pouvez pas tout faire « correctement » dès le premier jour. Les défis sont trop grands, les changements de paradigme trop radicaux, les compromis trop nombreux, et les questions trop nuancées.
+
+Par conséquent, le conseil que je donne à mes proches reste le même : commencez dès aujourd'hui à stacker des sats. Ce n'est peut-être pas le meilleur conseil pour tout le monde dans toutes les circonstances, mais il est parfait à mes yeux pour la raison suivante, qui se suffit à elle seule : il vous oblige à faire le premier pas, c'est-à-dire à avoir quelque sats à votre nom.
+
+Une fois que vous avez acquis quelques bitcoins, vous avez un enjeu. Et une fois que vous avez un enjeu, vous êtes sur la voie de la souveraineté. Vous allez assumer la responsabilité de vos finances, de votre épargne, de votre avenir, et, peut-être de manière surprenante, de l'avenir de Bitcoin.
+
+Cela vous paraît grandiose ? Permettez-moi d’expliquer : vous apprendrez que vous ne possédez par réellement de bitcoins à moins de détenir vos propres clefs. Vous apprendrez que vous ne pouvez pas affirmer ce que vous détenez est réellement du bitcoin à moins de valider vos transactions avec votre propre nœud. Vous apprendrez que Bitcoin est ce que vous décidez qu'il est, que la valeur du bitcoin ne vient pas de l'extérieur mais de l'intérieur, et que l'utilité maximale dans le monde Bitcoin implique l'adoption d'une responsabilité maximale.
+
+La réalité fondamentale du fonctionnement du réseau Bitcoin, combinée avec le nombre croissant de rapports sur cet effet — une transformation personnelle amenée par l'adoption d'un standard Bitcoin — me fait croire que ce n'est pas seulement la lune (augmentation exponentielle du cours) qui est programmée, mais aussi l'adoption de la responsabilité.
+
+Parce que Bitcoin est conçu pour que sa valeur monte pour toujours, vos bitcoins représenteront bientôt un montant important. Au fur et à mesure que le pouvoir d'achat de vos bitcoins augmente, votre motivation à devenir un citoyen ou une citoyenne Bitcoin de première classe augmentera également. Vous voudrez apprendre à garder vos bitcoins vous-même. Vous voudrez apprendre à opérer votre propre nœud.
+
+Cela va même au-delà du mantra « pas tes clefs, pas tes bitcoins » et « pas ton nœud, pas tes règles ». Il est dans votre intérêt de soutenir le réseau, soit en gérant un nœud, soit en contribuant à la puissance de hachage, soit indirectement en soutenant le développement de Bitcoin. Et c'est là que le bât blesse : gérer votre propre nœud signifie que vous participez au réseau lui-même, ce qui vous implique inévitablement dans le processus de définition de ce qu'est Bitcoin. Comme personne ne peut vous dire ce qu'est Bitcoin, _vous_ devez décider de cela pour vous-même, encore et encore. Le réseau est un [organisme en pleine croissance et en constante évolution](https://dergigi.com/2019/08/07/proof-of-life/), et la nature "opt-in" (optionnelle) des mises à jour du protocole imposera de manière répétée la question de l'identité de Bitcoin à ses participants.
+
+Qu'est-ce que Bitcoin ? Que devrait-il être ? L'absence d'autorité centrale implique que la réponse à ces questions relève de votre responsabilité, à perpétuité. Cependant, avant d'oser assumer cette responsabilité, vous devez prendre le premier pas et commencer à vous épargner.

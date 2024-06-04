@@ -1,0 +1,288 @@
+Bitcoin ist eine Idee
+
+Mach dir keine Sorgen darüber, dass Leute dir eine Idee klauen könnten. Wenn sie originell ist, wirst du sie ihnen in den Rachen schieben müssen.
+
+Howard H. Aiken
+
+Es gibt kein Fleisch und Blut, das getötet werden kann, unter diesem Umhang. Da ist nur eine Idee. Ideen sind kugelsicher.
+
+Alan Moore, V wie Vendetta
+
+Am 31. Oktober 2008 hat sich die zukünftige Marschrichtung unserer globalen Gesellschaft für immer verändert. Ein Durchbruch wurde erzielt, und eine unaufhaltsame Idee wurde auf die Welt losgelassen. Eine Idee, die so tiefgreifend, so ungeheuerlich war, dass sie in den ersten Jahren von fast allen ignoriert wurde – und von den meisten immer noch abgetan wird: Bitcoin: Ein Peer-to-Peer Electronic Cash System.
+
+Das Whitepaper, das Satoshi Nakamoto in dieser Halloween-Nacht veröffentlichte, beschreibt eine Idee, die unweigerlich die Welt im Sturm erobern wird. Während die meisten Menschen Bitcoin immer noch als nichts weiter als ein „Werde-schnell-reich-System“ ansehen – und die tiefgreifende Veränderung, die es auf die Gesellschaft haben wird, völlig übersehen – wird es jeden Tag offensichtlicher, dass es nicht verschwinden wird.
+
+„Ideen, anders als feste Strukturen, vergehen nicht“, erinnert uns Alan Moore. „Sie bleiben unsterblich, immateriell und überall, wie alle göttlichen Dinge.“
+
+In dieser schicksalhaften Nacht im Jahr 2008, ließ Satoshi den Geist aus der Flasche. Wir gingen von einer Welt, in der digitales Bargeld nur eine Idee war, zu einer Welt, in der Bitcoin existiert. Nicht nur, dass die Idee hier ist, um zu bleiben, sondern mit jedem vorbeiziehenden Block erinnert uns Bitcoin daran, dass diese Idee nun eine Realität ist. Wie wir sehen werden, ist diese neue Realität mächtiger, als man anfangs denken mag. Sie ist mächtig, weil sie ein neues wirtschaftliches Paradigma einleiten wird. Sie ist mächtig, weil die Zeit dafür reif ist. Sie ist mächtig, weil sie nicht aufgehalten werden kann. Wie Victor Hugo uns daran erinnert: nichts ist so mächtig wie eine Idee, deren Zeit gekommen ist. Bitcoin ist hier, um zu bleiben; und die Zeit von Bitcoin ist jetzt.
+
+Eine Idee deren Zeit gekommen ist
+Man widersteht der Invasion von Armeen;
+man widersteht nicht der Invasion von Ideen.
+
+Victor Hugo
+
+Entgegen der landläufigen Meinung ist Bitcoin nicht aus dem Nichts aufgetaucht. Die Idee des digitalen Geldes hat eine lange und reiche Geschichte. Vor allem ein loses Kollektiv, bekannt als die Cypherpunks, schrieb ausführlich über digitales, anonymes Bargeld, wie solche Systeme realisiert werden könnten und die gesellschaftlichen Auswirkungen von starker Kryptographie im Allgemeinen. Daher auch der Name: Cypherpunks.
+
+Nach der Gründung der Gruppe im Jahr 1992 gründeten Eric Hughes, Timothy C. May und John Gilmore die Cypherpunk-Mailingliste, um ihre Ideen rund um Kryptographie, Remailer, Anonymität, digitales Geld und „andere interessante Dinge“ mit einer größeren Gruppe von Leuten zu diskutieren und zu teilen. Viele Jahre später entschied sich ein Cypherpunk namens Satoshi Nakamoto, das Bitcoin-Whitepaper auf einer ähnlichen Mailingliste zu veröffentlichen: der Kryptografie-Mailingliste.
+
+Wie beim Studium ihrer Schriften deutlich wird, lag den Cypherpunks die Idee des digitalen Bargelds sehr am Herzen. 1993 diskutierte Eric Hughes in A Cypherpunk’s Manifesto die Idee des digitalen Bargelds, seine Beziehung zur Privatsphäre und seine Bedeutung für eine freie Gesellschaft: „Da wir Privatsphäre wünschen, müssen wir sicherstellen, dass jede Partei einer Transaktion nur von dem Kenntnis hat, was direkt für diese Transaktion notwendig ist. Da über jede Information etwas gesagt werden kann, müssen wir sicherstellen, dass wir so wenig wie möglich preisgeben. In den meisten Fällen ist die persönliche Identität nicht von Belang. Wenn ich in einem Geschäft eine Zeitschrift kaufe und dem Verkäufer Bargeld übergebe, ist es nicht notwendig zu wissen, wer ich bin.“
+
+Die Idee von digitalem Bargeld (oder elektronischem Bargeld, wie Satoshi es im Bitcoin-Whitepaper nannte) ist, etwas in der digitalen Welt zu haben, das sich wie Bargeld in der realen Welt verhält. Es ist keine Identität oder Anmeldung erforderlich, es kann direkt gegen Waren und Dienstleistungen getauscht werden und ist praktisch nicht zurückverfolgbar.
+
+Sogar die IANA2, eine Standardisierungsorganisation, die unter anderem für die Definition von HTTP-Statuscodes zuständig ist, erkennt die Idee des digitalen Geldes an. Wir alle kennen den berüchtigten 404-Fehlercode, der anzeigt, dass eine Ressource nicht gefunden werden kann. Nur wenige wissen, dass es auch einen 402-Fehlercode gibt, der anzeigt, dass auf die Ressource nicht zugegriffen werden kann, weil sie eine Zahlung erfordert. Da es damals jedoch noch kein digitales Bargeld gab, wurde der Statuscode „für die zukünftige Verwendung reserviert“ und wird auch heute noch nicht häufig verwendet.
+
+Die Cypherpunks konzentrierten sich hauptsächlich auf den Aspekt der Privatsphäre von digitalem Bargeld. Monetäre und wirtschaftliche Aspekte waren zweitrangig. Sie erkannten, dass die Privatsphäre für eine freie und offene Gesellschaft absolut vorrangig ist. Denn das Gegenteil – vollständige Überwachung – kann nur zu Unterdrückung und Stagnation führen, da neue und kontroverse Ideen nicht gedeihen können. Egal, welche Freiheiten man zu haben glaubt, am Ende macht die Überwachung alle anderen Freiheiten unbrauchbar.
+
+„Daher erfordert die Privatsphäre in einer offenen Gesellschaft anonyme Transaktionssysteme. Bis jetzt war es vor allem Bargeld, das ein solches System darstellte. Ein anonymes Transaktionssystem ist kein geheimes Transaktionssystem. Ein anonymes System gibt dem Einzelnen die Möglichkeit, seine Identität preiszugeben, wenn er es wünscht und nur dann, wenn er es wünscht; das ist das Wesen der Privatsphäre.“
+
+ERIC HUGHES, A CYPHERPUNKS MANIFESTO
+
+Obwohl Bitcoin in vielerlei Hinsicht ein Durchbruch ist, existierten alle technischen Teile, die es zum Funktionieren bringen, bereits vorher:
+
+Public-Key-Kryptographie
+Peer-to-Peer-Netzwerke
+Digitale Signaturen
+Kryptografische Hash-Funktionen
+Kryptografische Zeitstempel
+Hash-Ketten
+Proof-of-Work
+Wir werden alle diese Konzepte an späteren Stellen des Buches genauer untersuchen.
+
+Satoshi hat keinen cleveren neuen Algorithmus oder ein kryptografisches Verfahren erfunden. Stattdessen fand er einen Weg, bestehende Technologien auf geniale Weise zu kombinieren, indem er wirtschaftliche Anreize und Spieltheorie nutzte, um das System zu bootstrappen und zu sichern.
+
+Die Cypherpunks waren sich bewusst, dass, auch wenn die Basistechnologie theoretisch existiert, manche Dinge einfach Zeit brauchen, um sich zu entwickeln. Im Jahr 1992 schrieb Timothy May in The Crypto Anarchist Manifesto: „Die Technologie dafür […] existiert in der Theorie schon seit einem Jahrzehnt. […] Aber erst seit kurzem haben Computernetzwerke und Personal Computer eine ausreichende Geschwindigkeit erreicht, um die Ideen praktisch realisierbar zu machen. Und die nächsten zehn Jahre werden genug zusätzliche Geschwindigkeit bringen, um die Ideen wirtschaftlich realisierbar und im Wesentlichen unaufhaltsam zu machen.“3
+
+Obwohl ich glaube, dass Bitcoin (das Netzwerk) im Wesentlichen bereits unaufhaltsam ist, ist Bitcoin die Idee wirklich unaufhaltsam. Denn, wie Alan Moore es so treffend formulierte, Ideen sind kugelsicher.
+
+In den ersten zehn Jahren seiner Existenz hat sich Bitcoin von der Idee über die Implementierung zum Proof-of-Concept bis hin zum Nischen-Geldwert entwickelt. Im nächsten Jahrzehnt wird er wahrscheinlich zu einer eigenständigen Kraft werden, die Grenzen überschreitet und dabei unser Verständnis von Geld und Wert transformiert. Die Idee wurde jedoch nicht bei der Geburt von Bitcoin entwickelt: Sie wurde von Denkern und Tüftlern des elektronischen Zeitalters konzipiert, mehrere Jahrzehnte bevor Satoshi Nakamoto die Szene betrat.
+
+Die Geschichte des digitalen Bargelds
+„Viele Leute tun elektronische Währungen automatisch als aussichtsloses Unterfangen ab, wegen all der Unternehmen, die seit den 1990er Jahren daran gescheitert sind.“
+
+Satoshi Nakamoto
+
+Die Vorgeschichte von Bitcoin ist so lang wie faszinierend. Satoshi war in der Lage, auf verschiedenen Technologien und Protokollen aufzubauen, von denen einige 50 Jahre und mehr zurückreichen. Während 50 Jahre in der Technologie eine lange Zeit sein mögen, ist die Kunst der Kryptographie viel älter als das, sie geht bis in das Jahr 1900 v. Chr. zurück.
+
+Es ist schwer zu sagen, was die wichtigsten Bausteine waren, aber die grundlegendsten sind wahrscheinlich digitale Signaturen4 (Diffie und Hellman, 1976) und Public-Key-Kryptographie5 (Rivest, Shamir, Adleman, 1978). Ohne diese Ideen könnte Bitcoin nicht existieren.
+
+Vor Bitcoin wurden bereits verschiedene digitale Geldsysteme entwickelt. Alle sind irgendwann gescheitert und alle aus ähnlichen Gründen. Die folgenden sind im Zusammenhang mit Bitcoin besonders interessant:
+
+Ecash von David Chaum (1982)
+E-gold von Douglas Jackson and Barry Downey (1996)
+hashcash von Adam Back (1997)
+bit gold von Nick Szabo (1998)
+b-money von Wei Dai (1998)
+RPOW – Reusable Proofs of Work von Hal Finney (2004)
+Lasst uns einen näheren Blick auf diese Systeme werfen und schauen was sie eigentlich gebracht haben und warum sie gescheitert sind.
+
+Ecash (David Chaum, 1982)
+Ecash nutzte digitale Signaturen zum Nachweis des Eigentums, eine Idee, die auch heute noch in Bitcoin verwendet wird. Vorgeschlagen von David Chaum im Jahr 1982, wurde es später von seiner Firma implementiert und war drei Jahre lang in Betrieb, bevor die Firma 1998 bankrott ging. Chaum ist immer noch als Kryptograph aktiv. Er leistete Pionierarbeit bei vielen kryptografischen Techniken und trieb die Entwicklung von Technologien zur Wahrung der Privatsphäre voran. Eine der datenschutzfördernden Transaktionstechniken in Bitcoin, der Chaumian CoinJoin, ist ihm zu Ehren benannt. Während Ecash kryptographisch und technologisch interessant war, war es keine monetäre Innovation und scheiterte letztendlich, weil es von einer zentralisierten Einheit betrieben wurde: DigiCash Inc. das von Chaum gegründete Unternehmen.
+
+E-Gold (Douglas Jackson und Barry Downey, 1996)
+E-Gold war kryptografisch nicht besonders bahnbrechend, aber es war eine der ersten digitalen Währungen, die an Zugkraft gewann. Obwohl es schon andere vor ihr gab (OS-Gold, Standard Reserve, INTGold), gilt E-Gold als die erste erfolgreiche digitale Währung, die populär genug wurde, um von Händlern angenommen zu werden. Auf seinem Höhepunkt hatte E-Gold fünf Millionen Nutzer und verarbeitete Werttransfers in der Größenordnung von 2 Milliarden Dollar. Neben den mit Gold unterlegten E-Gold-Token konnten auch andere wertvolle E-Metalle erworben werden: E-Silber, E-Platin und E-Palladium. Der Untergang von E-Bargeld war wiederum, dass es sich um einen zentralisierten Dienst handelte, der von einem Unternehmen betrieben wurde: Gold & Silver Reserve Inc. Die US-Regierung reichte eine Klage ein, in der sie behauptete, das Unternehmen betreibe ein nicht lizenziertes Geldtransfergeschäft. Letztendlich scheiterte das E-Cash-Projekt daran, dass es von einem Unternehmen betrieben wurde, das abgeschaltet werden konnte.
+
+Hashcash (Adam Back, 1997)
+Ursprünglich wurde Hashcash 1997 vorgeschlagen und 2002 formell als Hashcash – A Denial of Service Counter-Measure veröffentlicht. Hashcash ist eine der wesentlichen Ideen, die Bitcoin möglich gemacht haben. Während andere Forscher die Idee des Pricing via Processing6 schon vor Adam Back hatten (Dwork und Naor, 1992), wurde sein Paper von Satoshi im Bitcoin-Whitepaper referenziert und führte zu dem, was heute als Proof-of-Work von Bitcoin bekannt ist. Soweit ich weiß, wurde der Begriff Proof-of-Work erstmals im Hashcash-Arbeitspapier eingeführt.
+
+Hal Finney, eine der Legenden der frühen Bitcoin-Tage, hat Hashcash schön und prägnant wie folgt beschrieben: „Hashcash ist ein Text-String in einem bestimmten Format, der eine besondere Eigenschaft hat: wenn er durch den SHA-1 Hash-Algorithmus läuft, hat das Ergebnis die ersten N seiner anfänglichen Bits gleich Null, wobei N typischerweise etwa 20-30 ist. Die für Hashcash verwendete Terminologie beschreibt die Anzahl der führenden Nullbits als die Größe seiner „Kollision“. Aufgrund der Eigenschaften von SHA-1 ist die einzige Möglichkeit, eine Zeichenkette mit einer großen Kollisionsgröße zu finden, eine erschöpfende Suche: man probiert eine Variante nach der anderen aus, bis man Glück hat. „
+
+Zum Beispiel der SHA1-Hash der Hashcash-Zeichenfolge 1:20:040806:foo::65f460d0726f420d:13a6b8 ergibt eine Zeichenkette mit fünf führenden Nullen: 00000f91d51a9c213f9b7420c35c62b5e818c23e
+Die führende Anzahl von Nullen in einer gehashten Hashcash-Zeichenkette zeigt an, wie wertvoll die Hashcash-Zeichenkette ist. Da es keinen anderen Weg als Brute-Force gibt, korreliert die Anzahl der Nullen direkt mit den Produktionskosten, die im digitalen Bereich die Kosten für die Berechnung sind.
+
+Im Wesentlichen nutzt Hashcash die Tatsache, dass Berechnungszyklen Zeit und reale Ressourcen kosten. Back schlug vor, dass die Einführung des elektronischen Äquivalents einer Briefmarke über Hashcash sein Hauptanwendungsfall sein könnte. Während die Bekämpfung von E-Mail-Spam an erster Stelle zu stehen schien, schlug er auch vor, dass es als digitales Bargeld verwendet werden könnte und ging so weit, einen Migrationspfad zu skizzieren, der zur Integration in Chaums Ecash führen könnte. Auch wenn sich der Proof-of-Work-Algorithmus von Bitcoin leicht von dem von Hashcash unterscheidet (er verwendet z. B. Doppel-SHA256 anstelle von SHA1), bleibt die Idee dieselbe: Die Berechnung eines Hashes ist nicht möglich, ohne Bits zu flippen, was wiederum nicht möglich ist, ohne Zeit und Energie zu verbrauchen. Hashcash nutzt die eigentümliche Eigenschaft unseres Universums aus, dass jede Berechnung, also jede Veränderung eines Systems, Energie erfordert. Mit anderen Worten: Man kann die Physik nicht austricksen. Berechnungen werden niemals kostenlos sein.
+
+Die Genialität von Hashcash bestand darin, Rechenfunktionen zu finden und zu beschreiben, bei denen die Berechnung teuer, die Überprüfung aber billig ist. Sie können sich Hashcash-Rätsel wie das Lösen von Sudokus oder Zauberwürfeln vorstellen: schwer zu lösen, leicht zu überprüfen. Während verschiedene Hashcash-Implementierungen verwendet wurden, um Spam zu verhindern, wurde das Konzept nicht allgemein auf Währungen angewendet, bevor Satoshi es in Bitcoin verwendete.
+
+Bit gold (Nick Szabo, 1998)
+Aufbauend auf der Arbeit von Adam Back und Hal Finney kann „Bitgold“ als direkter Vorgänger von „Bitcoin“ beschrieben werden. Obwohl das System nie implementiert wurde, ist die Art und Weise, wie Szabo es sich in der Theorie vorstellte, der Funktionsweise von Bitcoin in der Realität bemerkenswert ähnlich.
+
+Der Zweck von Bitgold war, wie der Name schon sagt, ein digitales, von jeder zentralen Autorität unabhängiges Geldgut zu schaffen, das wiederum als Wertaufbewahrungsmittel verwendet werden kann – genau wie Gold in der physischen Welt. Szabo schreibt: „Das Ziel, für das ich energisch eintrat, war die Schaffung eines langfristigen Wertaufbewahrungsmittels, das von jeder zentralen Behörde unabhängig ist und dennoch weitaus sicherer ist als traditionelles Gold.“
+
+„Edelmetalle und Sammlerstücke sind aufgrund der Kostspieligkeit ihrer Herstellung von unvorhersehbarer Knappheit. […] Es wäre also sehr schön, wenn es ein Protokoll gäbe, mit dem fälschungssichere, kostbare Bits online mit minimaler Abhängigkeit von vertrauenswürdigen Dritten erstellt und dann sicher gespeichert, übertragen und geprüft werden könnten und zwar mit ähnlich minimalem Vertrauen.“
+
+NICK SZABO
+Ein Punkt, den Szabo immer wieder anspricht, ist, dass physisches Gold verschiedene Probleme hat und im Vergleich zu Lösungen, die in der Kryptografie verwurzelt sind, ziemlich unsicher ist. Die Lagerung zum Beispiel ist nur so sicher wie die Türen und Wände, die es schützen. Und am Ende kann immer jemand einbrechen und es mitnehmen. Das Gleiche gilt für den Transport. Man kann es nicht sicher verschicken, ohne außerordentliche Anstrengungen zu unternehmen – und egal wie groß die Anstrengungen sind, irgendjemand kann es immer in die Finger bekommen. Selbst die Validierung ist problematisch, wie eine Vielzahl von „Gold“-Barren beweist, die überwiegend aus Blei oder Wolfram bestehen. Mit der Zeit führen diese Unzulänglichkeiten des Goldes unweigerlich zu einer Zentralisierung in Tresoren und Banken, die ihre eigenen Probleme mit sich bringt.
+
+„Bitgold erreicht alle wesentlichen Eigenschaften von Gold, vermeidet aber die Sicherheitsmängel von Gold, die die Zivilisation seit Jahrtausenden plagen.“
+
+NICK SZABO
+Der beabsichtigte Zweck von Bitgold ist nicht das Einzige, das Bitcoinern heutzutage wohlbekannt sein dürfte. Die Art und Weise, wie das System funktionieren sollte, wird ihnen ebenfalls vertraut sein. Zugegeben, es gibt einige entscheidende Unterschiede, aber die Grundidee ist doch erschreckend ähnlich.
+
+Die folgenden sieben Schritte sind direkt aus dem Bitgold-Papier übernommen und skizzieren, wie das System funktionieren sollte:
+
+Es wird eine öffentliche Zeichenfolge aus Bits, die „Challenge String“, erstellt (siehe Schritt 5).
+Alice erzeugt auf ihrem Computer aus den Challenge-Bits mit Hilfe einer Benchmark-Funktion den Proof-of-Work-String.
+Der Arbeitsnachweis wird sicher mit einem Zeitstempel versehen. Dies sollte in einer verteilten Art und Weise funktionieren, mit mehreren verschiedenen Zeitstempeldiensten, so dass man sich nicht wesentlich auf einen bestimmten Zeitstempeldienst verlassen muss.
+Alice fügt den Challenge-String und den zeitgestempelten Proof-of-Work-String zu einem verteilten Register für Eigentumstitel bei Bitgold hinzu. Auch hier ist kein einzelner Server maßgeblich für den ordnungsgemäßen Betrieb des Registers verantwortlich.
+Der zuletzt erstellte String aus Bitgold liefert die Challenge-Bits für den nächsten erstellten String.
+Um zu verifizieren, dass Alice der Eigentümer eines bestimmten Bitgold-Strings ist, überprüft Bob die fälschungssichere Kette aus Titeln im Bitgoldtitel-Register.
+Um den Wert eines Strings aus Bitgold zu überprüfen, prüft und verifiziert Bob die Challenge-Bits, die Proof-of-Work-Zeichenkette und den Zeitstempel.
+Es gibt zwei entscheidende Unterschiede zwischen dem Ansatz von Szabo und Bitcoin. Der erste ist, dass Bitgold zwei separate Register benötigt: eines für die Aufzeichnung von Zeitstempeln (um zu vermerken, wann das Bitgold erstellt wurde) und eines für die Aufzeichnung von Eigentumstiteln (um zu sehen, wem das Bitgold gehört). Die zweite ist, dass Bitgold auf Benchmark-Funktionen (im Gegensatz zu Einweg-Funktionen) beruhen soll, um einen Arbeitsnachweis zu erzeugen. Benchmark-Funktionen sind von Szabo vorgeschlagene Funktionen, die rechnerisch stabil sind, d. h. eine Reihe von Funktionen, die einen ähnlichen Schwierigkeitsgrad unter allen Minern beibehalten. Er hat beträchtliche Anstrengungen unternommen, um diese Funktionen zu definieren und zu erforschen und versucht, mathematische Beweise zu formulieren, dass jede Berechnung mindestens eine bestimmte Zeit in Anspruch nimmt, egal welche Computerarchitektur verwendet wird. Da Computer jedoch immer schneller werden, bemerkte er, dass es schwierig sein wird, eine solche Funktion zu finden: „Ein potenzielles großes Problem bleibt: […] Der Welt fehlt ein kryptoanalytisch stabiles Problem.“
+
+Das Fehlen einer stabilen Benchmark-Funktion führt zu einer Vielzahl von Problemen: Ältere „Coins“, die von Nutzern erstellt wurden, würden einen anderen Wert haben als neuere, da Computer mit dem technischen Fortschritt schneller werden. Somit hätten zwei verschiedene Coins – oder Strings aus Bitgold, wie Szabo sie nennt – nicht den gleichen Wert. Wenn Moore’s Law etwas aussagt, könnte ein Coin, der zwei Jahre älter ist als ein anderer, als doppelt so wertvoll angesehen werden, weil die Verdoppelung der Rechenleistung die Prägung des neueren Coins doppelt so einfach macht. Ein weiteres Problem ist, dass – wenn Bitgold wertvoll genug wird – rechnerische Durchbrüche von denen, die sie gemacht haben, geheim gehalten werden könnten, so dass gültige Strings von Bitgold angehäuft und auf dem Markt mit einem Aufschlag verkauft werden können. Dies würde das Inflationsproblem verschärfen, welches ein weiteres Problem ist, das Szabo identifiziert, aber nicht gelöst hat.
+
+Darüber hinaus hat Szabo die Probleme früherer Ansätze wie Hashcash und MicroMint richtig erkannt: (1) ihr Wert war von einer zentralen Autorität abhängig, (2) die von ihnen verwendeten Hash-Funktionen sind kryptografisch angreifbar, d. h. es fehlt ihnen an kryptoanalytischer Stabilität. Wie oben beschrieben, ist das letztere Problem bei Bitgold immer noch vorhanden.
+
+b-money (Wei Dai, 1998)
+Wie Szabos Bit-Gold wurde auch Wei Dais B-Money nie implementiert. Es blieb ein theoretischer Vorschlag, wie ein monetäres Protokoll funktionieren könnte. Während Bitcoin eine funktionierende Implementierung der Vision ist, die b-money skizziert, scheint es, dass Satoshi b-money nicht kannte, als er das Kerndesign von Bitcoin entwarf. Wie Wei Dai in einer Antwort auf einen LessWrong-Artikel schrieb: „Nach meinem Verständnis hat der Schöpfer von Bitcoin […] nicht einmal meinen Artikel gelesen, bevor er die Idee selbst neu erfand. Er hat erst danach davon erfahren und mich in seinem Artikel gewürdigt. Meine Verbindung mit dem Projekt ist also ziemlich begrenzt.“ Im Jahr 2013 kommentierte Adam Back dies und erwähnte, dass er Satoshi Wei Dais B-Money vorstellte, nachdem Satoshi sich an ihn gewandt hatte.
+
+In seinem Vorschlag ist Dai sehr freimütig, was die Motivation seines Systems angeht. Er zitiert Tim Mays Ideen rund um die Krypto-Anarchie und schreibt, dass „in einer Krypto-Anarchie die Regierung nicht vorübergehend zerstört wird, sondern dauerhaft verboten und dauerhaft unnötig ist. Es ist eine Gemeinschaft, in der die Androhung von Gewalt unmöglich ist, weil Gewalt ausgeschlossen ist, und Gewalt ist ausgeschlossen, weil ihre Teilnehmer nicht mit ihren wahren Namen oder physischen Orten in Verbindung gebracht werden können.“
+
+Dai beschreibt weiter ein System, bei dem jeder Teilnehmer eine eigene Datenbank darüber unterhält, wie viel Geld jedem Benutzer gehört. Benutzer werden durch Pseudonyme (öffentliche Schlüssel) identifiziert, Geldeinheiten werden in Relation zum Rechenaufwand erzeugt, Geld wird durch das Unterschreiben von Nachrichten übertragen und Verträge werden vom Protokoll automatisch ausgeführt. Er beschreibt – im Geiste, aber nicht im Detail – wie Bitcoin heute funktioniert.
+
+Er skizziert fünf Dinge, die notwendig sind, damit ein solches System funktioniert:
+
+Die Erschaffung von Geld
+Der Transfer von Geld
+Das Zustandekommen von Verträgen
+Das Abschließen von Verträgen
+Das Durchsetzen von Verträgen
+Während B-Money viele der Probleme löst, die dem elektronischen Geld innewohnen, bleibt das von Szabo in Bitgold beschriebene Problem bestehen. Dai erwähnt dies in seinem Vorschlag wie folgt: „Einer der problematischeren Teile im B-Money-Protokoll ist die Geldschöpfung. Dieser Teil des Protokolls erfordert, dass alle Kontoinhaber über die Kosten bestimmter Berechnungen entscheiden und sich darauf einigen. Da die Computertechnologie unglücklicherweise dazu neigt, sich schnell und nicht immer öffentlich weiterzuentwickeln, können diese Informationen nicht verfügbar, ungenau oder veraltet sein, was alles zu ernsthaften Problemen für das Protokoll führen würde.“
+
+Dai schlägt eine Lösung für dieses Problem vor, indem er ein Unterprotokoll beschreibt, das allein für die Geldschöpfung zuständig ist. Die Teilnehmer würden sich in regelmäßigen Abständen darauf einigen, wie viel Geld geschaffen werden soll und gemeinsam in einem marktgesteuerten Zyklus arbeiten, der aus vier Schritten besteht: Planung, Bieten, Berechnen und Schaffen. Da B-Money nie in der von Dai vorgeschlagenen Form implementiert wurde, ist es unklar, ob dieses ausgeklügelte Geldschöpfungsschema wie beabsichtigt funktioniert hätte.
+
+RPOW – Reusable Proofs of Work (Hal Finney, 2004)
+Wie der Name schon sagt, hat Hal Finney einen Weg gefunden, die Proof-of-Work-Tokens von Adam Backs Hashcash wiederverwendbar zu machen.
+
+Im Folgenden wird beschrieben, wie es funktioniert, wobei die ursprüngliche Ankündigung von Hal Finney selbst paraphrasiert wird: Das System erhält Hashcash als Proof-of-Work (POW) Token und erstellt im Austausch RSA-signierte Token, die als wiederverwendbare Proof-of-Work (RPOW) Token bezeichnet werden. RPOWs können dann von Person zu Person übertragen werden und bei jedem Schritt gegen neue RPOWs ausgetauscht werden. Jeder RPOW-Token kann nur einmal verwendet werden, aber da er einen neuen hervorbringt, ist es so, als ob der gleiche Token von Person zu Person weitergegeben werden kann.
+
+Das Eigentum an RPOW wird über vertrauensminimierte Server übertragen.
+Im Wesentlichen kann ein Benutzer RPOW-Token über die RPOW-Client-Software erstellen, die einen Proof-of-Work-String nimmt, wie er von der von Adam Back erfundenen Hashcash-Software erzeugt wird. Diese Zeichenkette wird mit dem privaten Schlüssel des Benutzers signiert und anschließend von einem RPOW-Server registriert, wobei aufgezeichnet wird, dass dieser Token zum öffentlichen Schlüssel des Benutzers gehört. Der Benutzer kann dann diesen Token an jemand anderen weitergeben, indem er einen „Transferauftrag“ an den öffentlichen Schlüssel eines anderen Benutzers signiert. Der Server registriert dann ordnungsgemäß den Token als zu dem entsprechenden privaten Schlüssel gehörend.
+
+Wie beim Studium seiner Schriften deutlich wird, hat sich Hal Finney von der Arbeit von Nick Szabo inspirieren lassen und darauf aufgebaut, vor allem auf dessen Ideen rund um „Bitgold“ und digitale Sammlerstücke. In Bezug auf mögliche Anwendungen von RPOW schreibt Hal: „Der Sicherheitsexperte Nick Szabo hat den Begriff Bitgold für Informationsobjekte geprägt, die nachweislich kostspielig zu erstellen sind. Er schlägt vor, dass diese sogar als Grundlage für eine Art Zahlungssystem dienen könnten, das in der Datenwelt die Rolle von Gold in der physischen Welt übernimmt. RPOW würde die Verwendung von POW-Tokens als eine Form von Bitgold erleichtern, indem die Token von Person zu Person weitergegeben und ausgetauscht werden können. „
+
+Hals Implementierung war eine praktische Lösung für ein Problem, das Proof-of-Work-Tokens innewohnt, nämlich dass die POW-Tokens selbst nicht besonders gut als Geld zu gebrauchen sind. POW-Token sind nur Hashes – Bits von Informationen – die doppelt ausgegeben werden können. Mit dem Konzept der RPOW-Server führte Hal zentrale, aber vertrauensminimierte Autoritäten ein, die kryptographisch eine Kette von Besitzverhältnissen bestimmen können. Dies ermöglicht die Wiederverwendung von Proof-of-Work-Token, wenn auch in einer begrenzten, sequentiellen Weise.
+
+Obwohl die RPOW-Architektur hierarchisch ist, d. h. ihre Clients auf spezialisierte Server angewiesen sind, ist das Vertrauen, das die Benutzer in einen RPOW-Server haben müssen, minimiert. Dies ist möglich, weil die RPOW-Server-Software auf einem IBM 4758 Secure Cryptographic Coprocessor läuft, einer hochsicheren, manipulationssicheren PCI-Karte, die kryptographisch sicherstellt, dass die auf dem Server laufende Software diejenige ist, die veröffentlicht und geprüft wurde. Dies macht jeden RPOW-Server zu einem System, dessen Sicherheitseigenschaften von jedem analysiert und bewertet werden können. Mit anderen Worten: Ein RPOW-Server ist ein transparenter Server, was das RPOW-System als Ganzes vertrauensminimierend macht. Jeder kennt den Code, der das System zum Funktionieren bringt, ebenso wie die geltenden Regeln.
+
+„Wir kennen den Quellcode. Wir kennen die Regeln.“
+
+HAL FINNEY
+Was genau sind also die Regeln des RPOW-Systems? Laut seinem Erfinder lauten sie wie folgt:
+
+Keine Inflation
+Keine Hintertürchen
+Schutz der Privatsphäre
+Die Keine-Inflatios-Regel muss in Bezug auf die vom System selbst aufgestellten Einschränkungen verstanden werden, d.h. dass jeder RPOW-Server nur RPOW-Token im Wert der eingehenden POW- und RPOW-Token erzeugen wird. Da Benutzer neue Proof-of-Work-Token über Adam Backs Hashcash erstellen können, kann und wird es immer zu einer Inflation in Bezug auf neues Angebot kommen, das in das System gelangt.
+
+„Um die Keine-Inflations-Regel durchzusetzen, muss der RPOW-Server dafür sorgen, dass kein POW oder RPOW mehr als einmal als Teil eines Austauschs verwendet werden kann. Jeder POW wird erstellt und dann auf dem Server gegen einen neuen RPOW ausgetauscht, und danach kann der alte nie wieder verwendet werden. Der RPOW-Server setzt diese Regel in erster Linie dadurch durch, dass er eine Aufzeichnung aller RPOWs und POWs führt, die er in der Vergangenheit gesehen hat. Wenn ein RPOW zum Tausch angeboten wird, vergleicht der RPOW-Server ihn mit dieser Datenbank der bereits gesehenen RPOWs. Wenn er in der Liste enthalten ist, handelt es sich um einen Versuch, den POW oder RPOW wiederzuverwenden, und die Tauschanfrage wird abgelehnt. Wenn der POW oder RPOW nicht auf der Liste steht, wird er der Liste hinzugefügt und dann signiert der RPOW-Server den als Teil des Austauschs gelieferten Bignum-Wert und erstellt einen neuen RPOW.“
+
+Die Regel „keine Hintertüren“ bezieht sich auf die Transparenz des Systems. Jeder kann jederzeit einsehen, wie es funktioniert, es gibt keine versteckten Teile.
+
+Die Regel „Schutz der Privatsphäre“ ist eine interessante. Hal schrieb ausführlich darüber, dass der Schutz der Privatsphäre eine inhärent wünschenswerte Eigenschaft ist. Er befürwortet die Verwendung von TOR, um sich mit den RPOW-Servern zu verbinden und diskutiert sowohl Angriffsvektoren (Linkage-Angriffe) als auch Verbesserungen wie die Verwendung von Blindsignaturen. In seinen Schriften weist er noch auf zwei weitere Dinge hin: (1) der „Besitzer ist der Feind“, und (2) der „Programmierer ist der Feind“, was uns daran erinnert, dass jedes System, das den vertrauensminimierten Austausch von Geld ermöglicht, unter einer feindseligen Denkweise eingerichtet werden und funktionieren muss.
+
+Neben Hashcash war RPOW eines der Systeme, die tatsächlich implementiert wurden. Doch wahrscheinlich wegen des Aufwands, der für den Betrieb von RPOW-Servern erforderlich ist, sowie wegen fehlender Anreize, dies zu tun, gewannen Finneys wiederverwendbare Proof-of-Work-Token nie an Zugkraft und das Projekt wurde schließlich eingestellt.
+
+Satoshis Durchbruch
+„Ich hoffe, es ist offensichtlich, dass es nur die zentral gesteuerte Natur dieser Systeme war, die ihnen zum Verhängnis wurde.“
+
+Satoshi Nakamoto
+Am 11. Februar 2009 postete Satoshi eine Ankündigung in den Foren der P2P Foundation. Die P2P Foundation untersucht die Auswirkungen der Peer-to-Peer Technologie und des Denkens auf die Gesellschaft und beschreibt sich selbst als “ Die Stiftung für Peer-to-Peer Alternativen.“ Es war also ein sehr passender Ort, um die Erfindung eines Peer-to-Peer-Geldes wie Bitcoin anzukündigen.
+
+In seiner Ankündigung beschreibt Satoshi Bitcoin als ein „P2P-E-Cash-System“, das „keinen zentralen Server oder vertrauenswürdige Parteien“ hat, weil „alles auf Kryptobeweisen statt auf Vertrauen basiert.“
+
+Satoshis originale Ankündigung von Bitcoin
+Er identifiziert mehrere Probleme mit unserem gegenwärtigen Geldsystem und den konventionellen Währungen, die in diesem System beheimatet sind:
+
+Vertrauen in Dritte
+Währungsabwertung durch Zentralbanken
+Kreditblasen
+Mindestreserve-Bankwesen
+Datenschutz
+Fehlen von Micropayments aufgrund von Overhead-Kosten
+Mittelsmänner
+Schon ein Blick auf diese Liste zeigt den enorm ambitionierten Umfang von Bitcoin. Satoshi hat sich nicht vorgenommen, ein Problem zu lösen. Er hat sich vorgenommen, viele Probleme auf einmal zu lösen. Erstaunlicherweise hat er von Anfang an so viele Dinge richtig gemacht, dass er tatsächlich in der Lage war, die meisten davon zu lösen. Alles, was er tun musste, war, andere davon zu überzeugen, dass seine Lösung tatsächlich funktionierte.
+
+Da er sein Publikum bestens kennt, weist er darauf hin, wie ähnliche Vertrauensprobleme in der Welt der Computersysteme im Allgemeinen gelöst wurden, d. h. wie die starke Kryptographie dafür sorgte, dass man den Systemadministratoren nicht mehr seine Daten anvertrauen musste. Sobald Ihre Dateien verschlüsselt sind, muss man demjenigen, der Zugriff auf diese Dateien hat, nicht mehr vertrauen, da er das Passwort benötigt, um sie zu entschlüsseln. Mit anderen Worten: Wir sind vom Vertrauen in den Menschen zum Vertrauen in die Mathematik übergegangen. Dies ist besonders in einer Peer-to-Peer-Umgebung relevant, denn dank starker Kryptografie kann man vertrauliche Daten mit anderen austauschen – auch mit seinem zukünftigen Ich – ohne sich auf irgendwelche Mittelsmänner verlassen zu müssen.
+
+„Es ist an der Zeit, dass wir das Gleiche für Geld haben.“
+
+SATOSHI NAKAMOTO
+Um Satoshis Durchbruch besser zu verstehen, wollen wir rekapitulieren, was vorher möglich war und wo andere Systeme versagten. Nachfolgend sehen wir, was vor Bitcoin bereits möglich war:
+
+Kontoerstellung über Public-Key-Kryptographie
+Nicht fälschbare kostbare Token über Proof-of-Work
+Eigentumsnachweis über digitale Signaturen
+Weitergabe von Proof-of-Work-Tokens über Signaturketten
+Und hier sehen wir, was nicht möglich war:
+
+Verhindern von Doppelausgaben ohne vertrauenswürdige Drittpartei
+Begrenzung des Angebots ohne vertrauenswürdige Drittpartei
+Für Satoshi war es offensichtlich, dass jedes zentral gesteuerte System von den Regierungen abgeschaltet werden würde. Daher hatte das System, das er aufbauen wollte, vor allem ein Ziel: Dezentralisierung.
+
+„Regierungen sind gut darin, zentral gesteuerten Netzwerken wie Napster den Kopf abzuschlagen, aber reine P2P-Netzwerke wie Gnutella und Tor scheinen sich zu behaupten.“
+
+SATOSHI NAKAMOTO
+Das obige Zitat fasst sehr schön zusammen, warum Dezentralisierung so wichtig ist: Es gibt keine Köpfe, die man abschlagen kann, keine CEOs, die man verhaften kann, keine Führungskräfte, die man erpressen oder unter Druck setzen kann, keine einzelne Gruppe von Leuten, die man vorladen kann, keine Server, die man abschalten kann. Mit anderen Worten: Dezentralisierung maximiert das Überleben.
+
+Ein zentraler Punkt in einem beliebigen System macht es verwundbar und damit anfällig für Angriffe. Ein ausreichend motivierter Angreifer wird diese Schwachstellen finden und ausnutzen. Und wenn es um Geld geht, hat der Staat alle Motivation der Welt, ein konkurrierendes System auszuschalten. Dies – und nur dies – ist der Grund, warum das Design von Bitcoin so kompliziert und aufwendig ist. Seine anreizgesteuerte Architektur begünstigt vor allem eines: das Überleben. Weil man alle Teile davon gleichzeitig zerstören müsste, ist ein radikal dezentrales System extrem widerstandsfähig gegen jede Art von Störung.
+
+Während frühere Versuche – insbesondere Bitgold, B-Money und RPOW – dem letztendlichen Design von Bitcoin recht nahe kamen, hatten alle Systeme mindestens einen der folgenden Fehler:
+
+Erfordernis eines zentralen Eigentumsregisters, um Doppelausgaben zu verhindern
+Abhängig des Wertes der Coins von einer zentralen Stelle
+Kontrollierte Ausgabe nur durch eine zentrale Stelle möglich
+Instabile Proof-of-Work-Funktion (rechentechnisch gesehen)
+Bis auf den letzten sind alle diese Punkte Schwachstellen, weil sie einen zentralisierten Körper erfordern, der einen Kopf freilegt, der von Regierungen abgeschnitten werden könnte. Satoshis Genialität war die Entfernung aller Köpfe, einschließlich seines eigenen.
+
+Das Hauptproblem des Geldes in der digitalen Welt besteht aus zwei Aspekten: Knappheit und Doppelausgabe. Obwohl sie offensichtlich zusammenhängen – man kann keine digitale Knappheit haben, ohne das Problem der Doppelausgabe zu lösen – sind sie nicht genau das Gleiche. Satoshi löste beide Probleme auf einmal, indem er ein Peer-to-Peer-Netzwerk als dezentrales Register verwendete, eine globale Timechain zur Synchronisierung des Zustands nutzte und die Schwierigkeit des Puzzles dynamisch anpasste, um kryptoanalytische Stabilität zu erreichen – was eine vorhersehbare Rate der Geldausgabe möglich machte.
+
+Außerdem kombinierte er den Prozess der Ausgabe, der Übertragung und der Verifizierung, wodurch die Notwendigkeit einer vertrauenswürdigen dritten Partei entfällt. Das Geniale an Bitcoin ist, dass jeder Knoten jederzeit alles für sich selbst verifizieren kann. Um Hal Finney zu paraphrasieren: „Du kennen den Quellcode. Du kennst die Regeln.“
+
+Satoshi war in der Lage, alle Funktionen von Wei Dais B-Money zu dezentralisieren (Geldschöpfung und -transfer; Zustandekommen, Abschluss und Durchsetzung von Verträgen) und gleichzeitig die Probleme von Szabos „Bit-Gold“ zu lösen (Wert der Coins abhängig von einer zentralen Autorität; Hash-Funktionen mangelnde kryptanalytische Stabilität). Er tat dies, indem er Hal Finneys Idee von wiederverwendbaren Proof-of-Work-Tokens auf die nächste Stufe brachte, indem er einen digitalen Vermögenswert schuf, der sowohl fungibel ist als auch eine hohe fälschungssichere Kostbarkeit hat. Wie RPOW vor ihm, hat das resultierende System keine Inflation, keine Hintertürchen und schützt die Privatsphäre seiner Nutzer.
+
+Es ist hilfreich, sich die verschiedenen Funktionen eines Finanz- oder Bankensystems anzuschauen, um zu verstehen, warum Bitcoin so funktioniert, wie es funktioniert. Im Wesentlichen muss ein solches System in der Lage sein, das Folgende zu tun:
+
+Kontoerstellung
+Benutzer müssen in der Lage sein, Konten zu erstellen und sich zu authentifizieren.
+Besitz aufzeichnen
+Das System muss in der Lage sein, aufzuzeichnen, wer was besitzt.
+Besitz nachweisen
+Es ist eine Art Zertifizierung erforderlich, um zu bestätigen, dass ein Benutzer tatsächlich Eigentümer des Assets ist, damit der Benutzer diese Tatsache sich selbst und anderen gegenüber nachweisen kann.
+Besitzrecht übertragen
+Benutzer müssen in der Lage sein, die Eigentümerschaft von Assets zu übertragen.
+Sicherheit
+Das System muss sicherstellen, dass die Eigentumsaufzeichnungen, das Computernetzwerk und die Benutzerdaten sicher sind.
+Darüber hinaus ist es bei monetären Systemen wünschenswert, Folgendes zu erreichen:
+
+Knappheit
+Das Geld sollte schwer zu produzieren sein, d. h. es sollte eine fälschungssichere Kostbarkeit haben, wie von Nick Szabo beschrieben.
+Kontrollierte Ausgabe
+Neue Geldeinheiten sollten gleichmäßig und über einen langen Zeitraum ausgegeben werden, um eine organische Verteilung unter den Teilnehmern zu ermöglichen.
+Überprüfbarkeit
+Unabhängige Dritte sollten in der Lage sein, das Angebot (sowie die Sicherheit des Systems) zu überprüfen.
+Satoshi fand einen Weg, alle oben genannten Funktionen zu dezentralisieren, indem er eine Mischung aus Peer-to-Peer-Technologie, Kryptographie, Wahrscheinlichkeiten, Spieltheorie, Physik und wirtschaftlichen Anreizen verwendete. Mit anderen Worten: Dank der Universalität der Gesetze der Mathematik und Physik war Satoshi in der Lage, ein nicht-lokales System aufzubauen.
+
+Um konkreter zu werden, wollen wir uns diese Eigenschaften genauer ansehen und wie Bitcoin es schafft, sie dezentral zu implementieren:
+
+Kontoerstellung
+Dank der Public-Key-Kryptographie kann die Erstellung von Benutzerkonten vollständig dezentralisiert werden. Jeder kann zu jeder Zeit ein oder mehrere Schlüsselpaare erstellen, um mit dem Bitcoin-System zu interagieren. Es gibt keine Anmeldeformulare, keine zentralen Behörden, die Anträge genehmigen oder ablehnen, keine Server, die für die Anmeldungen zuständig sind. Im Wesentlichen ist das Erstellen eines Kontos in Bitcoin nur eine Frage der Generierung einer großen Zufallszahl. Man kann sogar ein paar Mal eine Münze schnipsen oder ein Paar Würfel werfen, solange man weiß, was man tut (und die Würfel und Münzen fair geworfen sind).
+Aufzeichnung des Besitzes
+In Bitcoin hat jede Full Node eine Kopie der Eigentumsaufzeichnungen. Dieser radikale Ansatz ist ein einfacher Weg, um eine zentralisierte Registerstelle zu eliminieren und für das Überleben zu optimieren: Man kann die Registerstelle nicht abschalten, wenn jeder die Registerstelle ist.
+Nachweis des Besitzes
+Wie andere Systeme vor ihm, verwendet Bitcoin kryptographische Signaturen, um den Besitz zu beweisen. Wenn man den privaten Schlüssel hat, um eine Nachricht zu signieren, kann man beweisen, dass der zugehörige öffentliche Schlüssel sowie die mit diesem öffentlichen Schlüssel verknüpften Assets einem selbst gehören. Es wird keine zentrale Autorität benötigt, die Eigentumszertifikate aushändigt.
+Übertragung des Besitzrechts
+Das Besitzrecht wird über eine Kette von Signaturen übertragen, genau wie in Hal Finneys RPOW-System. Anders als bei RPOW sind keine zentralen Server erforderlich, da die Kette der Eigentümerschaft von jedem vollständigen Knoten gehostet (und validiert) wird.
+Sicherheit
+Bitcoin ist auf viele verschiedene Arten gesichert, die alle auf Kryptographie in der einen oder anderen Form beruhen, die sich wiederum auf die Macht unvorstellbar großer Zahlen stützt. Die Wahrscheinlichkeit, dass jemand deinen privaten Schlüssel oder eine deiner Adressen errät, ist praktisch Null, genauso wie die Wahrscheinlichkeit, dass jemand den Hash eines gültigen Blocks findet, ohne die notwendige Brute-Force-Arbeit zu machen. Die Kombination aus starker Kryptographie und der kumulativen Energie, die von Minern aufgewendet wird, sichert sowohl das Vermögen der Benutzer als auch die Integrität des Netzwerks. Das System selbst wurde noch nie gehackt, was es zum sichersten Computernetzwerk aller Zeiten macht. Bitcoin kann nur an den Schnittstellen sinnvoll angegriffen werden, z. B. können private Schlüssel von einzelnen Nutzern oder Verwahrern gestohlen werden.
+Knappheit
+Weil Bitcoin die erste praxiserprobte, dezentrale Lösung für das Problem der Doppelausgabe ist, machte es digitale Knappheit zum ersten Mal möglich. Satoshi hätte jede Endinflationsrate wählen können, aber er wählte eine Endinflationsrate von Null. Das Ergebnis: 21 Millionen Bitcoin, kein einziger mehr. Was das für Bitcoin und die Welt im Allgemeinen bedeutet, wird in Kapitel 7 erforscht.
+Kontrollierte Ausgabe
+Aufgrund der Schwierigkeitsanpassung von Bitcoin ist eine kontrollierte Ausgabe auf dezentrale Weise möglich. Die Schwierigkeitsanpassung ist es, die das Problem der kryptoanalytischen Instabilität löst, wie Satoshi im Whitepaper betont: „Um die zunehmende Geschwindigkeit der Hardware und das unterschiedliche Interesse an laufenden Knoten im Laufe der Zeit zu kompensieren, wird die Proof-of-Work-Schwierigkeit durch einen gleitenden Durchschnitt bestimmt, der auf eine durchschnittliche Anzahl von Blöcken pro Stunde abzielt. Wenn diese zu schnell generiert werden, erhöht sich die Schwierigkeit.“ Während der Reward-Ära des Netzwerks, die etwa im Jahr 2140 enden wird, werden mit jedem gültigen Block, also etwa alle zehn Minuten, neue Bitcoins in die Wirtschaft gelangen. Der Vorrat von Bitcoin war bei seiner Gründung vorbestimmt, und das ist wohl die wertvollste Eigenschaft von Bitcoin. Kein anderer Vermögenswert hat, was Bitcoin hat: einen unveränderlichen Angebotsplan, der nicht diskutiert werden kann.
+Kurz gesagt, die Mathematik ermöglicht die Dezentralisierung aller wesentlichen Funktionen des Systems und die Gesetze der Thermodynamik ermöglichen starke Sicherheitsgarantien. Außerdem sind wirtschaftliche Anreize und die Spieltheorie der Klebstoff, der alles zusammenhält.
+
+„Das Ergebnis ist ein verteiltes System ohne Single Point of Failure. Die Benutzer halten die Kryptoschlüssel zu ihrem eigenen Geld und handeln direkt miteinander, mit Hilfe des P2P-Netzwerks das zur Überprüfung von Doppelausgaben herangezogen wird.“
+
+SATOSHI NAKAMOTO
+Satoshi erkannte auch, dass der einzige Vermögenswert der realen Welt, der vertrauenslos mit einem Computersystem verbunden werden kann, Energie ist, nichts anderes. Jede andere Sache – egal ob Gold, Papierzertifikate, Immobilien oder Erdbeeren – erfordert aufgrund der inhärenten Trennung zwischen der digitalen und der physischen Welt wieder eine vertrauenswürdige dritte Partei. Jemand muss dafür sorgen, dass die realen Vermögenswerte und die digitale Darstellung dieser Vermögenswerte – im Wesentlichen eine Liste von Dingen – aktuell und synchron bleiben. Dies ist das so genannte Orakelproblem und Proof-of-Work löst es auf eine geniale, umständliche Weise: indem es Energie und damit Physik als Basiswahrheit verwendet. Man kann sich das Orakelproblem auch als eine Variante des GIGO-Prinzips vorstellen: Garbage In, Garbage Out (zu Deutsch: Müll rein, Müll raus). Man muss demjenigen, der die Aufzeichnungen führt, vertrauen, dass die Aufzeichnungen korrekt sind. Anders ausgedrückt: Man kann nie sicher sein, dass die vorliegenden Daten die Realität repräsentieren, es sei denn, die Realität ist in der Berechnung selbst verwurzelt.
+
+Eine äußerst zeitgemäße Idee
+„Man kann Ideen nicht vernichten, indem man sie unterdrückt. Man kann sie nur vernichten, indem man sie ignoriert. Indem man sich weigert zu denken, sich weigert zu verändern. Und das ist genau das, was unsere Gesellschaft tut!“
+
+Ursula K. Le Guin
+Wie wir durch die Untersuchung von Bitcoins Vorgeschichte feststellen können, sind Doppelausgaben und digitale Knappheit keine einfach zu lösenden Probleme. Satoshis Durchbruch bestand darin, einen Weg zu finden, diese beiden Probleme praktisch und nicht akademisch zu lösen. Das erste wird durch eine global geteilte Timechain gelöst, die durch eine konkurrierende Lotterie synchron gehalten wird, das zweite wird durch die Schwierigkeitsanpassung sowie die Halbierung der Blockbelohnung gelöst. Bitcoin nutzt die besten Ideen seiner Vorgänger (digitale Signaturen, wiederverwendbare Proof-of-Work, Peer-to-Peer-Netzwerke) und kombiniert sie auf geniale Weise, um etwas völlig Neues zu schaffen: ein dezentrales System ohne einen Single Point of Failure.
+
+Kein einzelner Teil von Bitcoin kann entfernt werden, ohne das Ganze zu zerstören. Ohne die Timechain gäbe es keinen dezentralen Weg, um Doppelausgaben zu überprüfen. Ohne die Halbierung der Blockbelohnung würde sich der Bestand an Bitcoin ins Unendliche vergrößern. Ohne die Schwierigkeitsanpassung hätte der Mining-Algorithmus keine kryptoanalytische Stabilität, was es für Miner trivial machen würde, Bitcoin schneller zu produzieren. Viele Cypherpunks träumten von digitalem Bargeld. Satoshi brachte diese Idee weiter als jeder andere vor ihm und implementierte ein System, das praktisch unaufhaltsam ist. Egal, was in den kommenden Jahrzehnten passiert, die Katze ist aus dem Sack und jeder wird sich an eine Welt anpassen müssen, in der Bitcoin existiert.
+
+Bitcoin ist eine Idee, deren Zeit gekommen ist. Selbst wenn Bitcoin aus irgendeinem Grund scheitern würde (und ich habe keinen Grund zu glauben, dass es das wird), wissen wir jetzt, wie wir die Probleme lösen können, die digitales Geld jahrzehntelang geplagt haben: Doppelausgaben und ein Mangel an nicht-arbiträrer Knappheit. Und das alles funktioniert, weil Satoshi herausgefunden hat, wie man die Zeit in einem dezentralen System festhalten kann.

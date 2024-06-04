@@ -1,0 +1,174 @@
+Enseñanzas filosóficas de Bitcoin
+Lo que he aprendido de Bitcoin: Parte I
+
+Algunas preguntas tienen respuestas fáciles. “¿Qué has aprendido de Bitcoin?” No es una de ellas. Después de intentar responder a esta pregunta en un breve tweet y fallar miserablemente, me di cuenta de que la cantidad de cosas que he aprendido son demasiadas para responder rápidamente, si es que puede responderse. También me di cuenta de que cualquier conjunto de respuestas a esta pregunta será diferente para todos: un reflejo del viaje personal a través del maravilloso mundo cripto. De allí, el subtítulo de esta serie es Lo que he aprendido de Bitcoin, con el cual quiero reconocer el sesgo personal inherente de responder una pregunta como esta.
+
+He intentado agrupar las enseñanzas de Bitcoin por temas, dando como resultado tres partes:
+
+Enseñanzas filosóficas de Bitcoin
+Enseñanzas económicas de Bitcoins
+Enseñanzas tecnológicas de Bitcoin
+Como se indicó anteriormente, intentar responder a esta pregunta completamente es una tarea de tontos, por lo que mis respuestas siempre serán incompletas. Me gustaría reducir este deficit invitándote, querido lector, a compartir tus propias respuestas a esta pregunta:
+
+“Bitcoin es un juego camuflado para enseñarte sobre:
+- La ética de la producción del dinero
+- La Historia sobre la banca central y el oro
+- El diseño de sistemas adversariales
+- Los mercados de productos básicos
+- Los sistemas de ingeniería distribuidos y ciclos de vidas de aplicaciones
+- La normativa sobre valores
+¿Qué has aprendido de Bitcoin?”
+Arjun Balaji
+
+Bitcoin es de hecho un juego disfrazado. Es similar a una trampilla, una puerta de entrada a un mundo diferente. Un mundo mucho más extraño de lo que jamás hubiera imaginado que sería. Un mundo que toma tus suposiciones y las rompe en mil pedazos minúsculos, una y otra vez. Quédate el tiempo suficiente y Bitcoin cambiará completamente tu visión del mundo.
+
+“Después de esto, no hay vuelta atrás. ¿Te tomas la píldora azul? -? La historia termina, te despiertas en tu cama y crees lo que quieras creer. ¿Te tomas la píldora roja? Te quedas en el País de las Maravillas y te muestro qué tan profundo va el agujero del conejo”.
+
+Morfeo
+
+
+Lección 1: Inmutabilidad y cambio
+Bitcoin es intrínsecamente difícil de describir. Es algo nuevo, y cualquier intento de establecer una comparación con conceptos anteriores, “ya sea llamándolo oro digital o Internet del dinero”, está destinado a quedarse corto. Cualquiera que sea tu analogía favorita, dos aspectos de Bitcoin son absolutamente esenciales: la descentralización y la inmutabilidad.
+
+Una forma de pensar sobre Bitcoin es como un contrato social automatizado. El software es solo una pieza del rompecabezas y la esperanza de cambiar Bitcoin cambiando el software es un ejercicio fútil. Uno tendría que convencer al resto de la red para que adoptase los cambios, y sería más un esfuerzo psicológico que uno de ingeniería de software.
+
+Lo siguiente puede parecer absurdo al principio, como tantas otras cosas en este espacio, pero creo que a pesar de ello, es profundamente cierto: no cambiarás Bitcoin, pero Bitcoin te cambiará a ti.
+
+“Bitcoin nos cambiará más de lo que nosotros lo cambiaremos”.
+
+— Marty Bent
+
+Tardé mucho tiempo en darme cuenta de la profundidad de esto. Ya que Bitcoin es sólo software y todo es de código abierto, simplemente podrías cambiar las cosas a voluntad, ¿no? Incorrecto. Muy incorrecto. Como era de esperar, el creador de Bitcoin sabía esto muy bien.
+
+“La naturaleza de Bitcoin es tal que una vez que se lanzó la versión 0.1, el diseño del núcleo se estableció en piedra durante el resto de su vida”.
+
+— Satoshi Nakamoto
+
+Muchas personas han intentado cambiar la naturaleza de Bitcoin. Hasta ahora todos ellos han fracasado. Si bien hay un mar interminable de bifurcaciones (forks) y altcoins, la red de Bitcoin todavía hace su trabajo, tal como lo hizo cuando el primer nodo se conectó. Las altcoins no importarán a largo plazo. Las bifurcaciones eventualmente morirán de hambre. Bitcoin es lo que importa. Mientras no se modifique nuestra comprensión fundamental de las matemáticas y/o la física, al tejón de miel de Bitcoin seguirá sin importarle.
+
+“Bitcoin es el primer ejemplo de una nueva forma de vida. Vive y respira en internet. Vive porque puede pagarle a la gente para mantenerlo vivo. […] No se puede cambiar. No se puede discutir con él. No puede ser manipulado. No se puede corromper. No se puede detener. […] Si una guerra nuclear destruyera la mitad de nuestro planeta, continuaría viviendo, sin corromperse”.
+
+— Ralph Merkle
+
+El latido del corazón de la red de Bitcoin superará a todos los nuestros.
+
+Darme cuenta de lo anterior me ha cambiado mucho más que los bloques de la cadena de bloques de Bitcoin vayan a cambiar. Cambió mi preferencia de tiempo, mi comprensión de la economía, mis puntos de vista políticos y mucho más. Demonios, incluso está cambiando las dietas de la gente. Si todo esto te parece una locura, estás en buena compañía. Todo esto es una locura y sin embargo está sucediendo.
+
+Bitcoin me enseñó que no va a cambiar. Yo cambiaré.
+
+Lección 2: La escasez de la escasez.
+En general, el avance de la tecnología parece hacer que las cosas sean más abundantes. Cada vez más personas pueden disfrutar de lo que antes eran productos de lujo. Pronto, todos viviremos como reyes. La mayoría de nosotros ya lo hacemos. Como escribió Peter Diamandis en Abundance: “La tecnología es un mecanismo liberador de recursos. Puede hacer que lo que antes era escazo ahora sea abundante.“
+
+Bitcoin, una tecnología avanzada en sí misma, rompe esta tendencia y crea un nuevo producto que es verdaderamente escaso. Algunos incluso argumentan que es una de las cosas más escasas del universo. El suministro no se puede inflar, no importa cuánto esfuerzo se elija gastar para crear más.
+
+“Solo dos cosas son realmente escasas: el tiempo y el bitcoin.”
+
+— Saifedean Ammous
+
+Paradójicamente, lo hace por un mecanismo de copia. Las transacciones se emiten, los bloques se propagan, el libro contable distribuido está, bueno lo adivinaste, distribuido. Todas estas son solo palabras extravagantes para copiar. Diablos, Bitcoin incluso se copia a sí mismo en tantas computadoras como sea posible, incentivando a personas individuales para que ejecuten nodos completos y extraigan nuevos bloques.
+
+Toda esta duplicación funciona maravillosamente en un esfuerzo concertado para producir escasez.
+
+En una epoca de abundancia, Bitcoin me enseñó qué es la verdadera escasez.
+
+Lección 3: Una concepción inmaculada
+Todo el mundo ama una buena historia fundacional. La historia del origen de Bitcoin es fascinante y los detalles son más importantes de lo que uno podría pensar al principio. ¿Quién es Satoshi Nakamoto? ¿Era una persona o un grupo de personas? ¿Era él una mujer? ¿Un extraterrestre viajando en el tiempo o una inteligencia artificial avanzada? Dejando de lado las teorías extravagantes, probablemente nunca lo sabremos. Y esto es importante.
+
+Satoshi eligió ser anónimo. Él plantó la semilla de Bitcoin. Se quedó el tiempo suficiente para asegúrarse de que la red no muriese en su infancia. Y luego desapareció.
+
+Lo que podría parecer un curioso truco de anonimato es realmente crucial para un sistema verdaderamente descentralizado. Que no haya control centralizado. Ni autoridad centralizada. Ni inventor. Nadie a quien procesar, torturar, chantajear o extorsionar. Una concepción inmaculada de la tecnología.
+
+“Una de las mejores cosas que hizo Satoshi fue desaparecer”.
+
+— Jimmy Song
+
+Desde el nacimiento de Bitcoin, se crearon miles de otras criptomonedas. Ninguno de estos clones comparte su historia de origen. Si desea reemplazar a Bitcoin, tendrá que trascender su historia original. En una guerra de ideas, las narrativas dictan la supervivencia.
+
+“El oro se convirtió en joyería por primera vez y se usó para el trueque hace más de 7.000 años. El brillo cautivador del oro lo llevó a ser considerado un regalo de los dioses”.
+
+— Oro: El Metal Extraordinario
+
+Como el oro en la antigüedad, Bitcoin podría considerarse un regalo de los dioses. A diferencia del oro, los orígenes de Bitcoin son demasiado humanos. Y esta vez, sabemos quiénes son los dioses del desarrollo y el mantenimiento: personas de todo el mundo, anónimas o no.
+
+Bitcoin me enseñó que las narraciones son importantes.
+
+Lección 4: el problema de la identidad
+Nic Carter, en un homenaje al tratamiento de Thomas Nagel de la misma pregunta con respecto a un murciélago, escribió una excelente pieza que analiza la siguiente pregunta: ¿Cómo es ser un bitcoin? Él muestra brillantemente que las cadenas de bloques públicas y abiertas en general, y Bitcoin en particular, sufren el mismo dilema que la Paradoja de Teseo: ¿cuál Bitcoin es el verdadero Bitcoin?
+
+“Considere cuánta poca persistencia tienen los componentes de Bitcoin. La base de código completa ha sido revisada, modificada y expandida de tal manera que apenas se parece a su versión original. […] El registro de quién posee qué, el propio libro de contabilidad, es virtualmente el único rasgo persistente de la red […]
+
+Para ser considerado verdaderamente sin líderes, debes renunciar a la solución fácil de tener una entidad que pueda designar una cadena como la legítima”.
+
+— Nic Carter
+
+Parece que el avance de la tecnología nos obliga a tomar en serio estas cuestiones filosóficas. Tarde o temprano, los autos que conducen por cuenta propia se enfrentarán a versiones reales del dilema del tranvía, lo que los obligará a tomar decisiones éticas sobre qué vidas son importantes y cuáles no.
+
+Las criptomonedas, especialmente desde la primera bifurcación contenciosa, nos obligan a pensar y acordar la metafísica de la identidad. Curiosamente, los dos ejemplos más grandes que tenemos hasta ahora nos han llevado a dos respuestas diferentes. El 1 de agosto de 2017 Bitcoin se dividió en dos campos. El mercado decidió que la cadena inalterada es el Bitcoin original. Un año antes, el 25 de octubre de 2016, Ethereum se dividió en dos. El mercado decidió que la cadena alterada es la Ethereum original.
+
+Si se descentraliza adecuadamente, las preguntas planteadas por la Paradoja de Teseo deberán responderse a perpetuidad mientras existan estas redes de transferencia de valor.
+
+Bitcoin me enseñó que la descentralización contradice la identidad.
+
+Lección 5: Replicación y localidad
+Dejando de lado la mecánica cuántica, la localidad no es un problema en el mundo físico. La pregunta “¿Dónde está X?” Se puede responder de manera significativa, sin importar si X es una persona o un objeto. En el mundo digital, la pregunta de dónde ya es difícil, pero no imposible de responder. ¿Dónde están realmente tus correos electrónicos? Una mala respuesta sería “la nube”, que es simplemente la computadora de otra persona. Sin embargo, si quisieras rastrear todos los dispositivos de almacenamiento que tienen tus correos electrónicos, podrías, en teoría, localizarlos.
+
+Con bitcoin, la pregunta de “dónde” es realmente difícil. ¿Dónde exactamente están tus bitcoins?
+
+“Abrí los ojos, miré a mi alrededor y pregunté lo inevitable, lo tradicional, la pregunta postoperatoria lamentablemente trillada: ‘¿Dónde estoy?’”
+
+— Daniel Dennett
+
+El problema se desdobla: primero, el libro mayor distribuido se distribuye por replicación completa, lo que significa que el libro mayor está en todas partes. En segundo lugar, no hay bitcoins. No solo físicamente, sino técnicamente.
+
+Bitcoin realiza un seguimiento de un conjunto de salidas de transacciones no gastadas, sin tener que referirse a una entidad que representa un bitcoin. La existencia de un bitcoin se infiere observando el conjunto de salidas de transacciones no gastadas y llamando a cada entrada con 100 millones de unidades base de bitcoin.
+
+“¿Dónde está, en este momento, en tránsito? […] Primero, no hay bitcoins. Simplemente no hay, no existen Hay entradas de libro contable en un libro contable que se comparte […] No existen en ninguna ubicación física. El libro contable existe en cada ubicación física esencialmente. La geografía no tiene sentido aquí — No te ayudará a entender tu política aquí”.
+
+— Peter Van Valkenburgh
+
+Entonces, ¿qué es lo que realmente tienes cuando dices “Tengo un bitcoin” si no hay bitcoins? Bueno, ¿recuerdas todas estas palabras extrañas que te obligaron a escribir en la billetera que usaste? Resulta que estas palabras mágicas son lo que tienes: un hechizo mágico que se puede usar para agregar algunas entradas al libro mayor público: las claves para “mover” algunos bitcoins. Es por esto que, para todos los propósitos, tus claves privadas son tus bitcoins. Si crees que estoy inventando todo esto, no dudes en enviarme tus claves privadas.
+
+Bitcoin me enseñó que la localidad es un asunto difícil.
+
+Lección 6: El poder de la libertad de expresión
+Bitcoin es una idea. Una idea que, en su forma actual, es la manifestación de una maquinaria puramente alimentada por texto. Cada aspecto de Bitcoin es texto: el documento técnico es texto. El software que se ejecuta por sus nodos es texto. El libro mayor es texto. Las transacciones son texto. Las claves públicas y privadas son texto. Cada aspecto de Bitcoin es texto, y por lo tanto equivalente al discurso.
+
+“El Congreso no hará ninguna ley que relativa el establecimiento de una religión o que prohíba el libre ejercicio de la misma; o recortando la libertad de expresión, o de la prensa; o el derecho del pueblo a reunirse pacíficamente, y solicitar al Gobierno una reparación”.
+
+— Primera Enmienda a la Constitución de los Estados Unidos.
+
+Aunque la batalla final de Crypto Wars aún no se ha librado, será muy difícil criminalizar una idea, y mucho menos una idea basada en el intercambio de mensajes de texto. Cada vez que un gobierno intenta prohibir un texto o un discurso, nos deslizamos por un camino de absurdo que inevitablemente lleva a abominaciones como números ilegales y primos ilegales.
+
+Mientras haya una parte del mundo donde el habla sea libre y en libertad, Bitcoin es imparable.
+
+“No tiene sentido en ninguna transacción de Bitcoin que Bitcoin deje de ser texto. Es todo texto, todo el tiempo. […]
+
+Bitcoin es texto. Bitcoin es discurso. No se puede regular en un país libre como los EE. UU. con derechos inalienables garantizados y una Primera Enmienda que excluye explícitamente el acto de publicación de la supervisión gubernamental”.
+
+— Beautyon
+
+Bitcoin me enseñó que en una sociedad libre, la libertad de expresión y el software libre son imparables.
+
+Lección 7: Los límites del conocimiento
+Entrar en Bitcoin es una experiencia de humildad. Pensé que sabía cosas. Pensé que me había educado. Pensé por lo menos conocía sobre informática. La estudié durante años, así que tengo que saberlo todo sobre firmas digitales, hashes, encriptación, seguridad operativa y redes, ¿verdad?
+
+Incorrecto.
+
+Aprender todos los fundamentos que hacen que Bitcoin funcione es difícil. Entenderlos a todos profundamente está en el límite de lo imposible.
+
+“Nadie ha encontrado el fondo del agujero de conejo de Bitcoin”.
+
+— Jameson Lopp
+
+Mi lista de libros para leer continúa expandiéndose mucho más rápido de lo que posiblemente pueda leerlos. La lista de artículos y notas para leer es virtualmente interminable. Hay más podcasts sobre todos estos temas de los que podría escuchar. Realmente es humillante. Además, Bitcoin está evolucionando y es casi imposible mantenerse al día con el ritmo acelerado de la innovación. El polvo de la primera capa aún no se ha asentado y gente ya construyó la segunda capa y está trabajando en la tercera.
+
+Bitcoin me enseñó que sé muy poco acerca de casi cualquier cosa. Me enseñó que este agujero de conejo no tiene fondo.
+
+Conclusión
+Bitcoin es un hijo de internet. Aunque requiere que las computadoras funcionen de manera eficiente, la informática no es suficiente para entenderlo. Las implicaciones de esta nueva tecnología son de gran alcance. Bitcoin no solo no tiene fronteras, sino que tampoco tiene fronteras con respecto a las disciplinas académicas.
+
+En esta primera parte de las Enseñanzas de Bitcoin traté de esbozar algunas de las implicaciones filosóficas de esta fascinante maquinaria. En la segunda parte trataré de discutir lo que Bitcoin me enseñó sobre economía. La tercera parte concluirá esta serie para mostrar lo que yo, un tecnólogo, he aprendido desde la perspectiva de la tecnología al tropezar con Bitcoin.
+
+Como se mencionó anteriormente, creo que cualquier respuesta a la pregunta “¿Qué has aprendido de Bitcoin?” Siempre estará incompleta. Los sistemas son demasiado dinámicos, el espacio se mueve demasiado rápido y los temas son demasiado numerosos. Política, teoría de juegos, historia monetaria, teoría de redes, finanzas, criptografía, teoría de la información, censura, ley y regulación, organización humana, psicología: todas estas y otras son áreas de especialización que pueden ayudar a comprender qué es Bitcoin.
+
+¿Qué has aprendido tu de Bitcoin?
