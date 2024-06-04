@@ -1,24 +1,20 @@
-## Why Bitcoin-Multilingual
+## Why localize-bitcoin
 
 "I really think that in many ways, **Bitcoin, at least for now, is too English language centric** and Western development centric to really be able to offer that relief valve." - Andreas Antonopolous 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bitcoin is a strange game where the only winning move is to play. <a href="https://t.co/dKpVK4R1G4">pic.twitter.com/dKpVK4R1G4</a></p>&mdash; Bitstein (@bitstein) <a href="https://twitter.com/bitstein/status/1084919665208504321?ref_src=twsrc%5Etfw">January 14, 2019</a></blockquote> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I would amend his statement like this: "Bitcoin is a **GLOBAL** game where the only winning move is to play." As Bitcoin software and information becomes available in more languages, its decentralization and game theory improves.
-
-Let's make the game theory clear to everyone in their native language.
+As Bitcoin software and information becomes available in more languages, its decentralization and game theoretic landscape improves. Let's make the game theory clear to everyone in their native language.
 
 ![Banning Bitcoin Prisoner's Dilemma](banning-bitcoin-prisoners-dilemma.png)
 [Parker Lewis: Bitcoin Cannot Be Banned](https://unchained-capital.com/blog/bitcoin-cannot-be-banned/)
 
-Make it easier for everyone around the world to run a full node in their own language.
+Make it easier for everyone around the world to understand bitcoin, self-custody, and run a full node in their own language.
+
+This repository is a collection of my translation memory alignments and terminology work from localizebitcoin.com (no longer active).
 
 ![Bitnodes](bitnodes.png)
-
-## El Salvador Bitcoin Law
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">He enviado el anteproyecto de la <a href="https://twitter.com/hashtag/LeyBitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#LeyBitcoin</a> a la <a href="https://twitter.com/AsambleaSV?ref_src=twsrc%5Etfw">@AsambleaSV</a>. <a href="https://t.co/9vFztvvryG">pic.twitter.com/9vFztvvryG</a></p>&mdash; Nayib Bukele 🇸🇻 (@nayibbukele) <a href="https://twitter.com/nayibbukele/status/1402442597235310596?ref_src=twsrc%5Etfw">June 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Bisq
 
